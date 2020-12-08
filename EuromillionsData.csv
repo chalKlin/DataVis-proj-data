@@ -1,4 +1,4 @@
-Draw Number,Draw Day,Date of Draw,Balls,Jackpot Size (m),Draw Sales (m),Jackpot Winners,Runners Up,Tier 1,Tier 2,Tier 3,Tier 4,Tier 5,Tier 6,Tier 7,Tier 8,Tier 9,Tier 10,Tier 11,Total Winners (m)
+Draw Number,Draw Day,Time (Oct 16 onwards),Balls,Jackpot Size (m),Draw Sales (m),Jackpot Winners,Runners Up,Tier 1,Tier 2,Tier 3,Tier 4,Tier 5,Tier 6,Tier 7,Tier 8,Tier 9,Tier 10,Tier 11,Total Winners (m)
 1378,Fri,04-Dec-20,14  20  27  34  38  -  01  11,180.8,118.873045,0,6,26,76,1747,3422,4703,50925,77496,204601,271544,1107720,2840869,4.563135
 1377,Tue,01-Dec-20,14  20  29  47  49  -  04  12,160.906372,67.973828,0,3,6,53,821,1848,1967,26355,39794,97165,143597,606731,1502470,2.42081
 1376,Fri,27-Nov-20,2  5  8  14  16  -  08  09,146.729731,80.86539,0,3,28,90,2157,2979,4312,40603,77208,153979,196484,976295,1999670,3.453808
@@ -437,4 +437,3 @@ Draw Number,Draw Day,Date of Draw,Balls,Jackpot Size (m),Draw Sales (m),Jackpot 
 943,Tue,04-Oct-16,4  7  14  34  38  -  04  11,124.041722,70.457205,0,7,11,56,1345,2483,2789,34247,58969,126962,172852,764835,1770619,2.935175
 942,Fri,30-Sep-16,17  35  37  43  44  -  02  10,112.697,106.633158,0,6,15,84,1516,3493,3456,51239,71403,169033,269403,1031101,2427770,4.028519
 941,Tue,27-Sep-16,6  9  13  39  41  -  02  12,14.671,38.443084,0,3,7,21,536,877,1554,13715,25400,72147,70688,368993,1018716,1.572657
-,,,,,,,,,,,,,,,,,,,
