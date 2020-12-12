@@ -1,4 +1,4 @@
-Draw Number,Draw Day,Sales for,Time,Balls,Jackpot Size (m),Draw Sales (m),Sales Above or Below Average,Jackpot Winners,Jackpot Won (with num),Jackpot Won,Runners Up,Tier 1,Tier 2,Tier 3,Total Winners,Total Winners (thousands),Number of Winners Above or Below Average
+Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Draw Sales (m),Sales Above or Below Average,Jackpot Winners,Jackpot Won (with num),Jackpot Won,Runners Up,Tier 1,Tier 2,Tier 3,Total Winners,Total Winners (thousands),Number of Winners Above or Below Average
 2604,Saturdays,Saturday,05-Dec-20,13  38  47  51  52  59  -  18,4.109513,21.54763,Above,0,No,No,3,54,3126,73700,76883,76.883,Below
 2603,Wednesdays,Wednesday,02-Dec-20,16  22  26  38  39  47  -  48,2,12.7,Below,0,No,No,1,37,2939,68998,71975,71.975,Below
 2602,Saturdays,Saturday,28-Nov-20,9  27  35  45  46  57  -  32,12.032594,28.309662,Above,0,No,No,1,72,5358,135673,141104,141.104,Above
