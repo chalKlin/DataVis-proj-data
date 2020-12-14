@@ -1,5 +1,5 @@
-Day,Type,Average (m)
-Wednesday,Jackpot,7.989620639
-Wednesday,Sales,14.19973252
-Saturday,Jackpot,8.897539228
-Saturday,Sales,22.93433225
+Day,Type,Average Jackpot (m),Average Sales (m)
+Wednesday,Jackpot,7.989620639,0
+Wednesday,Sales,0,14.19973252
+Saturday,Jackpot,8.897539228,0
+Saturday,Sales,0,22.93433225
