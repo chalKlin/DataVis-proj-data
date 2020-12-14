@@ -1,3 +1,5 @@
-Day,Average Jackpot (m),Average Sales (m),JpD,SD
-Wednesday,7.989620639,14.19973252,Wed Jackpot,Wed Sales
-Saturday,8.897539228,22.93433225,Sat Jackpot,Sat Sales
+Day,Type,Average (m)
+Wednesday,Jackpot,7.989620639
+Wednesday,Sales,14.19973252
+Saturday,Jackpot,8.897539228
+Saturday,Sales,22.93433225
