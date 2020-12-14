@@ -1,3 +1,5 @@
-Day,Average Jackpot (m),Average Sales (m)
-Tuesday,,
-Friday,,
+Day,Type,Average Jackpot (m),Average Sales (m)
+Tuesday,Jackpot,53.51297696,0
+Tuesday,Sales,0,41.18114553
+Friday,Jackpot,54.4792573,0
+Friday,Sales,0,56.06159195
