@@ -1,439 +1,439 @@
 Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sales,Jackpot Winners,Jackpot Won (with num),Total Winners,Total Winners (thousands),Number of Winners Above or Below Average
 1,Below Average,11.646242,2531,Wednesdays,Wednesday,25-Mar-20,11  24  25  39  53  57  -  9,4.940167,4940167,11646242,0,No,47338,47.338,Below Average
-1.1,Below Average,12.108756,2327,Wednesdays,Wednesday,11-Apr-18,21  25  32  52  56  59  -  28,1.795273,1795273,12108756,0,No,38388,38.388,Below Average
-1.2,Below Average,12.23004,2319,Wednesdays,Wednesday,14-Mar-18,7  19  38  45  47  53  -  15,1.813255,1813255,12230040,0,No,61847,61.847,Below Average
-1.3,Below Average,12.23744,2323,Wednesdays,Wednesday,28-Mar-18,2  6  7  15  52  54  -  45,1.855785,1855785,12237440,0,No,62255,62.255,Below Average
-1.4,Below Average,12.252494,2341,Wednesdays,Wednesday,30-May-18,4  5  8  26  32  39  -  16,1.816584,1816584,12252494,0,No,89464,89.464,Below Average
-1.5,Below Average,12.323308,2357,Wednesdays,Wednesday,25-Jul-18,5  19  20  23  30  43  -  6,1.827083,1827083,12323308,0,No,99716,99.716,Above Average
-1.6,Below Average,12.358178,2329,Wednesdays,Wednesday,18-Apr-18,4  11  21  39  41  59  -  58,6.265709,6265709,12358178,0,No,65364,65.364,Below Average
-1.7,Below Average,12.513248,2287,Wednesdays,Wednesday,22-Nov-17,2  16  17  27  36  37  -  42,1.855244,1855244,12513248,0,No,85323,85.323,Below Average
-1.8,Below Average,12.554046,2259,Wednesdays,Wednesday,16-Aug-17,7  17  28  43  44  45  -  54,1.903798,1903798,12554046,1,Yes (1),91347,91.347,Below Average
-1.9,Below Average,12.592688,2337,Wednesdays,Wednesday,16-May-18,4  22  26  32  48  54  -  57,1.909658,1909658,12592688,0,No,60484,60.484,Below Average
-2,Below Average,12.603304,2367,Wednesdays,Wednesday,29-Aug-18,19  23  30  50  51  54  -  55,5.055854,5055854,12603304,0,No,44818,44.818,Below Average
-2.1,Below Average,12.606394,2537,Wednesdays,Wednesday,15-Apr-20,25  37  38  43  54  57  -  17,5.034166,5034166,12606394,0,No,47074,47.074,Below Average
-2.2,Below Average,12.639134,2343,Wednesdays,Wednesday,06-Jun-18,12  22  31  35  42  58  -  55,6.501413,6501413,12639134,0,No,61380,61.38,Below Average
-2.3,Below Average,12.687858,2339,Wednesdays,Wednesday,23-May-18,1  15  17  32  36  45  -  5,6.438596,6438596,12687858,0,No,68694,68.694,Below Average
-2.4,Below Average,12.7,2391,Wednesdays,Wednesday,21-Nov-18,24  31  35  42  46  53  -  9,2,2000000,12700000,0,No,51702,51.702,Below Average
-2.5,Below Average,12.7,2393,Wednesdays,Wednesday,28-Nov-18,36  39  45  46  48  52  -  38,2,2000000,12700000,0,No,44528,44.528,Below Average
-2.6,Below Average,12.7,2397,Wednesdays,Wednesday,12-Dec-18,3  22  31  46  51  59  -  53,2,2000000,12700000,0,No,48357,48.357,Below Average
-2.7,Below Average,12.7,2401,Wednesdays,Wednesday,26-Dec-18,7  14  35  45  54  58  -  1,2,2000000,12700000,0,No,58396,58.396,Below Average
-2.8,Below Average,12.7,2425,Wednesdays,Wednesday,20-Mar-19,2  19  35  53  56  58  -  12,2,2000000,12700000,0,No,44987,44.987,Below Average
-2.9,Below Average,12.7,2431,Wednesdays,Wednesday,10-Apr-19,20  22  36  42  48  49  -  30,2,2000000,12700000,0,No,63420,63.42,Below Average
-3,Below Average,12.7,2437,Wednesdays,Wednesday,01-May-19,10  12  23  29  35  57  -  9,2,2000000,12700000,0,No,73439,73.439,Below Average
-3.1,Below Average,12.7,2443,Wednesdays,Wednesday,22-May-19,7  27  31  36  37  50  -  18,2,2000000,12700000,0,No,64123,64.123,Below Average
-3.2,Below Average,12.7,2445,Wednesdays,Wednesday,29-May-19,3  15  27  32  46  53  -  57,2,2000000,12700000,1,Yes (1),61919,61.919,Below Average
-3.3,Below Average,12.7,2447,Wednesdays,Wednesday,05-Jun-19,11  20  23  32  33  56  -  25,2,2000000,12700000,1,Yes (1),59512,59.512,Below Average
-3.4,Below Average,12.7,2497,Wednesdays,Wednesday,27-Nov-19,7  16  22  39  48  55  -  50,2,2000000,12700000,0,No,67566,67.566,Below Average
-3.5,Below Average,12.7,2503,Wednesdays,Wednesday,18-Dec-19,13  15  36  44  50  56  -  45,2,2000000,12700000,1,Yes (1),51275,51.275,Below Average
-3.6,Below Average,12.7,2511,Wednesdays,Wednesday,15-Jan-20,15  25  50  52  54  55  -  28,2,2000000,12700000,0,No,40334,40.334,Below Average
-3.7,Below Average,12.7,2517,Wednesdays,Wednesday,05-Feb-20,20  31  39  42  43  48  -  1,2,2000000,12700000,1,Yes (1),56797,56.797,Below Average
-3.8,Below Average,12.7,2521,Wednesdays,Wednesday,19-Feb-20,7  18  21  27  28  48  -  10,2,2000000,12700000,0,No,109827,109.827,Above Average
-3.9,Below Average,12.7,2527,Wednesdays,Wednesday,11-Mar-20,10  39  45  46  52  54  -  12,2,2000000,12700000,0,No,45835,45.835,Below Average
-4,Below Average,12.7,2529,Wednesdays,Wednesday,18-Mar-20,3  7  11  19  27  52  -  5,1,1000000,12700000,2,Yes (2),129095,129.095,Above Average
-4.1,Below Average,12.7,2547,Wednesdays,Wednesday,20-May-20,7  24  26  37  40  57  -  44,2,2000000,12700000,0,No,63912,63.912,Below Average
-4.2,Below Average,12.7,2551,Wednesdays,Wednesday,03-Jun-20,1  2  5  11  14  33  -  48,2,2000000,12700000,1,Yes (1),124014,124.014,Above Average
-4.3,Below Average,12.7,2559,Wednesdays,Wednesday,01-Jul-20,1  8  24  27  29  55  -  4,2,2000000,12700000,0,No,85868,85.868,Below Average
-4.4,Below Average,12.7,2565,Wednesdays,Wednesday,22-Jul-20,2  7  11  23  37  45  -  19,2,2000000,12700000,1,Yes (1),117945,117.945,Above Average
-4.5,Below Average,12.7,2573,Wednesdays,Wednesday,19-Aug-20,21  22  32  36  45  50  -  5,2,2000000,12700000,0,No,52371,52.371,Below Average
-4.6,Below Average,12.7,2579,Wednesdays,Wednesday,09-Sep-20,11  13  33  48  50  56  -  55,2,2000000,12700000,0,No,55879,55.879,Below Average
-4.7,Below Average,12.7,2597,Wednesdays,Wednesday,11-Nov-20,6  36  46  49  50  59  -  38,2,2000000,12700000,0,No,50101,50.101,Below Average
-4.8,Below Average,12.7,2603,Wednesdays,Wednesday,02-Dec-20,16  22  26  38  39  47  -  48,2,2000000,12700000,0,No,71975,71.975,Below Average
-4.9,Below Average,12.716286,2389,Wednesdays,Wednesday,14-Nov-18,4  11  20  45  48  53  -  16,1.928401,1928401,12716286,0,No,63860,63.86,Below Average
-5,Below Average,12.72177,2267,Wednesdays,Wednesday,13-Sep-17,4  11  14  21  29  56  -  27,1.88616,1886160,12721770,0,No,95351,95.351,Below Average
-5.1,Below Average,12.729604,2351,Wednesdays,Wednesday,04-Jul-18,8  13  22  46  52  58  -  7,6.417197,6417197,12729604,0,No,53552,53.552,Below Average
-5.2,Below Average,12.78619,2519,Wednesdays,Wednesday,12-Feb-20,2  3  5  27  51  54  -  6,5.051768,5051768,12786190,1,Yes (1),68949,68.949,Below Average
-5.3,Below Average,12.802502,2449,Wednesdays,Wednesday,12-Jun-19,6  16  34  36  37  53  -  50,5.053365,5053365,12802502,0,No,55828,55.828,Below Average
-5.4,Below Average,12.811908,2349,Wednesdays,Wednesday,27-Jun-18,4  41  45  54  57  58  -  26,1.899524,1899524,12811908,0,No,42259,42.259,Below Average
-5.5,Below Average,12.820042,2385,Wednesdays,Wednesday,31-Oct-18,5  14  20  24  28  45  -  21,1.900729,1900729,12820042,0,No,95941,95.941,Below Average
-5.6,Below Average,12.849174,2355,Wednesdays,Wednesday,18-Jul-18,22  34  44  49  51  53  -  33,5.063895,5063895,12849174,0,No,47512,47.512,Below Average
-5.7,Below Average,12.87043,2543,Wednesdays,Wednesday,06-May-20,23  29  32  48  49  51  -  13,5.060015,5060015,12870430,0,No,55551,55.551,Below Average
-5.8,Below Average,12.91144,2313,Wednesdays,Wednesday,21-Feb-18,14  25  29  30  35  53  -  38,1.957996,1957996,12911440,0,No,62006,62.006,Below Average
-5.9,Below Average,12.925282,2363,Wednesdays,Wednesday,15-Aug-18,3  28  34  41  48  58  -  54,1.960095,1960095,12925282,0,No,55865,55.865,Below Average
-6,Below Average,12.932446,2315,Wednesdays,Wednesday,28-Feb-18,9  10  27  30  33  45  -  29,6.700919,6700919,12932446,1,Yes (1),98603,98.603,Below Average
-6.1,Below Average,12.942248,2461,Wednesdays,Wednesday,24-Jul-19,2  4  17  28  37  45  -  22,5.067046,5067046,12942248,1,Yes (1),92388,92.388,Below Average
-6.2,Below Average,12.955924,2455,Wednesdays,Wednesday,03-Jul-19,10  20  27  29  38  52  -  57,5.068385,5068385,12955924,0,No,65972,65.972,Below Average
-6.3,Below Average,12.95849,2325,Wednesdays,Wednesday,04-Apr-18,1  9  15  26  38  43  -  14,6.664434,6664434,12958490,0,No,86373,86.373,Below Average
-6.4,Below Average,12.976932,2253,Wednesdays,Wednesday,26-Jul-17,5  10  29  35  55  56  -  30,1.967928,1967928,12976932,0,No,56527,56.527,Below Average
-6.5,Below Average,12.977344,2463,Wednesdays,Wednesday,31-Jul-19,9  18  20  42  43  46  -  30,5.070482,5070482,12977344,0,No,72033,72.033,Below Average
-6.6,Below Average,12.981878,2387,Wednesdays,Wednesday,07-Nov-18,4  5  9  40  46  59  -  58,6.645866,6645866,12981878,0,No,67665,67.665,Below Average
-6.7,Below Average,12.984638,2427,Wednesdays,Wednesday,27-Mar-19,13  18  25  35  39  50  -  21,5.391107,5391107,12984638,0,No,58902,58.902,Below Average
-6.8,Below Average,12.998856,2439,Wednesdays,Wednesday,08-May-19,16  19  31  35  45  56  -  59,5.656449,5656449,12998856,0,No,57843,57.843,Below Average
-6.9,Below Average,13.029764,2279,Wednesdays,Wednesday,25-Oct-17,1  3  11  37  49  58  -  21,1.931824,1931824,13029764,0,No,76160,76.16,Below Average
-7,Below Average,13.062534,2493,Wednesdays,Wednesday,13-Nov-19,1  2  7  9  44  55  -  39,5.078822,5078822,13062534,0,No,96644,96.644,Below Average
-7.1,Below Average,13.067242,2317,Wednesdays,Wednesday,07-Mar-18,8  10  22  37  55  57  -  29,5.120878,5120878,13067242,0,No,57618,57.618,Below Average
-7.2,Below Average,13.097354,2433,Wednesdays,Wednesday,17-Apr-19,8  23  28  42  43  51  -  52,5.378892,5378892,13097354,0,No,69451,69.451,Below Average
-7.3,Below Average,13.098542,2245,Wednesdays,Wednesday,28-Jun-17,2  10  21  23  54  56  -  44,1.98637,1986370,13098542,0,No,64384,64.384,Below Average
-7.4,Below Average,13.112308,2533,Wednesdays,Wednesday,01-Apr-20,4  16  17  22  27  52  -  30,8.061599,8061599,13112308,0,No,88248,88.248,Below Average
-7.5,Below Average,13.114116,2399,Wednesdays,Wednesday,19-Dec-18,12  24  33  34  39  56  -  38,5.341733,5341733,13114116,0,No,58364,58.364,Below Average
-7.6,Below Average,13.135822,2261,Wednesdays,Wednesday,23-Aug-17,8  16  21  41  44  56  -  45,5.372825,5372825,13135822,0,No,67559,67.559,Below Average
-7.7,Below Average,13.137958,2305,Wednesdays,Wednesday,24-Jan-18,1  22  39  44  48  59  -  5,1.992347,1992347,13137958,0,No,57273,57.273,Below Average
-7.8,Below Average,13.14416,2299,Wednesdays,Wednesday,03-Jan-18,11  19  20  30  35  49  -  44,5.421027,5421027,13144160,0,No,86040,86.04,Below Average
-7.9,Below Average,13.16211,2225,Wednesdays,Wednesday,19-Apr-17,4  27  47  54  55  59  -  45,1.951446,1951446,13162110,0,No,45662,45.662,Below Average
-8,Below Average,13.169288,2255,Wednesdays,Wednesday,02-Aug-17,4  6  24  35  45  52  -  8,6.863927,6863927,13169288,0,No,63811,63.811,Below Average
-8.1,Below Average,13.189212,2307,Wednesdays,Wednesday,31-Jan-18,5  19  21  42  44  57  -  18,6.851294,6851294,13189212,0,No,77247,77.247,Below Average
-8.2,Below Average,13.21176,2289,Wednesdays,Wednesday,29-Nov-17,20  32  42  43  53  58  -  8,6.649202,6649202,13211760,0,No,42868,42.868,Below Average
-8.3,Below Average,13.21823,2381,Wednesdays,Wednesday,17-Oct-18,1  5  6  20  51  54  -  56,9.590134,9590134,13218230,0,No,66991,66.991,Below Average
-8.4,Below Average,13.222514,2359,Wednesdays,Wednesday,01-Aug-18,15  17  18  34  46  54  -  4,6.457803,6457803,13222514,0,No,57068,57.068,Below Average
-8.5,Below Average,13.225284,2379,Wednesdays,Wednesday,10-Oct-18,10  49  50  53  54  56  -  4,5.382585,5382585,13225284,0,No,42210,42.21,Below Average
-8.6,Below Average,13.23908,2469,Wednesdays,Wednesday,21-Aug-19,11  14  26  51  53  58  -  30,5.096106,5096106,13239080,0,No,49835,49.835,Below Average
-8.7,Below Average,13.274586,2591,Wednesdays,Wednesday,21-Oct-20,9  12  27  28  29  44  -  8,5.099582,5099582,13274586,0,No,117821,117.821,Above Average
-8.8,Below Average,13.274914,2513,Wednesdays,Wednesday,22-Jan-20,19  23  25  29  30  36  -  14,5.34303,5343030,13274914,0,No,89022,89.022,Below Average
-8.9,Below Average,13.279642,2499,Wednesdays,Wednesday,04-Dec-19,9  13  21  25  28  31  -  1,5.434036,5434036,13279642,0,No,116890,116.89,Above Average
-9,Below Average,13.283802,2209,Wednesdays,Wednesday,22-Feb-17,1  16  28  31  38  54  -  5,2.014488,2014488,13283802,0,No,65661,65.661,Below Average
-9.1,Below Average,13.286218,2321,Wednesdays,Wednesday,21-Mar-18,2  35  44  51  54  55  -  45,6.530267,6530267,13286218,0,No,44805,44.805,Below Average
-9.2,Below Average,13.308846,2569,Wednesdays,Wednesday,05-Aug-20,1  28  42  43  51  58  -  36,5.102936,5102936,13308846,0,No,48234,48.234,Below Average
-9.3,Below Average,13.354066,2487,Wednesdays,Wednesday,23-Oct-19,5  29  30  39  53  58  -  19,5.107363,5107363,13354066,0,No,52717,52.717,Below Average
-9.4,Below Average,13.357774,2407,Wednesdays,Wednesday,16-Jan-19,1  12  44  48  54  55  -  8,5.107726,5107726,13357774,0,No,53763,53.763,Below Average
-9.5,Below Average,13.36424,2509,Wednesdays,Wednesday,08-Jan-20,2  23  42  47  50  59  -  32,5.108359,5108359,13364240,0,No,53372,53.372,Below Average
-9.6,Below Average,13.386668,2219,Wednesdays,Wednesday,29-Mar-17,5  6  16  32  42  51  -  39,5.597315,5597315,13386668,0,No,69225,69.225,Below Average
-9.7,Below Average,13.415188,2475,Wednesdays,Wednesday,11-Sep-19,4  9  26  35  38  53  -  30,5.113347,5113347,13415188,0,No,69871,69.871,Below Average
-9.8,Below Average,13.42099,2217,Wednesdays,Wednesday,22-Mar-17,6  11  12  19  27  31  -  42,1.063276,1063276,13420990,3,Yes (3),149556,149.556,Above Average
-9.9,Below Average,13.446834,2413,Wednesdays,Wednesday,06-Feb-19,3  16  24  41  44  53  -  15,5.116445,5116445,13446834,0,No,68565,68.565,Below Average
-10,Below Average,13.45109,2203,Wednesdays,Wednesday,01-Feb-17,6  8  15  31  45  58  -  39,2.03929,2039290,13451090,0,No,73655,73.655,Below Average
-10.1,Below Average,13.4661,2249,Wednesdays,Wednesday,12-Jul-17,7  14  19  38  40  45  -  18,5.348763,5348763,13466100,0,No,88902,88.902,Below Average
-10.2,Below Average,13.469472,2365,Wednesdays,Wednesday,22-Aug-18,15  20  21  25  34  47  -  36,6.685121,6685121,13469472,1,Yes (1),75290,75.29,Below Average
-10.3,Below Average,13.487036,2247,Wednesdays,Wednesday,05-Jul-17,16  18  25  27  29  57  -  4,6.981548,6981548,13487036,1,Yes (1),77859,77.859,Below Average
-10.4,Below Average,13.487844,2549,Wednesdays,Wednesday,27-May-20,4  7  19  23  34  38  -  46,5.333552,5333552,13487844,0,No,111687,111.687,Above Average
-10.5,Below Average,13.494362,2395,Wednesdays,Wednesday,05-Dec-18,1  6  13  23  45  56  -  41,5.411352,5411352,13494362,0,No,81094,81.094,Below Average
-10.6,Below Average,13.495264,2185,Wednesdays,Wednesday,30-Nov-16,10  20  25  39  45  55  -  22,2.04659,2046590,13495264,0,No,63270,63.27,Below Average
-10.7,Below Average,13.535234,2181,Wednesdays,Wednesday,16-Nov-16,7  12  33  47  50  51  -  40,2.006766,2006766,13535234,0,No,58202,58.202,Below Average
-10.8,Below Average,13.538048,2263,Wednesdays,Wednesday,30-Aug-17,34  42  46  57  58  59  -  38,9.901377,9901377,13538048,0,No,43307,43.307,Below Average
-10.9,Below Average,13.544292,2269,Wednesdays,Wednesday,20-Sep-17,8  20  25  50  51  58  -  45,6.88384,6883840,13544292,0,No,47072,47.072,Below Average
-11,Below Average,13.552854,2293,Wednesdays,Wednesday,13-Dec-17,6  14  23  24  43  58  -  40,14.949598,14949598,13552854,0,No,73440,73.44,Below Average
-11.1,Below Average,13.56093,2201,Wednesdays,Wednesday,25-Jan-17,4  9  20  23  37  53  -  39,5.552469,5552469,13560930,0,No,77153,77.153,Below Average
-11.2,Below Average,13.5648,2575,Wednesdays,Wednesday,26-Aug-20,4  8  24  27  31  39  -  45,5.316218,5316218,13564800,0,No,105427,105.427,Above Average
-11.3,Below Average,13.604306,2227,Wednesdays,Wednesday,26-Apr-17,12  15  30  43  47  59  -  41,6.947106,6947106,13604306,0,No,61329,61.329,Below Average
-11.4,Below Average,13.605908,2237,Wednesdays,Wednesday,31-May-17,18  23  28  52  56  59  -  36,5.558072,5558072,13605908,0,No,49124,49.124,Below Average
-11.5,Below Average,13.613936,2345,Wednesdays,Wednesday,13-Jun-18,5  15  22  33  38  45  -  11,10.785901,10785901,13613936,0,No,90068,90.068,Below Average
-11.6,Below Average,13.626376,2281,Wednesdays,Wednesday,01-Nov-17,13  14  18  19  21  36  -  53,6.867823,6867823,13626376,0,No,96455,96.455,Below Average
-11.7,Below Average,13.630694,2581,Wednesdays,Wednesday,16-Sep-20,16  20  29  33  47  49  -  45,5.386435,5386435,13630694,0,No,72479,72.479,Below Average
-11.8,Below Average,13.656506,2195,Wednesdays,Wednesday,04-Jan-17,10  29  37  42  48  49  -  32,2.024754,2024754,13656506,0,No,71918,71.918,Below Average
-11.9,Below Average,13.680828,2567,Wednesdays,Wednesday,29-Jul-20,1  24  39  46  49  52  -  51,5.139353,5139353,13680828,1,Yes (1),57581,57.581,Below Average
-12,Below Average,13.682198,2179,Wednesdays,Wednesday,09-Nov-16,12  13  30  34  39  52  -  38,2.075555,2075555,13682198,0,No,57535,57.535,Below Average
-12.1,Below Average,13.726884,2419,Wednesdays,Wednesday,27-Feb-19,19  20  22  31  51  54  -  16,5.143862,5143862,13726884,0,No,57066,57.066,Below Average
-12.2,Below Average,13.73664,2251,Wednesdays,Wednesday,19-Jul-17,2  6  14  16  25  36  -  42,9.855934,9855934,13736640,0,No,112198,112.198,Above Average
-12.3,Below Average,13.73831,2291,Wednesdays,Wednesday,06-Dec-17,3  19  24  31  50  52  -  16,10.999536,10999536,13738310,0,No,66160,66.16,Below Average
-12.4,Below Average,13.760122,2561,Wednesdays,Wednesday,08-Jul-20,5  18  22  31  50  59  -  30,5.423577,5423577,13760122,0,No,66159,66.159,Below Average
-12.5,Below Average,13.76116,2353,Wednesdays,Wednesday,11-Jul-18,8  11  17  25  33  46  -  13,10.596472,10596472,13761160,1,Yes (1),109645,109.645,Above Average
-12.6,Below Average,13.765098,2523,Wednesdays,Wednesday,26-Feb-20,19  20  27  49  52  57  -  4,5.446003,5446003,13765098,0,No,55801,55.801,Below Average
-12.7,Below Average,13.770726,2571,Wednesdays,Wednesday,12-Aug-20,6  8  27  31  37  51  -  20,8.52692,8526920,13770726,0,No,74790,74.79,Below Average
-12.8,Below Average,13.774026,2369,Wednesdays,Wednesday,05-Sep-18,12  18  22  23  48  59  -  47,9.394412,9394412,13774026,0,No,75586,75.586,Below Average
-12.9,Below Average,13.791226,2599,Wednesdays,Wednesday,18-Nov-20,18  26  27  28  41  54  -  45,5.47908,5479080,13791226,0,No,67685,67.685,Below Average
-13,Below Average,13.800786,2457,Wednesdays,Wednesday,10-Jul-19,4  10  11  17  53  54  -  6,8.512227,8512227,13800786,0,No,77349,77.349,Below Average
-13.1,Below Average,13.823708,2301,Wednesdays,Wednesday,10-Jan-18,6  11  27  29  40  55  -  45,9.933511,9933511,13823708,0,No,83374,83.374,Below Average
-13.2,Below Average,13.846502,2257,Wednesdays,Wednesday,09-Aug-17,5  9  25  34  51  59  -  44,11.39881,11398810,13846502,0,No,62368,62.368,Below Average
-13.3,Below Average,13.866374,2553,Wednesdays,Wednesday,10-Jun-20,20  26  50  51  55  57  -  40,5.157518,5157518,13866374,0,No,46500,46.5,Below Average
-13.4,Below Average,13.879744,2451,Wednesdays,Wednesday,19-Jun-19,22  26  31  39  47  55  -  35,8.51303,8513030,13879744,0,No,62488,62.488,Below Average
-13.5,Below Average,13.890368,2403,Wednesdays,Wednesday,02-Jan-19,8  9  10  35  40  53  -  21,5.502058,5502058,13890368,0,No,70745,70.745,Below Average
-13.6,Below Average,13.89354,2331,Wednesdays,Wednesday,25-Apr-18,5  14  18  40  41  50  -  12,10.50916,10509160,13893540,0,No,66306,66.306,Below Average
-13.7,Below Average,13.94147,2481,Wednesdays,Wednesday,02-Oct-19,13  15  20  37  42  47  -  49,5.16487,5164870,13941470,0,No,71862,71.862,Below Average
-13.8,Below Average,13.943534,2587,Wednesdays,Wednesday,07-Oct-20,12  18  37  52  56  58  -  53,5.39791,5397910,13943534,0,No,51571,51.571,Below Average
-13.9,Below Average,13.95193,2495,Wednesdays,Wednesday,20-Nov-19,8  17  31  47  49  52  -  12,8.602997,8602997,13951930,0,No,72036,72.036,Below Average
-14,Below Average,14.005308,2283,Wednesdays,Wednesday,08-Nov-17,2  17  25  32  42  49  -  4,11.389307,11389307,14005308,0,No,90658,90.658,Below Average
-14.1,Below Average,14.02625,2309,Wednesdays,Wednesday,07-Feb-18,5  19  29  34  40  45  -  57,11.404833,11404833,14026250,0,No,82332,82.332,Below Average
-14.2,Below Average,14.041706,2539,Wednesdays,Wednesday,22-Apr-20,3  8  18  47  50  59  -  12,8.381216,8381216,14041706,0,No,64707,64.707,Below Average
-14.3,Below Average,14.058028,2471,Wednesdays,Wednesday,28-Aug-19,1  40  41  49  52  57  -  43,8.736316,8736316,14058028,0,No,49746,49.746,Below Average
-14.4,Below Average,14.092038,2371,Wednesdays,Wednesday,12-Sep-18,11  12  13  14  54  56  -  36,13.945461,13945461,14092038,0,No,60736,60.736,Below Average
-14.5,Below Average,14.137848,2239,Wednesdays,Wednesday,07-Jun-17,6  8  12  36  37  41  -  50,10.140252,10140252,14137848,0,No,91798,91.798,Below Average
-14.6,Below Average,14.162306,2271,Wednesdays,Wednesday,27-Sep-17,30  35  45  47  52  55  -  40,11.455122,11455122,14162306,0,No,50077,50.077,Below Average
-14.7,Below Average,14.178908,2197,Wednesdays,Wednesday,11-Jan-17,21  26  29  35  46  59  -  10,7.291956,7291956,14178908,0,No,57724,57.724,Below Average
-14.8,Below Average,14.181468,2383,Wednesdays,Wednesday,24-Oct-18,9  22  32  40  51  59  -  17,14.098451,14098451,14181468,0,No,53577,53.577,Below Average
-14.9,Below Average,14.224374,2211,Wednesdays,Wednesday,01-Mar-17,2  7  21  22  47  53  -  42,7.199492,7199492,14224374,0,No,90691,90.691,Below Average
-15,Below Average,14.228786,2205,Wednesdays,Wednesday,08-Feb-17,7  23  41  44  49  54  -  37,7.267133,7267133,14228786,0,No,72869,72.869,Below Average
-15.1,Below Average,14.268346,2489,Wednesdays,Wednesday,30-Oct-19,2  8  19  41  51  56  -  23,8.609036,8609036,14268346,0,No,64102,64.102,Below Average
-15.2,Below Average,14.30004,2465,Wednesdays,Wednesday,07-Aug-19,7  11  36  44  52  58  -  31,8.607863,8607863,14300040,0,No,74150,74.15,Below Average
-15.3,Below Average,14.330938,2373,Wednesdays,Wednesday,19-Sep-18,7  20  25  26  34  40  -  59,17.572057,17572057,14330938,0,No,86516,86.516,Below Average
-15.4,Below Average,14.33773,2311,Wednesdays,Wednesday,14-Feb-18,2  8  33  46  48  50  -  5,15.575114,15575114,14337730,0,No,68021,68.021,Below Average
-15.5,Below Average,14.350234,2347,Wednesdays,Wednesday,20-Jun-18,15  22  26  35  41  43  -  1,14.768674,14768674,14350234,0,No,75167,75.167,Below Average
-15.6,Below Average,14.396476,2429,Wednesdays,Wednesday,03-Apr-19,5  9  17  26  35  52  -  44,9.013509,9013509,14396476,0,No,94237,94.237,Below Average
-15.7,Below Average,14.43715,2229,Wednesdays,Wednesday,03-May-17,13  22  24  34  41  57  -  40,11.684226,11684226,14437150,0,No,63743,63.743,Below Average
-15.8,Below Average,14.455016,2187,Wednesdays,Wednesday,07-Dec-16,16  27  31  32  44  58  -  42,7.215444,7215444,14455016,0,No,70276,70.276,Below Average
-15.9,Below Average,14.481128,2361,Wednesdays,Wednesday,08-Aug-18,8  19  20  27  31  34  -  7,10.956094,10956094,14481128,0,No,102009,102.009,Above Average
-16,Below Average,14.490702,2183,Wednesdays,Wednesday,23-Nov-16,2  4  8  25  38  39  -  29,7.211954,7211954,14490702,0,No,106586,106.586,Above Average
-16.1,Below Average,14.49603,2241,Wednesdays,Wednesday,14-Jun-17,2  4  14  23  34  46  -  45,14.877043,14877043,14496030,0,No,100134,100.134,Above Average
-16.2,Below Average,14.496302,2223,Wednesdays,Wednesday,12-Apr-17,3  16  34  42  49  52  -  50,15.107556,15107556,14496302,1,Yes (1),66706,66.706,Below Average
-16.3,Below Average,14.499668,2265,Wednesdays,Wednesday,06-Sep-17,16  30  34  50  52  53  -  46,14.460089,14460089,14499668,0,No,47350,47.35,Below Average
-16.4,Below Average,14.508298,2213,Wednesdays,Wednesday,08-Mar-17,11  19  22  42  43  49  -  48,12.020527,12020527,14508298,0,No,93518,93.518,Below Average
-16.5,Below Average,14.518994,2175,Wednesdays,Wednesday,26-Oct-16,5  11  27  29  52  53  -  13,5.84584,5845840,14518994,0,No,78437,78.437,Below Average
-16.6,Below Average,14.527818,2285,Wednesdays,Wednesday,15-Nov-17,2  11  22  36  51  59  -  7,15.654281,15654281,14527818,0,No,66661,66.661,Below Average
-16.7,Below Average,14.538058,2221,Wednesdays,Wednesday,05-Apr-17,10  16  18  32  42  45  -  30,10.353081,10353081,14538058,0,No,86051,86.051,Below Average
-16.8,Below Average,14.578614,2333,Wednesdays,Wednesday,02-May-18,4  8  10  26  38  48  -  41,14.638953,14638953,14578614,0,No,112689,112.689,Above Average
-16.9,Below Average,14.58003,2441,Wednesdays,Wednesday,15-May-19,8  11  18  39  44  50  -  23,9.288519,9288519,14580030,0,No,84304,84.304,Below Average
-17,Below Average,14.622528,2335,Wednesdays,Wednesday,09-May-18,18  21  25  30  56  59  -  5,18.418082,18418082,14622528,0,No,64972,64.972,Below Average
-17.1,Below Average,14.6243,2409,Wednesdays,Wednesday,23-Jan-19,5  27  30  41  45  58  -  38,8.792887,8792887,14624300,0,No,71244,71.244,Below Average
-17.2,Below Average,14.627294,2583,Wednesdays,Wednesday,23-Sep-20,8  17  28  35  47  51  -  52,8.998696,8998696,14627294,0,No,79601,79.601,Below Average
-17.3,Below Average,14.635934,2435,Wednesdays,Wednesday,24-Apr-19,22  29  35  41  43  51  -  42,8.964024,8964024,14635934,0,No,60820,60.82,Below Average
-17.4,Below Average,14.665648,2525,Wednesdays,Wednesday,04-Mar-20,4  7  14  19  50  56  -  8,9.06539,9065390,14665648,0,No,84167,84.167,Below Average
-17.5,Below Average,14.682492,2593,Wednesdays,Wednesday,28-Oct-20,11  18  27  38  47  59  -  14,8.69217,8692170,14682492,0,No,81485,81.485,Below Average
-17.6,Below Average,14.69047,2477,Wednesdays,Wednesday,18-Sep-19,1  25  28  34  39  57  -  50,8.712337,8712337,14690470,0,No,63438,63.438,Below Average
-17.7,Below Average,14.70619,2199,Wednesdays,Wednesday,18-Jan-17,8  14  20  27  28  53  -  45,6.103436,6103436,14706190,2,Yes (2),92961,92.961,Below Average
-17.8,Below Average,14.720246,2589,Wednesdays,Wednesday,14-Oct-20,9  12  28  31  46  50  -  10,8.996243,8996243,14720246,1,Yes (1),83239,83.239,Below Average
-17.9,Below Average,14.784932,2207,Wednesdays,Wednesday,15-Feb-17,17  23  28  38  47  56  -  31,12.11823,12118230,14784932,0,No,76303,76.303,Below Average
-18,Below Average,14.789416,2295,Wednesdays,Wednesday,20-Dec-17,10  20  28  38  41  46  -  16,18.61472,18614720,14789416,0,No,78497,78.497,Below Average
-18.1,Below Average,14.810818,2555,Wednesdays,Wednesday,17-Jun-20,2  9  33  39  48  54  -  43,8.705423,8705423,14810818,0,No,72076,72.076,Below Average
-18.2,Below Average,14.816708,2189,Wednesdays,Wednesday,14-Dec-16,3  7  8  9  40  58  -  36,12.040376,12040376,14816708,0,No,102849,102.849,Above Average
-18.3,Below Average,14.821926,2231,Wednesdays,Wednesday,10-May-17,7  12  17  35  37  58  -  25,16.042516,16042516,14821926,0,No,86295,86.295,Below Average
-18.4,Below Average,14.86572,2545,Wednesdays,Wednesday,13-May-20,14  16  19  31  38  47  -  20,8.556588,8556588,14865720,0,No,88397,88.397,Below Average
-18.5,Below Average,14.884162,2303,Wednesdays,Wednesday,17-Jan-18,30  33  37  43  55  56  -  46,14.643856,14643856,14884162,0,No,54146,54.146,Below Average
-18.6,Below Average,14.908908,2563,Wednesdays,Wednesday,15-Jul-20,9  27  29  37  44  53  -  49,9.008155,9008155,14908908,0,No,82594,82.594,Below Average
-18.7,Below Average,14.923586,2501,Wednesdays,Wednesday,11-Dec-19,7  14  16  33  35  47  -  25,9.122574,9122574,14923586,0,No,96661,96.661,Below Average
-18.8,Below Average,14.936586,2215,Wednesdays,Wednesday,15-Mar-17,6  24  27  38  39  58  -  55,16.422135,16422135,14936586,0,No,71394,71.394,Below Average
-18.9,Below Average,14.95098,2515,Wednesdays,Wednesday,29-Jan-20,7  23  40  42  47  59  -  58,9.013157,9013157,14950980,0,No,74311,74.311,Below Average
-19,Below Average,15,2505,Wednesdays,Wednesday,25-Dec-19,5  10  11  45  54  58  -  40,15,15000000,15000000,0,No,138516,138.516,Above Average
-19.1,Below Average,15.11539,2177,Wednesdays,Wednesday,02-Nov-16,5  14  19  24  31  38  -  29,10.816275,10816275,15115390,1,Yes (1),117541,117.541,Above Average
-19.2,Below Average,15.115562,2273,Wednesdays,Wednesday,04-Oct-17,12  20  32  38  48  54  -  5,15.785809,15785809,15115562,0,No,66311,66.311,Below Average
-19.3,Below Average,15.122,2243,Wednesdays,Wednesday,21-Jun-17,1  3  5  11  15  43  -  48,18.700435,18700435,15122000,0,No,149298,149.298,Above Average
-19.4,Below Average,15.274188,2483,Wednesdays,Wednesday,09-Oct-19,14  22  40  44  55  58  -  12,8.866885,8866885,15274188,0,No,64496,64.496,Below Average
-19.5,Below Average,15.292574,2421,Wednesdays,Wednesday,06-Mar-19,2  12  15  43  46  53  -  17,8.876514,8876514,15292574,0,No,73819,73.819,Below Average
-19.6,Below Average,15.299198,2167,Wednesdays,Wednesday,28-Sep-16,19  29  37  41  51  53  -  55,11.106204,11106204,15299198,0,No,56454,56.454,Below Average
-19.7,Below Average,15.299274,2577,Wednesdays,Wednesday,02-Sep-20,11  15  45  54  55  58  -  12,9.041705,9041705,15299274,0,No,59452,59.452,Below Average
-19.8,Below Average,15.4247,2191,Wednesdays,Wednesday,21-Dec-16,10  13  22  35  42  52  -  27,16.574503,16574503,15424700,0,No,77961,77.961,Below Average
-19.9,Below Average,15.5,2585,Wednesdays,Wednesday,30-Sep-20,10  25  34  41  46  55  -  36,2,2000000,15500000,0,No,54992,54.992,Below Average
-20,Below Average,15.50568,2601,Wednesdays,Wednesday,25-Nov-20,11  18  30  33  44  55  -  48,9.261078,9261078,15505680,0,No,92095,92.095,Below Average
-20.1,Below Average,15.679438,2405,Wednesdays,Wednesday,09-Jan-19,3  17  36  42  51  57  -  18,9.370844,9370844,15679438,1,Yes (1),70006,70.006,Below Average
-20.2,Below Average,15.77469,2169,Wednesdays,Wednesday,05-Oct-16,11  16  25  37  43  44  -  39,16.333383,16333383,15774690,0,No,103908,103.908,Above Average
-20.3,Below Average,15.858136,2193,Wednesdays,Wednesday,28-Dec-16,5  40  47  48  52  54  -  33,22.170849,22170849,15858136,0,No,55981,55.981,Below Average
-20.4,Below Average,15.922002,2233,Wednesdays,Wednesday,17-May-17,3  19  20  24  30  38  -  41,20.114637,20114637,15922002,0,No,115965,115.965,Above Average
-20.5,Below Average,15.953466,2275,Wednesdays,Wednesday,11-Oct-17,17  38  49  54  55  56  -  13,19.875058,19875058,15953466,0,No,57894,57.894,Below Average
-20.6,Below Average,16,2415,Wednesdays,Wednesday,13-Feb-19,4  8  26  31  42  45  -  55,14,14000000,16000000,0,No,116210,116.21,Above Average
-20.7,Below Average,16.025528,2375,Wednesdays,Wednesday,26-Sep-18,3  8  37  39  47  59  -  42,21.555697,21555697,16025528,0,No,75063,75.063,Below Average
-20.8,Below Average,16.08573,2507,Wednesdays,Wednesday,01-Jan-20,13  20  30  38  50  55  -  5,5.374793,5374793,16085730,1,Yes (1),65194,65.194,Below Average
-20.9,Below Average,16.610102,2535,Wednesdays,Wednesday,08-Apr-20,1  4  19  20  41  45  -  7,11.735036,11735036,16610102,0,No,102749,102.749,Above Average
-21,Below Average,17.364,2171,Wednesdays,Wednesday,12-Oct-16,2  22  29  30  36  58  -  53,21.056054,21056054,17364000,0,No,88761,88.761,Below Average
-21.1,Below Average,17.69144,2423,Wednesdays,Wednesday,13-Mar-19,1  11  29  40  46  48  -  17,12.984966,12984966,17691440,0,No,96540,96.54,Below Average
-21.2,Below Average,17.778712,2453,Wednesdays,Wednesday,26-Jun-19,5  7  9  24  32  44  -  38,12.49721,12497210,17778712,0,No,147780,147.78,Above Average
-21.3,Below Average,17.85576,2411,Wednesdays,Wednesday,30-Jan-19,7  22  31  43  47  58  -  2,12.950857,12950857,17855760,0,No,92158,92.158,Below Average
-21.4,Below Average,17.86812,2459,Wednesdays,Wednesday,17-Jul-19,5  8  40  41  43  45  -  23,12.500333,12500333,17868120,0,No,98866,98.866,Below Average
-21.5,Below Average,17.882032,2491,Wednesdays,Wednesday,06-Nov-19,17  22  25  27  32  35  -  5,6.317431,6317431,17882032,2,Yes (2),106486,106.486,Above Average
-21.6,Below Average,18.321584,2473,Wednesdays,Wednesday,04-Sep-19,11  13  32  40  45  49  -  39,12.852503,12852503,18321584,0,No,98556,98.556,Below Average
-21.7,Below Average,18.535464,2467,Wednesdays,Wednesday,14-Aug-19,14  16  24  28  30  53  -  23,12.675909,12675909,18535464,0,No,102820,102.82,Above Average
-21.8,Above Average,18.58718,2485,Wednesdays,Wednesday,16-Oct-19,4  5  18  29  40  47  -  57,13.02371,13023710,18587180,0,No,115509,115.509,Above Average
-21.9,Above Average,18.771574,2532,Saturdays,Saturday,28-Mar-20,8  14  27  33  46  49  -  11,6.777904,6777904,18771574,0,No,117821,117.821,Above Average
-22,Above Average,18.90147,2541,Wednesdays,Wednesday,29-Apr-20,16  17  32  36  40  47  -  4,12.384648,12384648,18901470,0,No,99223,99.223,Below Average
-22.1,Above Average,19.036344,2479,Wednesdays,Wednesday,25-Sep-19,3  4  16  39  43  52  -  47,12.907599,12907599,19036344,0,No,93863,93.863,Below Average
-22.2,Above Average,19.458018,2557,Wednesdays,Wednesday,24-Jun-20,1  8  33  50  52  57  -  41,12.867635,12867635,19458018,0,No,78964,78.964,Below Average
-22.3,Above Average,19.877252,2417,Wednesdays,Wednesday,20-Feb-19,3  11  17  33  41  51  -  48,18.44818,18448180,19877252,0,No,115004,115.004,Above Average
-22.4,Above Average,20.029072,2173,Wednesdays,Wednesday,19-Oct-16,2  3  4  32  54  59  -  12,26.19638,26196380,20029072,1,Yes (1),86575,86.575,Below Average
-22.5,Above Average,20.146752,2538,Saturdays,Saturday,18-Apr-20,3  6  31  43  46  53  -  26,7.006533,7006533,20146752,0,No,96550,96.55,Below Average
-22.6,Above Average,20.246118,2595,Wednesdays,Wednesday,04-Nov-20,10  20  28  32  35  50  -  24,12.98018,12980180,20246118,0,No,99377,99.377,Below Average
-22.7,Above Average,20.308724,2574,Saturdays,Saturday,22-Aug-20,19  23  24  28  37  51  -  12,3.988224,3988224,20308724,0,No,106920,106.92,Above Average
-22.8,Above Average,20.562738,2548,Saturdays,Saturday,23-May-20,15  37  38  42  45  59  -  54,4.013092,4013092,20562738,0,No,84289,84.289,Below Average
-22.9,Above Average,20.764434,2586,Saturdays,Saturday,03-Oct-20,1  4  13  24  27  47  -  2,4.032838,4032838,20764434,0,No,167986,167.986,Above Average
-23,Above Average,20.77085,2377,Wednesdays,Wednesday,03-Oct-18,3  5  11  25  27  45  -  18,26.364533,26364533,20770850,0,No,178735,178.735,Above Average
-23.1,Above Average,20.814944,2528,Saturdays,Saturday,14-Mar-20,7  22  30  38  42  47  -  14,4.037783,4037783,20814944,1,Yes (1),136282,136.282,Above Average
-23.2,Above Average,20.822904,2350,Saturdays,Saturday,30-Jun-18,6  28  32  45  46  49  -  50,4.986777,4986777,20822904,0,No,110636,110.636,Above Average
-23.3,Above Average,20.85004,2544,Saturdays,Saturday,09-May-20,7  18  21  26  42  50  -  59,7.101234,7101234,20850040,0,No,134986,134.986,Above Average
-23.4,Above Average,20.872482,2512,Saturdays,Saturday,18-Jan-20,14  29  35  41  42  55  -  11,4.043416,4043416,20872482,0,No,92588,92.588,Below Average
-23.5,Above Average,20.899858,2297,Wednesdays,Wednesday,27-Dec-17,18  36  48  57  58  59  -  50,24.43052,24430520,20899858,0,No,106934,106.934,Above Average
-23.6,Above Average,20.912236,2534,Saturdays,Saturday,04-Apr-20,4  22  28  39  45  49  -  25,10.108907,10108907,20912236,0,No,119593,119.593,Above Average
-23.7,Above Average,20.960062,2580,Saturdays,Saturday,12-Sep-20,5  23  36  37  42  52  -  14,4.05199,4051990,20960062,0,No,104746,104.746,Above Average
-23.8,Above Average,21,2406,Saturdays,Saturday,12-Jan-19,13  29  32  43  49  55  -  26,3.8,3800000,21000000,0,No,98487,98.487,Below Average
-23.9,Above Average,21,2412,Saturdays,Saturday,02-Feb-19,1  6  41  53  55  59  -  20,3.8,3800000,21000000,0,No,76817,76.817,Below Average
-24,Above Average,21,2418,Saturdays,Saturday,23-Feb-19,6  9  38  40  42  48  -  57,3.8,3800000,21000000,0,No,130175,130.175,Above Average
-24.1,Above Average,21,2424,Saturdays,Saturday,16-Mar-19,6  26  32  37  42  59  -  38,3.8,3800000,21000000,1,Yes (1),100000,100,Above Average
-24.2,Above Average,21,2446,Saturdays,Saturday,01-Jun-19,8  26  36  39  40  47  -  42,3.8,3800000,21000000,1,Yes (1),105235,105.235,Above Average
-24.3,Above Average,21,2448,Saturdays,Saturday,08-Jun-19,12  13  22  37  42  55  -  43,3.8,3800000,21000000,0,No,107410,107.41,Above Average
-24.4,Above Average,21,2454,Saturdays,Saturday,29-Jun-19,11  32  43  44  47  52  -  27,3.8,3800000,21000000,0,No,100710,100.71,Above Average
-24.5,Above Average,21,2460,Saturdays,Saturday,20-Jul-19,14  18  23  28  36  37  -  32,3.8,3800000,21000000,0,No,136865,136.865,Above Average
-24.6,Above Average,21,2462,Saturdays,Saturday,27-Jul-19,14  19  30  45  48  58  -  3,3.8,3800000,21000000,0,No,94196,94.196,Below Average
-24.7,Above Average,21,2468,Saturdays,Saturday,17-Aug-19,6  9  10  41  46  58  -  45,3.8,3800000,21000000,0,No,106366,106.366,Above Average
-24.8,Above Average,21,2474,Saturdays,Saturday,07-Sep-19,3  13  27  30  32  37  -  8,3.8,3800000,21000000,0,No,143373,143.373,Above Average
-24.9,Above Average,21,2480,Saturdays,Saturday,28-Sep-19,2  19  21  23  29  42  -  26,3.8,3800000,21000000,0,No,171168,171.168,Above Average
-25,Above Average,21,2486,Saturdays,Saturday,19-Oct-19,8  15  17  31  33  52  -  13,3.8,3800000,21000000,0,No,122148,122.148,Above Average
-25.1,Above Average,21,2492,Saturdays,Saturday,09-Nov-19,2  11  16  46  51  58  -  31,3.8,3800000,21000000,0,No,92634,92.634,Below Average
-25.2,Above Average,21,2504,Saturdays,Saturday,21-Dec-19,12  27  33  36  42  45  -  26,3.8,3800000,21000000,0,No,140525,140.525,Above Average
-25.3,Above Average,21,2506,Saturdays,Saturday,28-Dec-19,1  2  12  23  41  55  -  9,3.8,3800000,21000000,0,No,121990,121.99,Above Average
-25.4,Above Average,21,2508,Saturdays,Saturday,04-Jan-20,3  13  14  34  50  51  -  11,3.8,3800000,21000000,0,No,86350,86.35,Below Average
-25.5,Above Average,21,2518,Saturdays,Saturday,08-Feb-20,8  35  42  43  54  59  -  21,3.8,3800000,21000000,0,No,79091,79.091,Below Average
-25.6,Above Average,21,2520,Saturdays,Saturday,15-Feb-20,10  11  33  41  45  54  -  18,3.8,3800000,21000000,1,Yes (1),98340,98.34,Below Average
-25.7,Above Average,21,2530,Saturdays,Saturday,21-Mar-20,12  26  29  34  56  58  -  41,3.8,3800000,21000000,0,No,81579,81.579,Below Average
-25.8,Above Average,21,2536,Saturdays,Saturday,11-Apr-20,20  28  30  31  44  55  -  50,3.8,3800000,21000000,0,No,92196,92.196,Below Average
-25.9,Above Average,21,2542,Saturdays,Saturday,02-May-20,14  18  23  39  44  52  -  47,3.8,3800000,21000000,0,No,106880,106.88,Above Average
-26,Above Average,21,2552,Saturdays,Saturday,06-Jun-20,3  6  12  17  35  40  -  33,3.8,3800000,21000000,0,No,159762,159.762,Above Average
-26.1,Above Average,21,2558,Saturdays,Saturday,27-Jun-20,2  15  19  33  37  43  -  12,7.5,7500000,21000000,2,Yes (2),161999,161.999,Above Average
-26.2,Above Average,21,2566,Saturdays,Saturday,25-Jul-20,10  13  14  18  33  34  -  15,3.8,3800000,21000000,0,No,125238,125.238,Above Average
-26.3,Above Average,21,2568,Saturdays,Saturday,01-Aug-20,4  10  13  24  53  56  -  22,3.8,3800000,21000000,0,No,101564,101.564,Above Average
-26.4,Above Average,21,2590,Saturdays,Saturday,17-Oct-20,26  32  38  41  49  51  -  46,3.8,3800000,21000000,0,No,84173,84.173,Below Average
-26.5,Above Average,21.012356,2354,Saturdays,Saturday,14-Jul-18,4  8  13  26  41  55  -  58,3.115342,3115342,21012356,0,No,125080,125.08,Above Average
-26.6,Above Average,21.02003,2398,Saturdays,Saturday,15-Dec-18,5  26  34  35  43  49  -  19,4.057861,4057861,21020030,0,No,111651,111.651,Above Average
-26.7,Above Average,21.166412,2328,Saturdays,Saturday,14-Apr-18,10  40  42  46  47  48  -  38,4.933456,4933456,21166412,0,No,95881,95.881,Below Average
-26.8,Above Average,21.172076,2352,Saturdays,Saturday,07-Jul-18,17  18  29  48  52  54  -  1,9.05621,9056210,21172076,0,No,84131,84.131,Below Average
-26.9,Above Average,21.203576,2570,Saturdays,Saturday,08-Aug-20,2  40  49  53  56  58  -  41,7.178766,7178766,21203576,0,No,69379,69.379,Below Average
-27,Above Average,21.21002,2560,Saturdays,Saturday,04-Jul-20,32  33  34  48  52  57  -  13,4.076461,4076461,21210020,0,No,77019,77.019,Below Average
-27.1,Above Average,21.231076,2338,Saturdays,Saturday,19-May-18,1  3  34  36  48  52  -  22,5.057464,5057464,21231076,0,No,93801,93.801,Below Average
-27.2,Above Average,21.296782,2392,Saturdays,Saturday,24-Nov-18,15  27  30  32  42  43  -  10,4.084955,4084955,21296782,1,Yes (1),112878,112.878,Above Average
-27.3,Above Average,21.298816,2444,Saturdays,Saturday,25-May-19,5  9  26  35  43  54  -  24,4.085154,4085154,21298816,1,Yes (1),115799,115.799,Above Average
-27.4,Above Average,21.35091,2394,Saturdays,Saturday,01-Dec-18,5  8  9  12  31  49  -  57,4.090254,4090254,21350910,0,No,205743,205.743,Above Average
-27.5,Above Average,21.376354,2456,Saturdays,Saturday,06-Jul-19,24  30  44  50  56  57  -  9,7.16113,7161130,21376354,0,No,73675,73.675,Below Average
-27.6,Above Average,21.383168,2358,Saturdays,Saturday,28-Jul-18,11  29  31  32  38  45  -  10,4.997402,4997402,21383168,0,No,120770,120.77,Above Average
-27.7,Above Average,21.416354,2432,Saturdays,Saturday,13-Apr-19,4  10  15  24  37  38  -  30,4.096661,4096661,21416354,0,No,143212,143.212,Above Average
-27.8,Above Average,21.429274,2554,Saturdays,Saturday,13-Jun-20,10  12  19  21  35  51  -  42,7.255444,7255444,21429274,0,No,123582,123.582,Above Average
-27.9,Above Average,21.434116,2522,Saturdays,Saturday,22-Feb-20,21  23  25  27  36  47  -  17,4.0984,4098400,21434116,0,No,130311,130.311,Above Average
-28,Above Average,21.45902,2450,Saturdays,Saturday,15-Jun-19,7  40  42  47  52  54  -  29,7.154203,7154203,21459020,0,No,81897,81.897,Below Average
-28.1,Above Average,21.472054,2316,Saturdays,Saturday,03-Mar-18,15  19  20  29  42  50  -  36,3.183498,3183498,21472054,0,No,104540,104.54,Above Average
-28.2,Above Average,21.472488,2330,Saturdays,Saturday,21-Apr-18,2  8  9  12  20  57  -  38,8.949271,8949271,21472488,0,No,164512,164.512,Above Average
-28.3,Above Average,21.477046,2356,Saturdays,Saturday,21-Jul-18,9  13  16  25  40  46  -  52,7.748131,7748131,21477046,1,Yes (1),138862,138.862,Above Average
-28.4,Above Average,21.497414,2366,Saturdays,Saturday,25-Aug-18,9  22  33  39  41  56  -  48,3.187258,3187258,21497414,0,No,100651,100.651,Above Average
-28.5,Above Average,21.49951,2488,Saturdays,Saturday,26-Oct-19,16  23  26  38  56  59  -  32,7.212165,7212165,21499510,0,No,89122,89.122,Below Average
-28.6,Above Average,21.54403,2344,Saturdays,Saturday,09-Jun-18,3  17  20  55  56  58  -  57,9.267495,9267495,21544030,0,No,79399,79.399,Below Average
-28.7,Above Average,21.54763,2604,Saturdays,Saturday,05-Dec-20,13  38  47  51  52  59  -  18,4.109513,4109513,21547630,0,No,76883,76.883,Below Average
-28.8,Above Average,21.553198,2342,Saturdays,Saturday,02-Jun-18,4  32  38  43  51  58  -  10,5.085086,5085086,21553198,0,No,77139,77.139,Below Average
-28.9,Above Average,21.65384,2426,Saturdays,Saturday,23-Mar-19,6  26  30  50  52  59  -  27,4.119911,4119911,21653840,0,No,79748,79.748,Below Average
-29,Above Average,21.705782,2562,Saturdays,Saturday,11-Jul-20,9  10  14  17  32  58  -  22,7.548573,7548573,21705782,0,No,123467,123.467,Above Average
-29.1,Above Average,21.736994,2368,Saturdays,Saturday,01-Sep-18,3  21  22  38  46  55  -  50,7.852229,7852229,21736994,0,No,103534,103.534,Above Average
-29.2,Above Average,21.745852,2598,Saturdays,Saturday,14-Nov-20,25  37  39  44  50  56  -  13,4.128919,4128919,21745852,0,No,83211,83.211,Below Average
-29.3,Above Average,21.77221,2364,Saturdays,Saturday,18-Aug-18,1  2  6  12  13  55  -  11,5.188105,5188105,21772210,0,No,156819,156.819,Above Average
-29.4,Above Average,21.797334,2498,Saturdays,Saturday,30-Nov-19,8  16  24  36  40  57  -  51,4.133959,4133959,21797334,0,No,115089,115.089,Above Average
-29.5,Above Average,21.822922,2510,Saturdays,Saturday,11-Jan-20,27  28  46  51  55  57  -  14,7.244823,7244823,21822922,1,Yes (1),75219,75.219,Below Average
-29.6,Above Average,21.832554,2464,Saturdays,Saturday,03-Aug-19,8  30  34  44  45  57  -  31,7.207889,7207889,21832554,0,No,96256,96.256,Below Average
-29.7,Above Average,21.88142,2402,Saturdays,Saturday,29-Dec-18,26  31  38  40  45  57  -  28,4.142191,4142191,21881420,0,No,88925,88.925,Below Average
-29.8,Above Average,21.901482,2320,Saturdays,Saturday,17-Mar-18,7  8  13  24  45  46  -  39,5.060421,5060421,21901482,0,No,156675,156.675,Above Average
-29.9,Above Average,21.905874,2380,Saturdays,Saturday,13-Oct-18,19  26  40  52  56  58  -  38,8.130368,8130368,21905874,0,No,75136,75.136,Below Average
-30,Above Average,21.96759,2550,Saturdays,Saturday,30-May-20,2  6  8  32  33  35  -  45,7.484179,7484179,21967590,1,Yes (1),135202,135.202,Above Average
-30.1,Above Average,21.984412,2434,Saturdays,Saturday,20-Apr-19,7  8  11  17  34  54  -  4,7.531166,7531166,21984412,0,No,154166,154.166,Above Average
-30.2,Above Average,21.991604,2540,Saturdays,Saturday,25-Apr-20,3  9  21  25  28  59  -  36,10.534194,10534194,21991604,0,No,154058,154.058,Above Average
-30.3,Above Average,22.014014,2592,Saturdays,Saturday,24-Oct-20,13  18  19  47  53  57  -  44,7.254754,7254754,22014014,0,No,90598,90.598,Below Average
-30.4,Above Average,22.034944,2588,Saturdays,Saturday,10-Oct-20,11  21  36  45  49  56  -  2,7.555131,7555131,22034944,0,No,103731,103.731,Above Average
-30.5,Above Average,22.045772,2494,Saturdays,Saturday,16-Nov-19,2  10  25  51  56  59  -  17,7.237103,7237103,22045772,0,No,87614,87.614,Below Average
-30.6,Above Average,22.048852,2340,Saturdays,Saturday,26-May-18,9  14  19  29  39  40  -  3,4.603805,4603805,22048852,2,Yes (2),147608,147.608,Above Average
-30.7,Above Average,22.07143,2476,Saturdays,Saturday,14-Sep-19,6  10  14  19  26  43  -  28,7.27414,7274140,22071430,0,No,179885,179.885,Above Average
-30.8,Above Average,22.099058,2386,Saturdays,Saturday,03-Nov-18,16  31  41  45  47  52  -  53,5.177188,5177188,22099058,0,No,90238,90.238,Below Average
-30.9,Above Average,22.105788,2248,Saturdays,Saturday,08-Jul-17,1  11  18  27  32  50  -  25,3.352302,3352302,22105788,0,No,130838,130.838,Above Average
-31,Above Average,22.176036,2388,Saturdays,Saturday,10-Nov-18,7  12  17  38  42  44  -  53,2.358426,2358426,22176036,4,Yes (4),180998,180.998,Above Average
-31.1,Above Average,22.193216,2288,Saturdays,Saturday,25-Nov-17,4  7  29  45  54  56  -  8,5.145663,5145663,22193216,0,No,100838,100.838,Above Average
-31.2,Above Average,22.203922,2318,Saturdays,Saturday,10-Mar-18,3  7  36  42  53  59  -  50,7.988062,7988062,22203922,1,Yes (1),101289,101.289,Above Average
-31.3,Above Average,22.252,2378,Saturdays,Saturday,06-Oct-18,23  26  30  32  37  39  -  5,3.37713,3377130,22252000,0,No,108349,108.349,Above Average
-31.4,Above Average,22.270164,2582,Saturdays,Saturday,19-Sep-20,9  13  39  49  52  53  -  56,7.566684,7566684,22270164,0,No,93610,93.61,Below Average
-31.5,Above Average,22.290474,2260,Saturdays,Saturday,19-Aug-17,12  25  39  46  52  55  -  3,3.38031,3380310,22290474,0,No,85885,85.885,Below Average
-31.6,Above Average,22.304596,2524,Saturdays,Saturday,29-Feb-20,25  32  34  52  55  58  -  9,7.629623,7629623,22304596,0,No,79864,79.864,Below Average
-31.7,Above Average,22.322526,2322,Saturdays,Saturday,24-Mar-18,3  11  16  36  43  59  -  49,9.339858,9339858,22322526,1,Yes (1),120373,120.373,Above Average
-31.8,Above Average,22.348578,2290,Saturdays,Saturday,02-Dec-17,4  9  13  32  46  50  -  52,9.462662,9462662,22348578,0,No,114517,114.517,Above Average
-31.9,Above Average,22.406956,2277,Wednesdays,Wednesday,18-Oct-17,11  12  15  22  27  44  -  7,24.995407,24995407,22406956,0,No,158074,158.074,Above Average
-32,Above Average,22.407834,2326,Saturdays,Saturday,07-Apr-18,1  4  31  33  52  55  -  13,9.561853,9561853,22407834,1,Yes (1),90207,90.207,Below Average
-32.1,Above Average,22.43009,2314,Saturdays,Saturday,24-Feb-18,2  11  35  40  48  55  -  7,5.283524,5283524,22430090,0,No,102577,102.577,Above Average
-32.2,Above Average,22.433536,2390,Saturdays,Saturday,17-Nov-18,4  5  9  12  17  42  -  32,2.627216,2627216,22433536,2,Yes (2),230708,230.708,Above Average
-32.3,Above Average,22.5,2400,Saturdays,Saturday,22-Dec-18,4  15  17  24  32  56  -  31,7.5,7500000,22500000,2,Yes (2),163675,163.675,Above Average
-32.4,Above Average,22.511502,2396,Saturdays,Saturday,08-Dec-18,6  23  36  38  43  48  -  17,3.807614,3807614,22511502,2,Yes (2),127960,127.96,Above Average
-32.5,Above Average,22.519766,2440,Saturdays,Saturday,11-May-19,13  14  19  45  49  55  -  24,7.861134,7861134,22519766,0,No,104108,104.108,Above Average
-32.6,Above Average,22.537548,2514,Saturdays,Saturday,25-Jan-20,18  30  33  39  54  55  -  21,7.549456,7549456,22537548,0,No,85824,85.824,Below Average
-32.7,Above Average,22.540062,2482,Saturdays,Saturday,05-Oct-19,4  8  12  13  32  34  -  58,7.371542,7371542,22540062,0,No,163338,163.338,Above Average
-32.8,Above Average,22.551814,2324,Saturdays,Saturday,31-Mar-18,6  8  20  26  35  36  -  39,5.199304,5199304,22551814,0,No,143675,143.675,Above Average
-32.9,Above Average,22.603746,2360,Saturdays,Saturday,04-Aug-18,5  17  23  25  34  51  -  52,9.309088,9309088,22603746,0,No,135533,135.533,Above Average
-33,Above Average,22.604566,2428,Saturdays,Saturday,30-Mar-19,3  27  35  45  54  55  -  24,7.604094,7604094,22604566,0,No,95500,95.5,Below Average
-33.1,Above Average,22.629966,2346,Saturdays,Saturday,16-Jun-18,10  18  36  37  41  46  -  8,13.641074,13641074,22629966,0,No,113445,113.445,Above Average
-33.2,Above Average,22.647176,2382,Saturdays,Saturday,20-Oct-18,12  18  40  42  46  59  -  49,12.447858,12447858,22647176,0,No,99585,99.585,Above Average
-33.3,Above Average,22.654366,2306,Saturdays,Saturday,27-Jan-18,29  33  43  45  49  56  -  16,5.351174,5351174,22654366,0,No,93820,93.82,Below Average
-33.4,Above Average,22.688596,2292,Saturdays,Saturday,09-Dec-17,2  32  37  39  46  54  -  19,13.94022,13940220,22688596,0,No,90111,90.111,Below Average
-33.5,Above Average,22.700122,2254,Saturdays,Saturday,29-Jul-17,1  26  41  55  56  59  -  36,5.411439,5411439,22700122,0,No,73270,73.27,Below Average
-33.6,Above Average,22.70837,2268,Saturdays,Saturday,16-Sep-17,1  6  31  37  49  50  -  38,5.329846,5329846,22708370,0,No,106890,106.89,Above Average
-33.7,Above Average,22.727158,2280,Saturdays,Saturday,28-Oct-17,8  15  33  42  55  58  -  53,5.301408,5301408,22727158,0,No,97958,97.958,Below Average
-33.8,Above Average,22.753004,2500,Saturdays,Saturday,07-Dec-19,6  20  27  34  35  57  -  39,7.661555,7661555,22753004,0,No,104226,104.226,Above Average
-33.9,Above Average,22.75473,2576,Saturdays,Saturday,29-Aug-20,5  10  21  47  51  57  -  16,7.543906,7543906,22754730,0,No,104515,104.515,Above Average
-34,Above Average,22.834616,2420,Saturdays,Saturday,02-Mar-19,4  8  16  19  33  45  -  54,7.379371,7379371,22834616,0,No,176769,176.769,Above Average
-34.1,Above Average,22.868406,2458,Saturdays,Saturday,13-Jul-19,18  25  29  32  35  58  -  12,10.751044,10751044,22868406,0,No,105291,105.291,Above Average
-34.2,Above Average,22.899264,2308,Saturdays,Saturday,03-Feb-18,8  26  27  29  49  58  -  38,9.825247,9825247,22899264,0,No,120042,120.042,Above Average
-34.3,Above Average,22.917712,2452,Saturdays,Saturday,22-Jun-19,6  9  17  32  44  57  -  11,10.756674,10756674,22917712,0,No,140317,140.317,Above Average
-34.4,Above Average,22.91856,2572,Saturdays,Saturday,15-Aug-20,10  14  16  22  25  34  -  21,10.770647,10770647,22918560,1,Yes (1),162084,162.084,Above Average
-34.5,Above Average,22.92118,2262,Saturdays,Saturday,26-Aug-17,20  25  34  41  42  52  -  58,8.348251,8348251,22921180,0,No,88029,88.029,Below Average
-34.6,Above Average,22.938956,2226,Saturdays,Saturday,22-Apr-17,4  6  34  37  42  52  -  24,5.4301,5430100,22938956,0,No,105457,105.457,Above Average
-34.7,Above Average,22.968312,2235,Wednesdays,Wednesday,24-May-17,3  30  44  45  55  59  -  37,25.442066,25442066,22968312,0,No,103319,103.319,Above Average
-34.8,Above Average,22.992648,2264,Saturdays,Saturday,02-Sep-17,30  33  35  40  41  59  -  8,12.810334,12810334,22992648,0,No,86320,86.32,Below Average
-34.9,Above Average,23,2496,Saturdays,Saturday,23-Nov-19,23  25  28  38  47  58  -  31,25,25000000,23000000,0,No,150609,150.609,Above Average
-35,Above Average,23.016568,2414,Saturdays,Saturday,09-Feb-19,25  27  31  36  38  47  -  12,7.369767,7369767,23016568,0,No,125123,125.123,Above Average
-35.1,Above Average,23.01761,2466,Saturdays,Saturday,10-Aug-19,5  8  9  17  23  29  -  49,10.861287,10861287,23017610,0,No,255064,255.064,Above Average
-35.2,Above Average,23.017794,2408,Saturdays,Saturday,19-Jan-19,11  15  17  22  31  52  -  45,7.361168,7361168,23017794,0,No,144671,144.671,Above Average
-35.3,Above Average,23.026866,2370,Saturdays,Saturday,08-Sep-18,7  19  33  34  52  53  -  48,12.30843,12308430,23026866,0,No,100223,100.223,Above Average
-35.4,Above Average,23.041204,2300,Saturdays,Saturday,06-Jan-18,18  28  31  32  44  51  -  50,8.337171,8337171,23041204,0,No,113235,113.235,Above Average
-35.5,Above Average,23.044424,2236,Saturdays,Saturday,27-May-17,20  22  31  39  41  54  -  33,3.494644,3494644,23044424,0,No,90806,90.806,Below Average
-35.6,Above Average,23.04929,2246,Saturdays,Saturday,01-Jul-17,2  19  36  52  54  59  -  6,5.481888,5481888,23049290,0,No,80337,80.337,Below Average
-35.7,Above Average,23.056916,2556,Saturdays,Saturday,20-Jun-20,7  21  26  30  40  48  -  13,10.962695,10962695,23056916,0,No,150677,150.677,Above Average
-35.8,Above Average,23.078374,2224,Saturdays,Saturday,15-Apr-17,8  10  16  19  23  31  -  48,3.421655,3421655,23078374,1,Yes (1),226732,226.732,Above Average
-35.9,Above Average,23.080172,2278,Saturdays,Saturday,21-Oct-17,3  31  37  41  44  59  -  32,3.500729,3500729,23080172,1,Yes (1),102926,102.926,Above Average
-36,Above Average,23.081,2250,Saturdays,Saturday,15-Jul-17,7  8  14  47  56  58  -  23,8.270807,8270807,23081000,0,No,103287,103.287,Above Average
-36.1,Above Average,23.082954,2294,Saturdays,Saturday,16-Dec-17,22  25  35  45  46  57  -  14,17.371932,17371932,23082954,0,No,99291,99.291,Below Average
-36.2,Above Average,23.09078,2270,Saturdays,Saturday,23-Sep-17,17  18  26  39  54  56  -  57,9.807442,9807442,23090780,0,No,90004,90.004,Below Average
-36.3,Above Average,23.091986,2372,Saturdays,Saturday,15-Sep-18,25  42  48  50  55  58  -  44,16.447318,16447318,23091986,0,No,79958,79.958,Below Average
-36.4,Above Average,23.118742,2348,Saturdays,Saturday,23-Jun-18,1  10  15  25  31  47  -  53,17.196314,17196314,23118742,1,Yes (1),176190,176.19,Above Average
-36.5,Above Average,23.124914,2470,Saturdays,Saturday,24-Aug-19,27  36  39  45  46  55  -  38,7.360035,7360035,23124914,0,No,99773,99.773,Above Average
-36.6,Above Average,23.125556,2600,Saturdays,Saturday,21-Nov-20,23  32  37  49  54  57  -  47,7.743072,7743072,23125556,0,No,90822,90.822,Below Average
-36.7,Above Average,23.168976,2256,Saturdays,Saturday,05-Aug-17,14  24  30  45  49  56  -  27,9.799014,9799014,23168976,0,No,103106,103.106,Above Average
-36.8,Above Average,23.1691,2252,Saturdays,Saturday,22-Jul-17,5  13  21  35  41  47  -  23,12.791049,12791049,23169100,1,Yes (1),144269,144.269,Above Average
-36.9,Above Average,23.190178,2238,Saturdays,Saturday,03-Jun-17,12  19  21  38  47  51  -  48,8.496269,8496269,23190178,0,No,119042,119.042,Above Average
-37,Above Average,23.233418,2384,Saturdays,Saturday,27-Oct-18,1  6  25  26  31  39  -  56,16.543093,16543093,23233418,1,Yes (1),159509,159.509,Above Average
-37.1,Above Average,23.236428,2282,Saturdays,Saturday,04-Nov-17,6  20  23  29  35  53  -  57,9.812847,9812847,23236428,0,No,117779,117.779,Above Average
-37.2,Above Average,23.239786,2490,Saturdays,Saturday,02-Nov-19,13  16  28  34  41  56  -  40,10.884211,10884211,23239786,0,No,106730,106.73,Above Average
-37.3,Above Average,23.381598,2362,Saturdays,Saturday,11-Aug-18,1  3  10  18  19  37  -  57,13.922705,13922705,23381598,1,Yes (1),199067,199.067,Above Average
-37.4,Above Average,23.383304,2310,Saturdays,Saturday,10-Feb-18,3  12  15  29  51  58  -  13,14.449368,14449368,23383304,0,No,116429,116.429,Above Average
-37.5,Above Average,23.39321,2332,Saturdays,Saturday,28-Apr-18,3  11  37  38  43  44  -  20,13.477493,13477493,23393210,0,No,150823,150.823,Above Average
-37.6,Above Average,23.413136,2546,Saturdays,Saturday,16-May-20,4  20  21  44  48  52  -  34,10.848734,10848734,23413136,1,Yes (1),117161,117.161,Above Average
-37.7,Above Average,23.419582,2298,Saturdays,Saturday,30-Dec-17,33  37  42  47  55  58  -  34,3.472243,3472243,23419582,0,No,90118,90.118,Below Average
-37.8,Above Average,23.485464,2284,Saturdays,Saturday,11-Nov-17,4  16  27  30  41  49  -  54,14.450835,14450835,23485464,0,No,152732,152.732,Above Average
-37.9,Above Average,23.516308,2218,Saturdays,Saturday,25-Mar-17,39  48  52  53  54  58  -  28,3.566205,3566205,23516308,0,No,72068,72.068,Below Average
-38,Above Average,23.55378,2594,Saturdays,Saturday,31-Oct-20,1  6  16  34  49  59  -  35,10.998085,10998085,23553780,0,No,115890,115.89,Above Average
-38.1,Above Average,23.576398,2200,Saturdays,Saturday,21-Jan-17,4  13  37  40  52  58  -  51,3.495493,3495493,23576398,0,No,89301,89.301,Below Average
-38.2,Above Average,23.6305,2302,Saturdays,Saturday,13-Jan-18,6  7  9  18  35  46  -  5,12.937095,12937095,23630500,0,No,175765,175.765,Above Average
-38.3,Above Average,23.631382,2258,Saturdays,Saturday,12-Aug-17,10  27  49  52  55  56  -  17,14.402436,14402436,23631382,1,Yes (1),84745,84.745,Below Average
-38.4,Above Average,23.657878,2272,Saturdays,Saturday,30-Sep-17,13  18  21  30  50  54  -  20,14.54474,14544740,23657878,0,No,106701,106.701,Above Average
-38.5,Above Average,23.71534,2266,Saturdays,Saturday,09-Sep-17,4  7  13  49  56  58  -  6,16.976182,16976182,23715340,1,Yes (1),115736,115.736,Above Average
-38.6,Above Average,23.723228,2472,Saturdays,Saturday,31-Aug-19,5  10  16  26  41  58  -  15,11.05882,11058820,23723228,0,No,133102,133.102,Above Average
-38.7,Above Average,23.77965,2186,Saturdays,Saturday,03-Dec-16,3  8  9  19  21  54  -  31,5.572309,5572309,23779650,0,No,191949,191.949,Above Average
-38.8,Above Average,23.809736,2242,Saturdays,Saturday,17-Jun-17,1  11  16  20  24  44  -  42,17.407211,17407211,23809736,0,No,190541,190.541,Above Average
-38.9,Above Average,23.813012,2334,Saturdays,Saturday,05-May-18,2  9  14  49  52  56  -  41,17.250153,17250153,23813012,0,No,108605,108.605,Above Average
-39,Above Average,23.81618,2478,Saturdays,Saturday,21-Sep-19,18  23  32  33  34  41  -  54,11.043941,11043941,23816180,0,No,125481,125.481,Above Average
-39.1,Above Average,23.835694,2286,Saturdays,Saturday,18-Nov-17,1  20  24  36  54  58  -  11,18.188218,18188218,23835694,1,Yes (1),92792,92.792,Below Average
-39.2,Above Average,23.838294,2404,Saturdays,Saturday,05-Jan-19,18  25  27  28  32  47  -  6,7.835827,7835827,23838294,0,No,147732,147.732,Above Average
-39.3,Above Average,23.866324,2240,Saturdays,Saturday,10-Jun-17,10  18  28  35  36  50  -  2,13.178747,13178747,23866324,0,No,117297,117.297,Above Average
-39.4,Above Average,23.872728,2484,Saturdays,Saturday,12-Oct-19,23  27  30  36  40  42  -  58,11.204025,11204025,23872728,0,No,133444,133.444,Above Average
-39.5,Above Average,23.929056,2228,Saturdays,Saturday,29-Apr-17,24  29  30  36  46  48  -  7,9.994885,9994885,23929056,0,No,121131,121.131,Above Average
-39.6,Above Average,23.94569,2220,Saturdays,Saturday,01-Apr-17,1  2  11  23  25  54  -  14,8.647634,8647634,23945690,0,No,166014,166.014,Above Average
-39.7,Above Average,23.966954,2374,Saturdays,Saturday,22-Sep-18,5  16  18  20  25  55  -  36,20.125455,20125455,23966954,0,No,155456,155.456,Above Average
-39.8,Above Average,23.985282,2222,Saturdays,Saturday,08-Apr-17,14  23  36  45  47  50  -  21,13.409218,13409218,23985282,0,No,107583,107.583,Above Average
-39.9,Above Average,23.989648,2182,Saturdays,Saturday,19-Nov-16,5  7  8  16  28  37  -  40,5.563528,5563528,23989648,0,No,222778,222.778,Above Average
-40,Above Average,24,2578,Saturdays,Saturday,05-Sep-20,3  11  28  36  38  47  -  32,20,20000000,24000000,0,No,198021,198.021,Above Average
-40.1,Above Average,24,2596,Saturdays,Saturday,07-Nov-20,3  33  45  50  52  56  -  44,20,20000000,24000000,0,No,127952,127.952,Above Average
-40.2,Above Average,24.040068,2312,Saturdays,Saturday,17-Feb-18,5  8  9  10  38  53  -  56,18.139352,18139352,24040068,1,Yes (1),156735,156.735,Above Average
-40.3,Above Average,24.084044,2204,Saturdays,Saturday,04-Feb-17,6  9  27  30  40  50  -  22,5.61004,5610040,24084044,0,No,146236,146.236,Above Average
-40.4,Above Average,24.120002,2210,Saturdays,Saturday,25-Feb-17,18  24  34  38  41  49  -  26,5.590553,5590553,24120002,0,No,120598,120.598,Above Average
-40.5,Above Average,24.163538,2304,Saturdays,Saturday,20-Jan-18,2  10  19  28  29  31  -  47,8.6132,8613200,24163538,2,Yes (2),218928,218.928,Above Average
-40.6,Above Average,24.1803,2196,Saturdays,Saturday,07-Jan-17,8  16  33  36  45  51  -  38,5.689783,5689783,24180300,0,No,114559,114.559,Above Average
-40.7,Above Average,24.259924,2180,Saturdays,Saturday,12-Nov-16,3  11  16  31  44  55  -  8,5.672414,5672414,24259924,1,Yes (1),159269,159.269,Above Average
-40.8,Above Average,24.274362,2422,Saturdays,Saturday,09-Mar-19,22  27  35  40  46  52  -  2,11.252974,11252974,24274362,0,No,102163,102.163,Above Average
-40.9,Above Average,24.302116,2202,Saturdays,Saturday,28-Jan-17,5  21  23  34  43  45  -  20,4.369877,4369877,24302116,2,Yes (2),147687,147.687,Above Average
-41,Above Average,24.342474,2206,Saturdays,Saturday,11-Feb-17,15  18  23  42  43  52  -  28,10.376181,10376181,24342474,0,No,118921,118.921,Above Average
-41.1,Above Average,24.34996,2438,Saturdays,Saturday,04-May-19,16  17  35  39  40  55  -  41,4.383861,4383861,24349960,0,No,101838,101.838,Above Average
-41.2,Above Average,24.352374,2230,Saturdays,Saturday,06-May-17,5  34  36  38  39  48  -  30,14.794798,14794798,24352374,0,No,115926,115.926,Above Average
-41.3,Above Average,24.376722,2430,Saturdays,Saturday,06-Apr-19,5  8  22  33  36  43  -  21,11.39999,11399990,24376722,1,Yes (1),158525,158.525,Above Average
-41.4,Above Average,24.384794,2178,Saturdays,Saturday,05-Nov-16,8  12  16  26  45  49  -  27,1.807674,1807674,24384794,2,Yes (2),173756,173.756,Above Average
-41.5,Above Average,24.46008,2336,Saturdays,Saturday,12-May-18,1  15  21  30  35  44  -  5,21.044592,21044592,24460080,1,Yes (1),152593,152.593,Above Average
-41.6,Above Average,24.47115,2188,Saturdays,Saturday,10-Dec-16,11  26  31  32  33  46  -  20,10.343595,10343595,24471150,0,No,134499,134.499,Above Average
-41.7,Above Average,24.582902,2174,Saturdays,Saturday,22-Oct-16,9  19  26  27  45  50  -  23,3.64472,3644720,24582902,0,No,149681,149.681,Above Average
-41.8,Above Average,24.615842,2410,Saturdays,Saturday,26-Jan-19,29  40  42  47  51  56  -  45,11.202778,11202778,24615842,0,No,88883,88.883,Below Average
-41.9,Above Average,24.62208,2198,Saturdays,Saturday,14-Jan-17,14  19  21  36  53  54  -  33,10.526484,10526484,24622080,0,No,100946,100.946,Above Average
-42,Above Average,24.716374,2442,Saturdays,Saturday,18-May-19,7  22  23  26  31  54  -  3,11.708252,11708252,24716374,0,No,153007,153.007,Above Average
-42.1,Above Average,24.753416,2212,Saturdays,Saturday,04-Mar-17,24  38  39  40  49  56  -  21,10.369492,10369492,24753416,0,No,96272,96.272,Below Average
-42.2,Above Average,24.838762,2184,Saturdays,Saturday,26-Nov-16,1  2  28  40  48  49  -  17,10.394608,10394608,24838762,1,Yes (1),141789,141.789,Above Average
-42.3,Above Average,24.843392,2436,Saturdays,Saturday,27-Apr-19,1  7  26  34  52  53  -  10,11.396192,11396192,24843392,0,No,110356,110.356,Above Average
-42.4,Above Average,24.867038,2244,Saturdays,Saturday,24-Jun-17,4  16  26  39  42  54  -  24,21.387231,21387231,24867038,1,Yes (1),127403,127.403,Above Average
-42.5,Above Average,24.868568,2214,Saturdays,Saturday,11-Mar-17,6  15  23  29  55  57  -  46,15.207601,15207601,24868568,0,No,120550,120.55,Above Average
-42.6,Above Average,25.028796,2216,Saturdays,Saturday,18-Mar-17,3  8  19  26  37  41  -  43,19.132964,19132964,25028796,1,Yes (1),181600,181.6,Above Average
-42.7,Above Average,25.033346,2232,Saturdays,Saturday,13-May-17,7  14  15  21  23  57  -  52,18.754003,18754003,25033346,0,No,182758,182.758,Above Average
-42.8,Above Average,25.117294,2274,Saturdays,Saturday,07-Oct-17,15  20  30  37  47  51  -  21,18.509759,18509759,25117294,0,No,108316,108.316,Above Average
-42.9,Above Average,25.121764,2208,Saturdays,Saturday,18-Feb-17,11  13  21  37  49  59  -  4,15.3429,15342900,25121764,1,Yes (1),128400,128.4,Above Average
-43,Above Average,25.153378,2376,Saturdays,Saturday,29-Sep-18,17  36  40  44  54  58  -  27,24.284997,24284997,25153378,0,No,101629,101.629,Above Average
-43.1,Above Average,25.154284,2176,Saturdays,Saturday,29-Oct-16,7  8  16  24  29  58  -  42,9.075232,9075232,25154284,0,No,172781,172.781,Above Average
-43.2,Above Average,25.274272,2190,Saturdays,Saturday,17-Dec-16,2  11  18  32  40  54  -  8,15.2876,15287600,25274272,0,No,131840,131.84,Above Average
-43.3,Above Average,25.290612,2502,Saturdays,Saturday,14-Dec-19,2  21  23  32  44  49  -  56,11.598525,11598525,25290612,0,No,160604,160.604,Above Average
-43.4,Above Average,25.449652,2564,Saturdays,Saturday,18-Jul-20,1  20  24  32  33  42  -  30,11.499676,11499676,25449652,0,No,134076,134.076,Above Average
-43.5,Above Average,25.518294,2584,Saturdays,Saturday,26-Sep-20,1  19  35  38  54  55  -  45,11.496937,11496937,25518294,0,No,102731,102.731,Above Average
-43.6,Above Average,25.558702,2416,Saturdays,Saturday,16-Feb-19,11  15  18  43  46  51  -  12,16.502197,16502197,25558702,0,No,122179,122.179,Above Average
-43.7,Above Average,25.618364,2276,Saturdays,Saturday,14-Oct-17,6  22  40  43  47  58  -  42,22.673298,22673298,25618364,0,No,112611,112.611,Above Average
-43.8,Above Average,25.665076,2526,Saturdays,Saturday,07-Mar-20,5  29  35  36  40  44  -  42,11.578001,11578001,25665076,0,No,140091,140.091,Above Average
-43.9,Above Average,26.159846,2516,Saturdays,Saturday,01-Feb-20,7  42  44  47  58  59  -  52,11.574206,11574206,26159846,0,No,112969,112.969,Above Average
-44,Above Average,26.22638,2168,Saturdays,Saturday,01-Oct-16,4  5  18  28  43  58  -  55,14.49459,14494590,26226380,0,No,153348,153.348,Above Average
-44.1,Above Average,26.453728,2234,Saturdays,Saturday,20-May-17,7  8  13  29  43  53  -  16,23.03673,23036730,26453728,0,No,161969,161.969,Above Average
-44.2,Above Average,27.581122,2170,Saturdays,Saturday,08-Oct-16,11  17  20  32  40  42  -  27,19.422626,19422626,27581122,0,No,166366,166.366,Above Average
-44.3,Above Average,28.130718,2172,Saturdays,Saturday,15-Oct-16,14  16  25  42  46  51  -  53,24.226822,24226822,28130718,0,No,129025,129.025,Above Average
-44.4,Above Average,28.309662,2602,Saturdays,Saturday,28-Nov-20,9  27  35  45  46  57  -  32,12.032594,12032594,28309662,0,No,141104,141.104,Above Average
-44.5,Above Average,31.81582,2296,Saturdays,Saturday,23-Dec-17,20  32  36  44  47  56  -  41,22.331857,22331857,31815820,0,No,140589,140.589,Above Average
-44.6,Above Average,34.233772,2192,Saturdays,Saturday,24-Dec-16,16  19  29  46  54  58  -  12,20.765992,20765992,34233772,0,No,146442,146.442,Above Average
-44.7,Above Average,34.554072,2194,Saturdays,Saturday,31-Dec-16,10  17  35  41  51  54  -  25,26.293902,26293902,34554072,0,No,146415,146.415,Above Average
+2,Below Average,12.108756,2327,Wednesdays,Wednesday,11-Apr-18,21  25  32  52  56  59  -  28,1.795273,1795273,12108756,0,No,38388,38.388,Below Average
+3,Below Average,12.23004,2319,Wednesdays,Wednesday,14-Mar-18,7  19  38  45  47  53  -  15,1.813255,1813255,12230040,0,No,61847,61.847,Below Average
+4,Below Average,12.23744,2323,Wednesdays,Wednesday,28-Mar-18,2  6  7  15  52  54  -  45,1.855785,1855785,12237440,0,No,62255,62.255,Below Average
+5,Below Average,12.252494,2341,Wednesdays,Wednesday,30-May-18,4  5  8  26  32  39  -  16,1.816584,1816584,12252494,0,No,89464,89.464,Below Average
+6,Below Average,12.323308,2357,Wednesdays,Wednesday,25-Jul-18,5  19  20  23  30  43  -  6,1.827083,1827083,12323308,0,No,99716,99.716,Above Average
+7,Below Average,12.358178,2329,Wednesdays,Wednesday,18-Apr-18,4  11  21  39  41  59  -  58,6.265709,6265709,12358178,0,No,65364,65.364,Below Average
+8,Below Average,12.513248,2287,Wednesdays,Wednesday,22-Nov-17,2  16  17  27  36  37  -  42,1.855244,1855244,12513248,0,No,85323,85.323,Below Average
+9,Below Average,12.554046,2259,Wednesdays,Wednesday,16-Aug-17,7  17  28  43  44  45  -  54,1.903798,1903798,12554046,1,Yes (1),91347,91.347,Below Average
+10,Below Average,12.592688,2337,Wednesdays,Wednesday,16-May-18,4  22  26  32  48  54  -  57,1.909658,1909658,12592688,0,No,60484,60.484,Below Average
+11,Below Average,12.603304,2367,Wednesdays,Wednesday,29-Aug-18,19  23  30  50  51  54  -  55,5.055854,5055854,12603304,0,No,44818,44.818,Below Average
+12,Below Average,12.606394,2537,Wednesdays,Wednesday,15-Apr-20,25  37  38  43  54  57  -  17,5.034166,5034166,12606394,0,No,47074,47.074,Below Average
+13,Below Average,12.639134,2343,Wednesdays,Wednesday,06-Jun-18,12  22  31  35  42  58  -  55,6.501413,6501413,12639134,0,No,61380,61.38,Below Average
+14,Below Average,12.687858,2339,Wednesdays,Wednesday,23-May-18,1  15  17  32  36  45  -  5,6.438596,6438596,12687858,0,No,68694,68.694,Below Average
+15,Below Average,12.7,2391,Wednesdays,Wednesday,21-Nov-18,24  31  35  42  46  53  -  9,2,2000000,12700000,0,No,51702,51.702,Below Average
+16,Below Average,12.7,2393,Wednesdays,Wednesday,28-Nov-18,36  39  45  46  48  52  -  38,2,2000000,12700000,0,No,44528,44.528,Below Average
+17,Below Average,12.7,2397,Wednesdays,Wednesday,12-Dec-18,3  22  31  46  51  59  -  53,2,2000000,12700000,0,No,48357,48.357,Below Average
+18,Below Average,12.7,2401,Wednesdays,Wednesday,26-Dec-18,7  14  35  45  54  58  -  1,2,2000000,12700000,0,No,58396,58.396,Below Average
+19,Below Average,12.7,2425,Wednesdays,Wednesday,20-Mar-19,2  19  35  53  56  58  -  12,2,2000000,12700000,0,No,44987,44.987,Below Average
+20,Below Average,12.7,2431,Wednesdays,Wednesday,10-Apr-19,20  22  36  42  48  49  -  30,2,2000000,12700000,0,No,63420,63.42,Below Average
+21,Below Average,12.7,2437,Wednesdays,Wednesday,01-May-19,10  12  23  29  35  57  -  9,2,2000000,12700000,0,No,73439,73.439,Below Average
+22,Below Average,12.7,2443,Wednesdays,Wednesday,22-May-19,7  27  31  36  37  50  -  18,2,2000000,12700000,0,No,64123,64.123,Below Average
+23,Below Average,12.7,2445,Wednesdays,Wednesday,29-May-19,3  15  27  32  46  53  -  57,2,2000000,12700000,1,Yes (1),61919,61.919,Below Average
+24,Below Average,12.7,2447,Wednesdays,Wednesday,05-Jun-19,11  20  23  32  33  56  -  25,2,2000000,12700000,1,Yes (1),59512,59.512,Below Average
+25,Below Average,12.7,2497,Wednesdays,Wednesday,27-Nov-19,7  16  22  39  48  55  -  50,2,2000000,12700000,0,No,67566,67.566,Below Average
+26,Below Average,12.7,2503,Wednesdays,Wednesday,18-Dec-19,13  15  36  44  50  56  -  45,2,2000000,12700000,1,Yes (1),51275,51.275,Below Average
+27,Below Average,12.7,2511,Wednesdays,Wednesday,15-Jan-20,15  25  50  52  54  55  -  28,2,2000000,12700000,0,No,40334,40.334,Below Average
+28,Below Average,12.7,2517,Wednesdays,Wednesday,05-Feb-20,20  31  39  42  43  48  -  1,2,2000000,12700000,1,Yes (1),56797,56.797,Below Average
+29,Below Average,12.7,2521,Wednesdays,Wednesday,19-Feb-20,7  18  21  27  28  48  -  10,2,2000000,12700000,0,No,109827,109.827,Above Average
+30,Below Average,12.7,2527,Wednesdays,Wednesday,11-Mar-20,10  39  45  46  52  54  -  12,2,2000000,12700000,0,No,45835,45.835,Below Average
+31,Below Average,12.7,2529,Wednesdays,Wednesday,18-Mar-20,3  7  11  19  27  52  -  5,1,1000000,12700000,2,Yes (2),129095,129.095,Above Average
+32,Below Average,12.7,2547,Wednesdays,Wednesday,20-May-20,7  24  26  37  40  57  -  44,2,2000000,12700000,0,No,63912,63.912,Below Average
+33,Below Average,12.7,2551,Wednesdays,Wednesday,03-Jun-20,1  2  5  11  14  33  -  48,2,2000000,12700000,1,Yes (1),124014,124.014,Above Average
+34,Below Average,12.7,2559,Wednesdays,Wednesday,01-Jul-20,1  8  24  27  29  55  -  4,2,2000000,12700000,0,No,85868,85.868,Below Average
+35,Below Average,12.7,2565,Wednesdays,Wednesday,22-Jul-20,2  7  11  23  37  45  -  19,2,2000000,12700000,1,Yes (1),117945,117.945,Above Average
+36,Below Average,12.7,2573,Wednesdays,Wednesday,19-Aug-20,21  22  32  36  45  50  -  5,2,2000000,12700000,0,No,52371,52.371,Below Average
+37,Below Average,12.7,2579,Wednesdays,Wednesday,09-Sep-20,11  13  33  48  50  56  -  55,2,2000000,12700000,0,No,55879,55.879,Below Average
+38,Below Average,12.7,2597,Wednesdays,Wednesday,11-Nov-20,6  36  46  49  50  59  -  38,2,2000000,12700000,0,No,50101,50.101,Below Average
+39,Below Average,12.7,2603,Wednesdays,Wednesday,02-Dec-20,16  22  26  38  39  47  -  48,2,2000000,12700000,0,No,71975,71.975,Below Average
+40,Below Average,12.716286,2389,Wednesdays,Wednesday,14-Nov-18,4  11  20  45  48  53  -  16,1.928401,1928401,12716286,0,No,63860,63.86,Below Average
+41,Below Average,12.72177,2267,Wednesdays,Wednesday,13-Sep-17,4  11  14  21  29  56  -  27,1.88616,1886160,12721770,0,No,95351,95.351,Below Average
+42,Below Average,12.729604,2351,Wednesdays,Wednesday,04-Jul-18,8  13  22  46  52  58  -  7,6.417197,6417197,12729604,0,No,53552,53.552,Below Average
+43,Below Average,12.78619,2519,Wednesdays,Wednesday,12-Feb-20,2  3  5  27  51  54  -  6,5.051768,5051768,12786190,1,Yes (1),68949,68.949,Below Average
+44,Below Average,12.802502,2449,Wednesdays,Wednesday,12-Jun-19,6  16  34  36  37  53  -  50,5.053365,5053365,12802502,0,No,55828,55.828,Below Average
+45,Below Average,12.811908,2349,Wednesdays,Wednesday,27-Jun-18,4  41  45  54  57  58  -  26,1.899524,1899524,12811908,0,No,42259,42.259,Below Average
+46,Below Average,12.820042,2385,Wednesdays,Wednesday,31-Oct-18,5  14  20  24  28  45  -  21,1.900729,1900729,12820042,0,No,95941,95.941,Below Average
+47,Below Average,12.849174,2355,Wednesdays,Wednesday,18-Jul-18,22  34  44  49  51  53  -  33,5.063895,5063895,12849174,0,No,47512,47.512,Below Average
+48,Below Average,12.87043,2543,Wednesdays,Wednesday,06-May-20,23  29  32  48  49  51  -  13,5.060015,5060015,12870430,0,No,55551,55.551,Below Average
+49,Below Average,12.91144,2313,Wednesdays,Wednesday,21-Feb-18,14  25  29  30  35  53  -  38,1.957996,1957996,12911440,0,No,62006,62.006,Below Average
+50,Below Average,12.925282,2363,Wednesdays,Wednesday,15-Aug-18,3  28  34  41  48  58  -  54,1.960095,1960095,12925282,0,No,55865,55.865,Below Average
+51,Below Average,12.932446,2315,Wednesdays,Wednesday,28-Feb-18,9  10  27  30  33  45  -  29,6.700919,6700919,12932446,1,Yes (1),98603,98.603,Below Average
+52,Below Average,12.942248,2461,Wednesdays,Wednesday,24-Jul-19,2  4  17  28  37  45  -  22,5.067046,5067046,12942248,1,Yes (1),92388,92.388,Below Average
+53,Below Average,12.955924,2455,Wednesdays,Wednesday,03-Jul-19,10  20  27  29  38  52  -  57,5.068385,5068385,12955924,0,No,65972,65.972,Below Average
+54,Below Average,12.95849,2325,Wednesdays,Wednesday,04-Apr-18,1  9  15  26  38  43  -  14,6.664434,6664434,12958490,0,No,86373,86.373,Below Average
+55,Below Average,12.976932,2253,Wednesdays,Wednesday,26-Jul-17,5  10  29  35  55  56  -  30,1.967928,1967928,12976932,0,No,56527,56.527,Below Average
+56,Below Average,12.977344,2463,Wednesdays,Wednesday,31-Jul-19,9  18  20  42  43  46  -  30,5.070482,5070482,12977344,0,No,72033,72.033,Below Average
+57,Below Average,12.981878,2387,Wednesdays,Wednesday,07-Nov-18,4  5  9  40  46  59  -  58,6.645866,6645866,12981878,0,No,67665,67.665,Below Average
+58,Below Average,12.984638,2427,Wednesdays,Wednesday,27-Mar-19,13  18  25  35  39  50  -  21,5.391107,5391107,12984638,0,No,58902,58.902,Below Average
+59,Below Average,12.998856,2439,Wednesdays,Wednesday,08-May-19,16  19  31  35  45  56  -  59,5.656449,5656449,12998856,0,No,57843,57.843,Below Average
+60,Below Average,13.029764,2279,Wednesdays,Wednesday,25-Oct-17,1  3  11  37  49  58  -  21,1.931824,1931824,13029764,0,No,76160,76.16,Below Average
+61,Below Average,13.062534,2493,Wednesdays,Wednesday,13-Nov-19,1  2  7  9  44  55  -  39,5.078822,5078822,13062534,0,No,96644,96.644,Below Average
+62,Below Average,13.067242,2317,Wednesdays,Wednesday,07-Mar-18,8  10  22  37  55  57  -  29,5.120878,5120878,13067242,0,No,57618,57.618,Below Average
+63,Below Average,13.097354,2433,Wednesdays,Wednesday,17-Apr-19,8  23  28  42  43  51  -  52,5.378892,5378892,13097354,0,No,69451,69.451,Below Average
+64,Below Average,13.098542,2245,Wednesdays,Wednesday,28-Jun-17,2  10  21  23  54  56  -  44,1.98637,1986370,13098542,0,No,64384,64.384,Below Average
+65,Below Average,13.112308,2533,Wednesdays,Wednesday,01-Apr-20,4  16  17  22  27  52  -  30,8.061599,8061599,13112308,0,No,88248,88.248,Below Average
+66,Below Average,13.114116,2399,Wednesdays,Wednesday,19-Dec-18,12  24  33  34  39  56  -  38,5.341733,5341733,13114116,0,No,58364,58.364,Below Average
+67,Below Average,13.135822,2261,Wednesdays,Wednesday,23-Aug-17,8  16  21  41  44  56  -  45,5.372825,5372825,13135822,0,No,67559,67.559,Below Average
+68,Below Average,13.137958,2305,Wednesdays,Wednesday,24-Jan-18,1  22  39  44  48  59  -  5,1.992347,1992347,13137958,0,No,57273,57.273,Below Average
+69,Below Average,13.14416,2299,Wednesdays,Wednesday,03-Jan-18,11  19  20  30  35  49  -  44,5.421027,5421027,13144160,0,No,86040,86.04,Below Average
+70,Below Average,13.16211,2225,Wednesdays,Wednesday,19-Apr-17,4  27  47  54  55  59  -  45,1.951446,1951446,13162110,0,No,45662,45.662,Below Average
+71,Below Average,13.169288,2255,Wednesdays,Wednesday,02-Aug-17,4  6  24  35  45  52  -  8,6.863927,6863927,13169288,0,No,63811,63.811,Below Average
+72,Below Average,13.189212,2307,Wednesdays,Wednesday,31-Jan-18,5  19  21  42  44  57  -  18,6.851294,6851294,13189212,0,No,77247,77.247,Below Average
+73,Below Average,13.21176,2289,Wednesdays,Wednesday,29-Nov-17,20  32  42  43  53  58  -  8,6.649202,6649202,13211760,0,No,42868,42.868,Below Average
+74,Below Average,13.21823,2381,Wednesdays,Wednesday,17-Oct-18,1  5  6  20  51  54  -  56,9.590134,9590134,13218230,0,No,66991,66.991,Below Average
+75,Below Average,13.222514,2359,Wednesdays,Wednesday,01-Aug-18,15  17  18  34  46  54  -  4,6.457803,6457803,13222514,0,No,57068,57.068,Below Average
+76,Below Average,13.225284,2379,Wednesdays,Wednesday,10-Oct-18,10  49  50  53  54  56  -  4,5.382585,5382585,13225284,0,No,42210,42.21,Below Average
+77,Below Average,13.23908,2469,Wednesdays,Wednesday,21-Aug-19,11  14  26  51  53  58  -  30,5.096106,5096106,13239080,0,No,49835,49.835,Below Average
+78,Below Average,13.274586,2591,Wednesdays,Wednesday,21-Oct-20,9  12  27  28  29  44  -  8,5.099582,5099582,13274586,0,No,117821,117.821,Above Average
+79,Below Average,13.274914,2513,Wednesdays,Wednesday,22-Jan-20,19  23  25  29  30  36  -  14,5.34303,5343030,13274914,0,No,89022,89.022,Below Average
+80,Below Average,13.279642,2499,Wednesdays,Wednesday,04-Dec-19,9  13  21  25  28  31  -  1,5.434036,5434036,13279642,0,No,116890,116.89,Above Average
+81,Below Average,13.283802,2209,Wednesdays,Wednesday,22-Feb-17,1  16  28  31  38  54  -  5,2.014488,2014488,13283802,0,No,65661,65.661,Below Average
+82,Below Average,13.286218,2321,Wednesdays,Wednesday,21-Mar-18,2  35  44  51  54  55  -  45,6.530267,6530267,13286218,0,No,44805,44.805,Below Average
+83,Below Average,13.308846,2569,Wednesdays,Wednesday,05-Aug-20,1  28  42  43  51  58  -  36,5.102936,5102936,13308846,0,No,48234,48.234,Below Average
+84,Below Average,13.354066,2487,Wednesdays,Wednesday,23-Oct-19,5  29  30  39  53  58  -  19,5.107363,5107363,13354066,0,No,52717,52.717,Below Average
+85,Below Average,13.357774,2407,Wednesdays,Wednesday,16-Jan-19,1  12  44  48  54  55  -  8,5.107726,5107726,13357774,0,No,53763,53.763,Below Average
+86,Below Average,13.36424,2509,Wednesdays,Wednesday,08-Jan-20,2  23  42  47  50  59  -  32,5.108359,5108359,13364240,0,No,53372,53.372,Below Average
+87,Below Average,13.386668,2219,Wednesdays,Wednesday,29-Mar-17,5  6  16  32  42  51  -  39,5.597315,5597315,13386668,0,No,69225,69.225,Below Average
+88,Below Average,13.415188,2475,Wednesdays,Wednesday,11-Sep-19,4  9  26  35  38  53  -  30,5.113347,5113347,13415188,0,No,69871,69.871,Below Average
+89,Below Average,13.42099,2217,Wednesdays,Wednesday,22-Mar-17,6  11  12  19  27  31  -  42,1.063276,1063276,13420990,3,Yes (3),149556,149.556,Above Average
+90,Below Average,13.446834,2413,Wednesdays,Wednesday,06-Feb-19,3  16  24  41  44  53  -  15,5.116445,5116445,13446834,0,No,68565,68.565,Below Average
+91,Below Average,13.45109,2203,Wednesdays,Wednesday,01-Feb-17,6  8  15  31  45  58  -  39,2.03929,2039290,13451090,0,No,73655,73.655,Below Average
+92,Below Average,13.4661,2249,Wednesdays,Wednesday,12-Jul-17,7  14  19  38  40  45  -  18,5.348763,5348763,13466100,0,No,88902,88.902,Below Average
+93,Below Average,13.469472,2365,Wednesdays,Wednesday,22-Aug-18,15  20  21  25  34  47  -  36,6.685121,6685121,13469472,1,Yes (1),75290,75.29,Below Average
+94,Below Average,13.487036,2247,Wednesdays,Wednesday,05-Jul-17,16  18  25  27  29  57  -  4,6.981548,6981548,13487036,1,Yes (1),77859,77.859,Below Average
+95,Below Average,13.487844,2549,Wednesdays,Wednesday,27-May-20,4  7  19  23  34  38  -  46,5.333552,5333552,13487844,0,No,111687,111.687,Above Average
+96,Below Average,13.494362,2395,Wednesdays,Wednesday,05-Dec-18,1  6  13  23  45  56  -  41,5.411352,5411352,13494362,0,No,81094,81.094,Below Average
+97,Below Average,13.495264,2185,Wednesdays,Wednesday,30-Nov-16,10  20  25  39  45  55  -  22,2.04659,2046590,13495264,0,No,63270,63.27,Below Average
+98,Below Average,13.535234,2181,Wednesdays,Wednesday,16-Nov-16,7  12  33  47  50  51  -  40,2.006766,2006766,13535234,0,No,58202,58.202,Below Average
+99,Below Average,13.538048,2263,Wednesdays,Wednesday,30-Aug-17,34  42  46  57  58  59  -  38,9.901377,9901377,13538048,0,No,43307,43.307,Below Average
+100,Below Average,13.544292,2269,Wednesdays,Wednesday,20-Sep-17,8  20  25  50  51  58  -  45,6.88384,6883840,13544292,0,No,47072,47.072,Below Average
+101,Below Average,13.552854,2293,Wednesdays,Wednesday,13-Dec-17,6  14  23  24  43  58  -  40,14.949598,14949598,13552854,0,No,73440,73.44,Below Average
+102,Below Average,13.56093,2201,Wednesdays,Wednesday,25-Jan-17,4  9  20  23  37  53  -  39,5.552469,5552469,13560930,0,No,77153,77.153,Below Average
+103,Below Average,13.5648,2575,Wednesdays,Wednesday,26-Aug-20,4  8  24  27  31  39  -  45,5.316218,5316218,13564800,0,No,105427,105.427,Above Average
+104,Below Average,13.604306,2227,Wednesdays,Wednesday,26-Apr-17,12  15  30  43  47  59  -  41,6.947106,6947106,13604306,0,No,61329,61.329,Below Average
+105,Below Average,13.605908,2237,Wednesdays,Wednesday,31-May-17,18  23  28  52  56  59  -  36,5.558072,5558072,13605908,0,No,49124,49.124,Below Average
+106,Below Average,13.613936,2345,Wednesdays,Wednesday,13-Jun-18,5  15  22  33  38  45  -  11,10.785901,10785901,13613936,0,No,90068,90.068,Below Average
+107,Below Average,13.626376,2281,Wednesdays,Wednesday,01-Nov-17,13  14  18  19  21  36  -  53,6.867823,6867823,13626376,0,No,96455,96.455,Below Average
+108,Below Average,13.630694,2581,Wednesdays,Wednesday,16-Sep-20,16  20  29  33  47  49  -  45,5.386435,5386435,13630694,0,No,72479,72.479,Below Average
+109,Below Average,13.656506,2195,Wednesdays,Wednesday,04-Jan-17,10  29  37  42  48  49  -  32,2.024754,2024754,13656506,0,No,71918,71.918,Below Average
+110,Below Average,13.680828,2567,Wednesdays,Wednesday,29-Jul-20,1  24  39  46  49  52  -  51,5.139353,5139353,13680828,1,Yes (1),57581,57.581,Below Average
+111,Below Average,13.682198,2179,Wednesdays,Wednesday,09-Nov-16,12  13  30  34  39  52  -  38,2.075555,2075555,13682198,0,No,57535,57.535,Below Average
+112,Below Average,13.726884,2419,Wednesdays,Wednesday,27-Feb-19,19  20  22  31  51  54  -  16,5.143862,5143862,13726884,0,No,57066,57.066,Below Average
+113,Below Average,13.73664,2251,Wednesdays,Wednesday,19-Jul-17,2  6  14  16  25  36  -  42,9.855934,9855934,13736640,0,No,112198,112.198,Above Average
+114,Below Average,13.73831,2291,Wednesdays,Wednesday,06-Dec-17,3  19  24  31  50  52  -  16,10.999536,10999536,13738310,0,No,66160,66.16,Below Average
+115,Below Average,13.760122,2561,Wednesdays,Wednesday,08-Jul-20,5  18  22  31  50  59  -  30,5.423577,5423577,13760122,0,No,66159,66.159,Below Average
+116,Below Average,13.76116,2353,Wednesdays,Wednesday,11-Jul-18,8  11  17  25  33  46  -  13,10.596472,10596472,13761160,1,Yes (1),109645,109.645,Above Average
+117,Below Average,13.765098,2523,Wednesdays,Wednesday,26-Feb-20,19  20  27  49  52  57  -  4,5.446003,5446003,13765098,0,No,55801,55.801,Below Average
+118,Below Average,13.770726,2571,Wednesdays,Wednesday,12-Aug-20,6  8  27  31  37  51  -  20,8.52692,8526920,13770726,0,No,74790,74.79,Below Average
+119,Below Average,13.774026,2369,Wednesdays,Wednesday,05-Sep-18,12  18  22  23  48  59  -  47,9.394412,9394412,13774026,0,No,75586,75.586,Below Average
+120,Below Average,13.791226,2599,Wednesdays,Wednesday,18-Nov-20,18  26  27  28  41  54  -  45,5.47908,5479080,13791226,0,No,67685,67.685,Below Average
+121,Below Average,13.800786,2457,Wednesdays,Wednesday,10-Jul-19,4  10  11  17  53  54  -  6,8.512227,8512227,13800786,0,No,77349,77.349,Below Average
+122,Below Average,13.823708,2301,Wednesdays,Wednesday,10-Jan-18,6  11  27  29  40  55  -  45,9.933511,9933511,13823708,0,No,83374,83.374,Below Average
+123,Below Average,13.846502,2257,Wednesdays,Wednesday,09-Aug-17,5  9  25  34  51  59  -  44,11.39881,11398810,13846502,0,No,62368,62.368,Below Average
+124,Below Average,13.866374,2553,Wednesdays,Wednesday,10-Jun-20,20  26  50  51  55  57  -  40,5.157518,5157518,13866374,0,No,46500,46.5,Below Average
+125,Below Average,13.879744,2451,Wednesdays,Wednesday,19-Jun-19,22  26  31  39  47  55  -  35,8.51303,8513030,13879744,0,No,62488,62.488,Below Average
+126,Below Average,13.890368,2403,Wednesdays,Wednesday,02-Jan-19,8  9  10  35  40  53  -  21,5.502058,5502058,13890368,0,No,70745,70.745,Below Average
+127,Below Average,13.89354,2331,Wednesdays,Wednesday,25-Apr-18,5  14  18  40  41  50  -  12,10.50916,10509160,13893540,0,No,66306,66.306,Below Average
+128,Below Average,13.94147,2481,Wednesdays,Wednesday,02-Oct-19,13  15  20  37  42  47  -  49,5.16487,5164870,13941470,0,No,71862,71.862,Below Average
+129,Below Average,13.943534,2587,Wednesdays,Wednesday,07-Oct-20,12  18  37  52  56  58  -  53,5.39791,5397910,13943534,0,No,51571,51.571,Below Average
+130,Below Average,13.95193,2495,Wednesdays,Wednesday,20-Nov-19,8  17  31  47  49  52  -  12,8.602997,8602997,13951930,0,No,72036,72.036,Below Average
+131,Below Average,14.005308,2283,Wednesdays,Wednesday,08-Nov-17,2  17  25  32  42  49  -  4,11.389307,11389307,14005308,0,No,90658,90.658,Below Average
+132,Below Average,14.02625,2309,Wednesdays,Wednesday,07-Feb-18,5  19  29  34  40  45  -  57,11.404833,11404833,14026250,0,No,82332,82.332,Below Average
+133,Below Average,14.041706,2539,Wednesdays,Wednesday,22-Apr-20,3  8  18  47  50  59  -  12,8.381216,8381216,14041706,0,No,64707,64.707,Below Average
+134,Below Average,14.058028,2471,Wednesdays,Wednesday,28-Aug-19,1  40  41  49  52  57  -  43,8.736316,8736316,14058028,0,No,49746,49.746,Below Average
+135,Below Average,14.092038,2371,Wednesdays,Wednesday,12-Sep-18,11  12  13  14  54  56  -  36,13.945461,13945461,14092038,0,No,60736,60.736,Below Average
+136,Below Average,14.137848,2239,Wednesdays,Wednesday,07-Jun-17,6  8  12  36  37  41  -  50,10.140252,10140252,14137848,0,No,91798,91.798,Below Average
+137,Below Average,14.162306,2271,Wednesdays,Wednesday,27-Sep-17,30  35  45  47  52  55  -  40,11.455122,11455122,14162306,0,No,50077,50.077,Below Average
+138,Below Average,14.178908,2197,Wednesdays,Wednesday,11-Jan-17,21  26  29  35  46  59  -  10,7.291956,7291956,14178908,0,No,57724,57.724,Below Average
+139,Below Average,14.181468,2383,Wednesdays,Wednesday,24-Oct-18,9  22  32  40  51  59  -  17,14.098451,14098451,14181468,0,No,53577,53.577,Below Average
+140,Below Average,14.224374,2211,Wednesdays,Wednesday,01-Mar-17,2  7  21  22  47  53  -  42,7.199492,7199492,14224374,0,No,90691,90.691,Below Average
+141,Below Average,14.228786,2205,Wednesdays,Wednesday,08-Feb-17,7  23  41  44  49  54  -  37,7.267133,7267133,14228786,0,No,72869,72.869,Below Average
+142,Below Average,14.268346,2489,Wednesdays,Wednesday,30-Oct-19,2  8  19  41  51  56  -  23,8.609036,8609036,14268346,0,No,64102,64.102,Below Average
+143,Below Average,14.30004,2465,Wednesdays,Wednesday,07-Aug-19,7  11  36  44  52  58  -  31,8.607863,8607863,14300040,0,No,74150,74.15,Below Average
+144,Below Average,14.330938,2373,Wednesdays,Wednesday,19-Sep-18,7  20  25  26  34  40  -  59,17.572057,17572057,14330938,0,No,86516,86.516,Below Average
+145,Below Average,14.33773,2311,Wednesdays,Wednesday,14-Feb-18,2  8  33  46  48  50  -  5,15.575114,15575114,14337730,0,No,68021,68.021,Below Average
+146,Below Average,14.350234,2347,Wednesdays,Wednesday,20-Jun-18,15  22  26  35  41  43  -  1,14.768674,14768674,14350234,0,No,75167,75.167,Below Average
+147,Below Average,14.396476,2429,Wednesdays,Wednesday,03-Apr-19,5  9  17  26  35  52  -  44,9.013509,9013509,14396476,0,No,94237,94.237,Below Average
+148,Below Average,14.43715,2229,Wednesdays,Wednesday,03-May-17,13  22  24  34  41  57  -  40,11.684226,11684226,14437150,0,No,63743,63.743,Below Average
+149,Below Average,14.455016,2187,Wednesdays,Wednesday,07-Dec-16,16  27  31  32  44  58  -  42,7.215444,7215444,14455016,0,No,70276,70.276,Below Average
+150,Below Average,14.481128,2361,Wednesdays,Wednesday,08-Aug-18,8  19  20  27  31  34  -  7,10.956094,10956094,14481128,0,No,102009,102.009,Above Average
+151,Below Average,14.490702,2183,Wednesdays,Wednesday,23-Nov-16,2  4  8  25  38  39  -  29,7.211954,7211954,14490702,0,No,106586,106.586,Above Average
+152,Below Average,14.49603,2241,Wednesdays,Wednesday,14-Jun-17,2  4  14  23  34  46  -  45,14.877043,14877043,14496030,0,No,100134,100.134,Above Average
+153,Below Average,14.496302,2223,Wednesdays,Wednesday,12-Apr-17,3  16  34  42  49  52  -  50,15.107556,15107556,14496302,1,Yes (1),66706,66.706,Below Average
+154,Below Average,14.499668,2265,Wednesdays,Wednesday,06-Sep-17,16  30  34  50  52  53  -  46,14.460089,14460089,14499668,0,No,47350,47.35,Below Average
+155,Below Average,14.508298,2213,Wednesdays,Wednesday,08-Mar-17,11  19  22  42  43  49  -  48,12.020527,12020527,14508298,0,No,93518,93.518,Below Average
+156,Below Average,14.518994,2175,Wednesdays,Wednesday,26-Oct-16,5  11  27  29  52  53  -  13,5.84584,5845840,14518994,0,No,78437,78.437,Below Average
+157,Below Average,14.527818,2285,Wednesdays,Wednesday,15-Nov-17,2  11  22  36  51  59  -  7,15.654281,15654281,14527818,0,No,66661,66.661,Below Average
+158,Below Average,14.538058,2221,Wednesdays,Wednesday,05-Apr-17,10  16  18  32  42  45  -  30,10.353081,10353081,14538058,0,No,86051,86.051,Below Average
+159,Below Average,14.578614,2333,Wednesdays,Wednesday,02-May-18,4  8  10  26  38  48  -  41,14.638953,14638953,14578614,0,No,112689,112.689,Above Average
+160,Below Average,14.58003,2441,Wednesdays,Wednesday,15-May-19,8  11  18  39  44  50  -  23,9.288519,9288519,14580030,0,No,84304,84.304,Below Average
+161,Below Average,14.622528,2335,Wednesdays,Wednesday,09-May-18,18  21  25  30  56  59  -  5,18.418082,18418082,14622528,0,No,64972,64.972,Below Average
+162,Below Average,14.6243,2409,Wednesdays,Wednesday,23-Jan-19,5  27  30  41  45  58  -  38,8.792887,8792887,14624300,0,No,71244,71.244,Below Average
+163,Below Average,14.627294,2583,Wednesdays,Wednesday,23-Sep-20,8  17  28  35  47  51  -  52,8.998696,8998696,14627294,0,No,79601,79.601,Below Average
+164,Below Average,14.635934,2435,Wednesdays,Wednesday,24-Apr-19,22  29  35  41  43  51  -  42,8.964024,8964024,14635934,0,No,60820,60.82,Below Average
+165,Below Average,14.665648,2525,Wednesdays,Wednesday,04-Mar-20,4  7  14  19  50  56  -  8,9.06539,9065390,14665648,0,No,84167,84.167,Below Average
+166,Below Average,14.682492,2593,Wednesdays,Wednesday,28-Oct-20,11  18  27  38  47  59  -  14,8.69217,8692170,14682492,0,No,81485,81.485,Below Average
+167,Below Average,14.69047,2477,Wednesdays,Wednesday,18-Sep-19,1  25  28  34  39  57  -  50,8.712337,8712337,14690470,0,No,63438,63.438,Below Average
+168,Below Average,14.70619,2199,Wednesdays,Wednesday,18-Jan-17,8  14  20  27  28  53  -  45,6.103436,6103436,14706190,2,Yes (2),92961,92.961,Below Average
+169,Below Average,14.720246,2589,Wednesdays,Wednesday,14-Oct-20,9  12  28  31  46  50  -  10,8.996243,8996243,14720246,1,Yes (1),83239,83.239,Below Average
+170,Below Average,14.784932,2207,Wednesdays,Wednesday,15-Feb-17,17  23  28  38  47  56  -  31,12.11823,12118230,14784932,0,No,76303,76.303,Below Average
+171,Below Average,14.789416,2295,Wednesdays,Wednesday,20-Dec-17,10  20  28  38  41  46  -  16,18.61472,18614720,14789416,0,No,78497,78.497,Below Average
+172,Below Average,14.810818,2555,Wednesdays,Wednesday,17-Jun-20,2  9  33  39  48  54  -  43,8.705423,8705423,14810818,0,No,72076,72.076,Below Average
+173,Below Average,14.816708,2189,Wednesdays,Wednesday,14-Dec-16,3  7  8  9  40  58  -  36,12.040376,12040376,14816708,0,No,102849,102.849,Above Average
+174,Below Average,14.821926,2231,Wednesdays,Wednesday,10-May-17,7  12  17  35  37  58  -  25,16.042516,16042516,14821926,0,No,86295,86.295,Below Average
+175,Below Average,14.86572,2545,Wednesdays,Wednesday,13-May-20,14  16  19  31  38  47  -  20,8.556588,8556588,14865720,0,No,88397,88.397,Below Average
+176,Below Average,14.884162,2303,Wednesdays,Wednesday,17-Jan-18,30  33  37  43  55  56  -  46,14.643856,14643856,14884162,0,No,54146,54.146,Below Average
+177,Below Average,14.908908,2563,Wednesdays,Wednesday,15-Jul-20,9  27  29  37  44  53  -  49,9.008155,9008155,14908908,0,No,82594,82.594,Below Average
+178,Below Average,14.923586,2501,Wednesdays,Wednesday,11-Dec-19,7  14  16  33  35  47  -  25,9.122574,9122574,14923586,0,No,96661,96.661,Below Average
+179,Below Average,14.936586,2215,Wednesdays,Wednesday,15-Mar-17,6  24  27  38  39  58  -  55,16.422135,16422135,14936586,0,No,71394,71.394,Below Average
+180,Below Average,14.95098,2515,Wednesdays,Wednesday,29-Jan-20,7  23  40  42  47  59  -  58,9.013157,9013157,14950980,0,No,74311,74.311,Below Average
+181,Below Average,15,2505,Wednesdays,Wednesday,25-Dec-19,5  10  11  45  54  58  -  40,15,15000000,15000000,0,No,138516,138.516,Above Average
+182,Below Average,15.11539,2177,Wednesdays,Wednesday,02-Nov-16,5  14  19  24  31  38  -  29,10.816275,10816275,15115390,1,Yes (1),117541,117.541,Above Average
+183,Below Average,15.115562,2273,Wednesdays,Wednesday,04-Oct-17,12  20  32  38  48  54  -  5,15.785809,15785809,15115562,0,No,66311,66.311,Below Average
+184,Below Average,15.122,2243,Wednesdays,Wednesday,21-Jun-17,1  3  5  11  15  43  -  48,18.700435,18700435,15122000,0,No,149298,149.298,Above Average
+185,Below Average,15.274188,2483,Wednesdays,Wednesday,09-Oct-19,14  22  40  44  55  58  -  12,8.866885,8866885,15274188,0,No,64496,64.496,Below Average
+186,Below Average,15.292574,2421,Wednesdays,Wednesday,06-Mar-19,2  12  15  43  46  53  -  17,8.876514,8876514,15292574,0,No,73819,73.819,Below Average
+187,Below Average,15.299198,2167,Wednesdays,Wednesday,28-Sep-16,19  29  37  41  51  53  -  55,11.106204,11106204,15299198,0,No,56454,56.454,Below Average
+188,Below Average,15.299274,2577,Wednesdays,Wednesday,02-Sep-20,11  15  45  54  55  58  -  12,9.041705,9041705,15299274,0,No,59452,59.452,Below Average
+189,Below Average,15.4247,2191,Wednesdays,Wednesday,21-Dec-16,10  13  22  35  42  52  -  27,16.574503,16574503,15424700,0,No,77961,77.961,Below Average
+190,Below Average,15.5,2585,Wednesdays,Wednesday,30-Sep-20,10  25  34  41  46  55  -  36,2,2000000,15500000,0,No,54992,54.992,Below Average
+191,Below Average,15.50568,2601,Wednesdays,Wednesday,25-Nov-20,11  18  30  33  44  55  -  48,9.261078,9261078,15505680,0,No,92095,92.095,Below Average
+192,Below Average,15.679438,2405,Wednesdays,Wednesday,09-Jan-19,3  17  36  42  51  57  -  18,9.370844,9370844,15679438,1,Yes (1),70006,70.006,Below Average
+193,Below Average,15.77469,2169,Wednesdays,Wednesday,05-Oct-16,11  16  25  37  43  44  -  39,16.333383,16333383,15774690,0,No,103908,103.908,Above Average
+194,Below Average,15.858136,2193,Wednesdays,Wednesday,28-Dec-16,5  40  47  48  52  54  -  33,22.170849,22170849,15858136,0,No,55981,55.981,Below Average
+195,Below Average,15.922002,2233,Wednesdays,Wednesday,17-May-17,3  19  20  24  30  38  -  41,20.114637,20114637,15922002,0,No,115965,115.965,Above Average
+196,Below Average,15.953466,2275,Wednesdays,Wednesday,11-Oct-17,17  38  49  54  55  56  -  13,19.875058,19875058,15953466,0,No,57894,57.894,Below Average
+197,Below Average,16,2415,Wednesdays,Wednesday,13-Feb-19,4  8  26  31  42  45  -  55,14,14000000,16000000,0,No,116210,116.21,Above Average
+198,Below Average,16.025528,2375,Wednesdays,Wednesday,26-Sep-18,3  8  37  39  47  59  -  42,21.555697,21555697,16025528,0,No,75063,75.063,Below Average
+199,Below Average,16.08573,2507,Wednesdays,Wednesday,01-Jan-20,13  20  30  38  50  55  -  5,5.374793,5374793,16085730,1,Yes (1),65194,65.194,Below Average
+200,Below Average,16.610102,2535,Wednesdays,Wednesday,08-Apr-20,1  4  19  20  41  45  -  7,11.735036,11735036,16610102,0,No,102749,102.749,Above Average
+201,Below Average,17.364,2171,Wednesdays,Wednesday,12-Oct-16,2  22  29  30  36  58  -  53,21.056054,21056054,17364000,0,No,88761,88.761,Below Average
+202,Below Average,17.69144,2423,Wednesdays,Wednesday,13-Mar-19,1  11  29  40  46  48  -  17,12.984966,12984966,17691440,0,No,96540,96.54,Below Average
+203,Below Average,17.778712,2453,Wednesdays,Wednesday,26-Jun-19,5  7  9  24  32  44  -  38,12.49721,12497210,17778712,0,No,147780,147.78,Above Average
+204,Below Average,17.85576,2411,Wednesdays,Wednesday,30-Jan-19,7  22  31  43  47  58  -  2,12.950857,12950857,17855760,0,No,92158,92.158,Below Average
+205,Below Average,17.86812,2459,Wednesdays,Wednesday,17-Jul-19,5  8  40  41  43  45  -  23,12.500333,12500333,17868120,0,No,98866,98.866,Below Average
+206,Below Average,17.882032,2491,Wednesdays,Wednesday,06-Nov-19,17  22  25  27  32  35  -  5,6.317431,6317431,17882032,2,Yes (2),106486,106.486,Above Average
+207,Below Average,18.321584,2473,Wednesdays,Wednesday,04-Sep-19,11  13  32  40  45  49  -  39,12.852503,12852503,18321584,0,No,98556,98.556,Below Average
+208,Below Average,18.535464,2467,Wednesdays,Wednesday,14-Aug-19,14  16  24  28  30  53  -  23,12.675909,12675909,18535464,0,No,102820,102.82,Above Average
+209,Above Average,18.58718,2485,Wednesdays,Wednesday,16-Oct-19,4  5  18  29  40  47  -  57,13.02371,13023710,18587180,0,No,115509,115.509,Above Average
+210,Above Average,18.771574,2532,Saturdays,Saturday,28-Mar-20,8  14  27  33  46  49  -  11,6.777904,6777904,18771574,0,No,117821,117.821,Above Average
+211,Above Average,18.90147,2541,Wednesdays,Wednesday,29-Apr-20,16  17  32  36  40  47  -  4,12.384648,12384648,18901470,0,No,99223,99.223,Below Average
+212,Above Average,19.036344,2479,Wednesdays,Wednesday,25-Sep-19,3  4  16  39  43  52  -  47,12.907599,12907599,19036344,0,No,93863,93.863,Below Average
+213,Above Average,19.458018,2557,Wednesdays,Wednesday,24-Jun-20,1  8  33  50  52  57  -  41,12.867635,12867635,19458018,0,No,78964,78.964,Below Average
+214,Above Average,19.877252,2417,Wednesdays,Wednesday,20-Feb-19,3  11  17  33  41  51  -  48,18.44818,18448180,19877252,0,No,115004,115.004,Above Average
+215,Above Average,20.029072,2173,Wednesdays,Wednesday,19-Oct-16,2  3  4  32  54  59  -  12,26.19638,26196380,20029072,1,Yes (1),86575,86.575,Below Average
+216,Above Average,20.146752,2538,Saturdays,Saturday,18-Apr-20,3  6  31  43  46  53  -  26,7.006533,7006533,20146752,0,No,96550,96.55,Below Average
+217,Above Average,20.246118,2595,Wednesdays,Wednesday,04-Nov-20,10  20  28  32  35  50  -  24,12.98018,12980180,20246118,0,No,99377,99.377,Below Average
+218,Above Average,20.308724,2574,Saturdays,Saturday,22-Aug-20,19  23  24  28  37  51  -  12,3.988224,3988224,20308724,0,No,106920,106.92,Above Average
+219,Above Average,20.562738,2548,Saturdays,Saturday,23-May-20,15  37  38  42  45  59  -  54,4.013092,4013092,20562738,0,No,84289,84.289,Below Average
+220,Above Average,20.764434,2586,Saturdays,Saturday,03-Oct-20,1  4  13  24  27  47  -  2,4.032838,4032838,20764434,0,No,167986,167.986,Above Average
+221,Above Average,20.77085,2377,Wednesdays,Wednesday,03-Oct-18,3  5  11  25  27  45  -  18,26.364533,26364533,20770850,0,No,178735,178.735,Above Average
+222,Above Average,20.814944,2528,Saturdays,Saturday,14-Mar-20,7  22  30  38  42  47  -  14,4.037783,4037783,20814944,1,Yes (1),136282,136.282,Above Average
+223,Above Average,20.822904,2350,Saturdays,Saturday,30-Jun-18,6  28  32  45  46  49  -  50,4.986777,4986777,20822904,0,No,110636,110.636,Above Average
+224,Above Average,20.85004,2544,Saturdays,Saturday,09-May-20,7  18  21  26  42  50  -  59,7.101234,7101234,20850040,0,No,134986,134.986,Above Average
+225,Above Average,20.872482,2512,Saturdays,Saturday,18-Jan-20,14  29  35  41  42  55  -  11,4.043416,4043416,20872482,0,No,92588,92.588,Below Average
+226,Above Average,20.899858,2297,Wednesdays,Wednesday,27-Dec-17,18  36  48  57  58  59  -  50,24.43052,24430520,20899858,0,No,106934,106.934,Above Average
+227,Above Average,20.912236,2534,Saturdays,Saturday,04-Apr-20,4  22  28  39  45  49  -  25,10.108907,10108907,20912236,0,No,119593,119.593,Above Average
+228,Above Average,20.960062,2580,Saturdays,Saturday,12-Sep-20,5  23  36  37  42  52  -  14,4.05199,4051990,20960062,0,No,104746,104.746,Above Average
+229,Above Average,21,2406,Saturdays,Saturday,12-Jan-19,13  29  32  43  49  55  -  26,3.8,3800000,21000000,0,No,98487,98.487,Below Average
+230,Above Average,21,2412,Saturdays,Saturday,02-Feb-19,1  6  41  53  55  59  -  20,3.8,3800000,21000000,0,No,76817,76.817,Below Average
+231,Above Average,21,2418,Saturdays,Saturday,23-Feb-19,6  9  38  40  42  48  -  57,3.8,3800000,21000000,0,No,130175,130.175,Above Average
+232,Above Average,21,2424,Saturdays,Saturday,16-Mar-19,6  26  32  37  42  59  -  38,3.8,3800000,21000000,1,Yes (1),100000,100,Above Average
+233,Above Average,21,2446,Saturdays,Saturday,01-Jun-19,8  26  36  39  40  47  -  42,3.8,3800000,21000000,1,Yes (1),105235,105.235,Above Average
+234,Above Average,21,2448,Saturdays,Saturday,08-Jun-19,12  13  22  37  42  55  -  43,3.8,3800000,21000000,0,No,107410,107.41,Above Average
+235,Above Average,21,2454,Saturdays,Saturday,29-Jun-19,11  32  43  44  47  52  -  27,3.8,3800000,21000000,0,No,100710,100.71,Above Average
+236,Above Average,21,2460,Saturdays,Saturday,20-Jul-19,14  18  23  28  36  37  -  32,3.8,3800000,21000000,0,No,136865,136.865,Above Average
+237,Above Average,21,2462,Saturdays,Saturday,27-Jul-19,14  19  30  45  48  58  -  3,3.8,3800000,21000000,0,No,94196,94.196,Below Average
+238,Above Average,21,2468,Saturdays,Saturday,17-Aug-19,6  9  10  41  46  58  -  45,3.8,3800000,21000000,0,No,106366,106.366,Above Average
+239,Above Average,21,2474,Saturdays,Saturday,07-Sep-19,3  13  27  30  32  37  -  8,3.8,3800000,21000000,0,No,143373,143.373,Above Average
+240,Above Average,21,2480,Saturdays,Saturday,28-Sep-19,2  19  21  23  29  42  -  26,3.8,3800000,21000000,0,No,171168,171.168,Above Average
+241,Above Average,21,2486,Saturdays,Saturday,19-Oct-19,8  15  17  31  33  52  -  13,3.8,3800000,21000000,0,No,122148,122.148,Above Average
+242,Above Average,21,2492,Saturdays,Saturday,09-Nov-19,2  11  16  46  51  58  -  31,3.8,3800000,21000000,0,No,92634,92.634,Below Average
+243,Above Average,21,2504,Saturdays,Saturday,21-Dec-19,12  27  33  36  42  45  -  26,3.8,3800000,21000000,0,No,140525,140.525,Above Average
+244,Above Average,21,2506,Saturdays,Saturday,28-Dec-19,1  2  12  23  41  55  -  9,3.8,3800000,21000000,0,No,121990,121.99,Above Average
+245,Above Average,21,2508,Saturdays,Saturday,04-Jan-20,3  13  14  34  50  51  -  11,3.8,3800000,21000000,0,No,86350,86.35,Below Average
+246,Above Average,21,2518,Saturdays,Saturday,08-Feb-20,8  35  42  43  54  59  -  21,3.8,3800000,21000000,0,No,79091,79.091,Below Average
+247,Above Average,21,2520,Saturdays,Saturday,15-Feb-20,10  11  33  41  45  54  -  18,3.8,3800000,21000000,1,Yes (1),98340,98.34,Below Average
+248,Above Average,21,2530,Saturdays,Saturday,21-Mar-20,12  26  29  34  56  58  -  41,3.8,3800000,21000000,0,No,81579,81.579,Below Average
+249,Above Average,21,2536,Saturdays,Saturday,11-Apr-20,20  28  30  31  44  55  -  50,3.8,3800000,21000000,0,No,92196,92.196,Below Average
+250,Above Average,21,2542,Saturdays,Saturday,02-May-20,14  18  23  39  44  52  -  47,3.8,3800000,21000000,0,No,106880,106.88,Above Average
+251,Above Average,21,2552,Saturdays,Saturday,06-Jun-20,3  6  12  17  35  40  -  33,3.8,3800000,21000000,0,No,159762,159.762,Above Average
+252,Above Average,21,2558,Saturdays,Saturday,27-Jun-20,2  15  19  33  37  43  -  12,7.5,7500000,21000000,2,Yes (2),161999,161.999,Above Average
+253,Above Average,21,2566,Saturdays,Saturday,25-Jul-20,10  13  14  18  33  34  -  15,3.8,3800000,21000000,0,No,125238,125.238,Above Average
+254,Above Average,21,2568,Saturdays,Saturday,01-Aug-20,4  10  13  24  53  56  -  22,3.8,3800000,21000000,0,No,101564,101.564,Above Average
+255,Above Average,21,2590,Saturdays,Saturday,17-Oct-20,26  32  38  41  49  51  -  46,3.8,3800000,21000000,0,No,84173,84.173,Below Average
+256,Above Average,21.012356,2354,Saturdays,Saturday,14-Jul-18,4  8  13  26  41  55  -  58,3.115342,3115342,21012356,0,No,125080,125.08,Above Average
+257,Above Average,21.02003,2398,Saturdays,Saturday,15-Dec-18,5  26  34  35  43  49  -  19,4.057861,4057861,21020030,0,No,111651,111.651,Above Average
+258,Above Average,21.166412,2328,Saturdays,Saturday,14-Apr-18,10  40  42  46  47  48  -  38,4.933456,4933456,21166412,0,No,95881,95.881,Below Average
+259,Above Average,21.172076,2352,Saturdays,Saturday,07-Jul-18,17  18  29  48  52  54  -  1,9.05621,9056210,21172076,0,No,84131,84.131,Below Average
+260,Above Average,21.203576,2570,Saturdays,Saturday,08-Aug-20,2  40  49  53  56  58  -  41,7.178766,7178766,21203576,0,No,69379,69.379,Below Average
+261,Above Average,21.21002,2560,Saturdays,Saturday,04-Jul-20,32  33  34  48  52  57  -  13,4.076461,4076461,21210020,0,No,77019,77.019,Below Average
+262,Above Average,21.231076,2338,Saturdays,Saturday,19-May-18,1  3  34  36  48  52  -  22,5.057464,5057464,21231076,0,No,93801,93.801,Below Average
+263,Above Average,21.296782,2392,Saturdays,Saturday,24-Nov-18,15  27  30  32  42  43  -  10,4.084955,4084955,21296782,1,Yes (1),112878,112.878,Above Average
+264,Above Average,21.298816,2444,Saturdays,Saturday,25-May-19,5  9  26  35  43  54  -  24,4.085154,4085154,21298816,1,Yes (1),115799,115.799,Above Average
+265,Above Average,21.35091,2394,Saturdays,Saturday,01-Dec-18,5  8  9  12  31  49  -  57,4.090254,4090254,21350910,0,No,205743,205.743,Above Average
+266,Above Average,21.376354,2456,Saturdays,Saturday,06-Jul-19,24  30  44  50  56  57  -  9,7.16113,7161130,21376354,0,No,73675,73.675,Below Average
+267,Above Average,21.383168,2358,Saturdays,Saturday,28-Jul-18,11  29  31  32  38  45  -  10,4.997402,4997402,21383168,0,No,120770,120.77,Above Average
+268,Above Average,21.416354,2432,Saturdays,Saturday,13-Apr-19,4  10  15  24  37  38  -  30,4.096661,4096661,21416354,0,No,143212,143.212,Above Average
+269,Above Average,21.429274,2554,Saturdays,Saturday,13-Jun-20,10  12  19  21  35  51  -  42,7.255444,7255444,21429274,0,No,123582,123.582,Above Average
+270,Above Average,21.434116,2522,Saturdays,Saturday,22-Feb-20,21  23  25  27  36  47  -  17,4.0984,4098400,21434116,0,No,130311,130.311,Above Average
+271,Above Average,21.45902,2450,Saturdays,Saturday,15-Jun-19,7  40  42  47  52  54  -  29,7.154203,7154203,21459020,0,No,81897,81.897,Below Average
+272,Above Average,21.472054,2316,Saturdays,Saturday,03-Mar-18,15  19  20  29  42  50  -  36,3.183498,3183498,21472054,0,No,104540,104.54,Above Average
+273,Above Average,21.472488,2330,Saturdays,Saturday,21-Apr-18,2  8  9  12  20  57  -  38,8.949271,8949271,21472488,0,No,164512,164.512,Above Average
+274,Above Average,21.477046,2356,Saturdays,Saturday,21-Jul-18,9  13  16  25  40  46  -  52,7.748131,7748131,21477046,1,Yes (1),138862,138.862,Above Average
+275,Above Average,21.497414,2366,Saturdays,Saturday,25-Aug-18,9  22  33  39  41  56  -  48,3.187258,3187258,21497414,0,No,100651,100.651,Above Average
+276,Above Average,21.49951,2488,Saturdays,Saturday,26-Oct-19,16  23  26  38  56  59  -  32,7.212165,7212165,21499510,0,No,89122,89.122,Below Average
+277,Above Average,21.54403,2344,Saturdays,Saturday,09-Jun-18,3  17  20  55  56  58  -  57,9.267495,9267495,21544030,0,No,79399,79.399,Below Average
+278,Above Average,21.54763,2604,Saturdays,Saturday,05-Dec-20,13  38  47  51  52  59  -  18,4.109513,4109513,21547630,0,No,76883,76.883,Below Average
+279,Above Average,21.553198,2342,Saturdays,Saturday,02-Jun-18,4  32  38  43  51  58  -  10,5.085086,5085086,21553198,0,No,77139,77.139,Below Average
+280,Above Average,21.65384,2426,Saturdays,Saturday,23-Mar-19,6  26  30  50  52  59  -  27,4.119911,4119911,21653840,0,No,79748,79.748,Below Average
+281,Above Average,21.705782,2562,Saturdays,Saturday,11-Jul-20,9  10  14  17  32  58  -  22,7.548573,7548573,21705782,0,No,123467,123.467,Above Average
+282,Above Average,21.736994,2368,Saturdays,Saturday,01-Sep-18,3  21  22  38  46  55  -  50,7.852229,7852229,21736994,0,No,103534,103.534,Above Average
+283,Above Average,21.745852,2598,Saturdays,Saturday,14-Nov-20,25  37  39  44  50  56  -  13,4.128919,4128919,21745852,0,No,83211,83.211,Below Average
+284,Above Average,21.77221,2364,Saturdays,Saturday,18-Aug-18,1  2  6  12  13  55  -  11,5.188105,5188105,21772210,0,No,156819,156.819,Above Average
+285,Above Average,21.797334,2498,Saturdays,Saturday,30-Nov-19,8  16  24  36  40  57  -  51,4.133959,4133959,21797334,0,No,115089,115.089,Above Average
+286,Above Average,21.822922,2510,Saturdays,Saturday,11-Jan-20,27  28  46  51  55  57  -  14,7.244823,7244823,21822922,1,Yes (1),75219,75.219,Below Average
+287,Above Average,21.832554,2464,Saturdays,Saturday,03-Aug-19,8  30  34  44  45  57  -  31,7.207889,7207889,21832554,0,No,96256,96.256,Below Average
+288,Above Average,21.88142,2402,Saturdays,Saturday,29-Dec-18,26  31  38  40  45  57  -  28,4.142191,4142191,21881420,0,No,88925,88.925,Below Average
+289,Above Average,21.901482,2320,Saturdays,Saturday,17-Mar-18,7  8  13  24  45  46  -  39,5.060421,5060421,21901482,0,No,156675,156.675,Above Average
+290,Above Average,21.905874,2380,Saturdays,Saturday,13-Oct-18,19  26  40  52  56  58  -  38,8.130368,8130368,21905874,0,No,75136,75.136,Below Average
+291,Above Average,21.96759,2550,Saturdays,Saturday,30-May-20,2  6  8  32  33  35  -  45,7.484179,7484179,21967590,1,Yes (1),135202,135.202,Above Average
+292,Above Average,21.984412,2434,Saturdays,Saturday,20-Apr-19,7  8  11  17  34  54  -  4,7.531166,7531166,21984412,0,No,154166,154.166,Above Average
+293,Above Average,21.991604,2540,Saturdays,Saturday,25-Apr-20,3  9  21  25  28  59  -  36,10.534194,10534194,21991604,0,No,154058,154.058,Above Average
+294,Above Average,22.014014,2592,Saturdays,Saturday,24-Oct-20,13  18  19  47  53  57  -  44,7.254754,7254754,22014014,0,No,90598,90.598,Below Average
+295,Above Average,22.034944,2588,Saturdays,Saturday,10-Oct-20,11  21  36  45  49  56  -  2,7.555131,7555131,22034944,0,No,103731,103.731,Above Average
+296,Above Average,22.045772,2494,Saturdays,Saturday,16-Nov-19,2  10  25  51  56  59  -  17,7.237103,7237103,22045772,0,No,87614,87.614,Below Average
+297,Above Average,22.048852,2340,Saturdays,Saturday,26-May-18,9  14  19  29  39  40  -  3,4.603805,4603805,22048852,2,Yes (2),147608,147.608,Above Average
+298,Above Average,22.07143,2476,Saturdays,Saturday,14-Sep-19,6  10  14  19  26  43  -  28,7.27414,7274140,22071430,0,No,179885,179.885,Above Average
+299,Above Average,22.099058,2386,Saturdays,Saturday,03-Nov-18,16  31  41  45  47  52  -  53,5.177188,5177188,22099058,0,No,90238,90.238,Below Average
+300,Above Average,22.105788,2248,Saturdays,Saturday,08-Jul-17,1  11  18  27  32  50  -  25,3.352302,3352302,22105788,0,No,130838,130.838,Above Average
+301,Above Average,22.176036,2388,Saturdays,Saturday,10-Nov-18,7  12  17  38  42  44  -  53,2.358426,2358426,22176036,4,Yes (4),180998,180.998,Above Average
+302,Above Average,22.193216,2288,Saturdays,Saturday,25-Nov-17,4  7  29  45  54  56  -  8,5.145663,5145663,22193216,0,No,100838,100.838,Above Average
+303,Above Average,22.203922,2318,Saturdays,Saturday,10-Mar-18,3  7  36  42  53  59  -  50,7.988062,7988062,22203922,1,Yes (1),101289,101.289,Above Average
+304,Above Average,22.252,2378,Saturdays,Saturday,06-Oct-18,23  26  30  32  37  39  -  5,3.37713,3377130,22252000,0,No,108349,108.349,Above Average
+305,Above Average,22.270164,2582,Saturdays,Saturday,19-Sep-20,9  13  39  49  52  53  -  56,7.566684,7566684,22270164,0,No,93610,93.61,Below Average
+306,Above Average,22.290474,2260,Saturdays,Saturday,19-Aug-17,12  25  39  46  52  55  -  3,3.38031,3380310,22290474,0,No,85885,85.885,Below Average
+307,Above Average,22.304596,2524,Saturdays,Saturday,29-Feb-20,25  32  34  52  55  58  -  9,7.629623,7629623,22304596,0,No,79864,79.864,Below Average
+308,Above Average,22.322526,2322,Saturdays,Saturday,24-Mar-18,3  11  16  36  43  59  -  49,9.339858,9339858,22322526,1,Yes (1),120373,120.373,Above Average
+309,Above Average,22.348578,2290,Saturdays,Saturday,02-Dec-17,4  9  13  32  46  50  -  52,9.462662,9462662,22348578,0,No,114517,114.517,Above Average
+310,Above Average,22.406956,2277,Wednesdays,Wednesday,18-Oct-17,11  12  15  22  27  44  -  7,24.995407,24995407,22406956,0,No,158074,158.074,Above Average
+311,Above Average,22.407834,2326,Saturdays,Saturday,07-Apr-18,1  4  31  33  52  55  -  13,9.561853,9561853,22407834,1,Yes (1),90207,90.207,Below Average
+312,Above Average,22.43009,2314,Saturdays,Saturday,24-Feb-18,2  11  35  40  48  55  -  7,5.283524,5283524,22430090,0,No,102577,102.577,Above Average
+313,Above Average,22.433536,2390,Saturdays,Saturday,17-Nov-18,4  5  9  12  17  42  -  32,2.627216,2627216,22433536,2,Yes (2),230708,230.708,Above Average
+314,Above Average,22.5,2400,Saturdays,Saturday,22-Dec-18,4  15  17  24  32  56  -  31,7.5,7500000,22500000,2,Yes (2),163675,163.675,Above Average
+315,Above Average,22.511502,2396,Saturdays,Saturday,08-Dec-18,6  23  36  38  43  48  -  17,3.807614,3807614,22511502,2,Yes (2),127960,127.96,Above Average
+316,Above Average,22.519766,2440,Saturdays,Saturday,11-May-19,13  14  19  45  49  55  -  24,7.861134,7861134,22519766,0,No,104108,104.108,Above Average
+317,Above Average,22.537548,2514,Saturdays,Saturday,25-Jan-20,18  30  33  39  54  55  -  21,7.549456,7549456,22537548,0,No,85824,85.824,Below Average
+318,Above Average,22.540062,2482,Saturdays,Saturday,05-Oct-19,4  8  12  13  32  34  -  58,7.371542,7371542,22540062,0,No,163338,163.338,Above Average
+319,Above Average,22.551814,2324,Saturdays,Saturday,31-Mar-18,6  8  20  26  35  36  -  39,5.199304,5199304,22551814,0,No,143675,143.675,Above Average
+320,Above Average,22.603746,2360,Saturdays,Saturday,04-Aug-18,5  17  23  25  34  51  -  52,9.309088,9309088,22603746,0,No,135533,135.533,Above Average
+321,Above Average,22.604566,2428,Saturdays,Saturday,30-Mar-19,3  27  35  45  54  55  -  24,7.604094,7604094,22604566,0,No,95500,95.5,Below Average
+322,Above Average,22.629966,2346,Saturdays,Saturday,16-Jun-18,10  18  36  37  41  46  -  8,13.641074,13641074,22629966,0,No,113445,113.445,Above Average
+323,Above Average,22.647176,2382,Saturdays,Saturday,20-Oct-18,12  18  40  42  46  59  -  49,12.447858,12447858,22647176,0,No,99585,99.585,Above Average
+324,Above Average,22.654366,2306,Saturdays,Saturday,27-Jan-18,29  33  43  45  49  56  -  16,5.351174,5351174,22654366,0,No,93820,93.82,Below Average
+325,Above Average,22.688596,2292,Saturdays,Saturday,09-Dec-17,2  32  37  39  46  54  -  19,13.94022,13940220,22688596,0,No,90111,90.111,Below Average
+326,Above Average,22.700122,2254,Saturdays,Saturday,29-Jul-17,1  26  41  55  56  59  -  36,5.411439,5411439,22700122,0,No,73270,73.27,Below Average
+327,Above Average,22.70837,2268,Saturdays,Saturday,16-Sep-17,1  6  31  37  49  50  -  38,5.329846,5329846,22708370,0,No,106890,106.89,Above Average
+328,Above Average,22.727158,2280,Saturdays,Saturday,28-Oct-17,8  15  33  42  55  58  -  53,5.301408,5301408,22727158,0,No,97958,97.958,Below Average
+329,Above Average,22.753004,2500,Saturdays,Saturday,07-Dec-19,6  20  27  34  35  57  -  39,7.661555,7661555,22753004,0,No,104226,104.226,Above Average
+330,Above Average,22.75473,2576,Saturdays,Saturday,29-Aug-20,5  10  21  47  51  57  -  16,7.543906,7543906,22754730,0,No,104515,104.515,Above Average
+331,Above Average,22.834616,2420,Saturdays,Saturday,02-Mar-19,4  8  16  19  33  45  -  54,7.379371,7379371,22834616,0,No,176769,176.769,Above Average
+332,Above Average,22.868406,2458,Saturdays,Saturday,13-Jul-19,18  25  29  32  35  58  -  12,10.751044,10751044,22868406,0,No,105291,105.291,Above Average
+333,Above Average,22.899264,2308,Saturdays,Saturday,03-Feb-18,8  26  27  29  49  58  -  38,9.825247,9825247,22899264,0,No,120042,120.042,Above Average
+334,Above Average,22.917712,2452,Saturdays,Saturday,22-Jun-19,6  9  17  32  44  57  -  11,10.756674,10756674,22917712,0,No,140317,140.317,Above Average
+335,Above Average,22.91856,2572,Saturdays,Saturday,15-Aug-20,10  14  16  22  25  34  -  21,10.770647,10770647,22918560,1,Yes (1),162084,162.084,Above Average
+336,Above Average,22.92118,2262,Saturdays,Saturday,26-Aug-17,20  25  34  41  42  52  -  58,8.348251,8348251,22921180,0,No,88029,88.029,Below Average
+337,Above Average,22.938956,2226,Saturdays,Saturday,22-Apr-17,4  6  34  37  42  52  -  24,5.4301,5430100,22938956,0,No,105457,105.457,Above Average
+338,Above Average,22.968312,2235,Wednesdays,Wednesday,24-May-17,3  30  44  45  55  59  -  37,25.442066,25442066,22968312,0,No,103319,103.319,Above Average
+339,Above Average,22.992648,2264,Saturdays,Saturday,02-Sep-17,30  33  35  40  41  59  -  8,12.810334,12810334,22992648,0,No,86320,86.32,Below Average
+340,Above Average,23,2496,Saturdays,Saturday,23-Nov-19,23  25  28  38  47  58  -  31,25,25000000,23000000,0,No,150609,150.609,Above Average
+341,Above Average,23.016568,2414,Saturdays,Saturday,09-Feb-19,25  27  31  36  38  47  -  12,7.369767,7369767,23016568,0,No,125123,125.123,Above Average
+342,Above Average,23.01761,2466,Saturdays,Saturday,10-Aug-19,5  8  9  17  23  29  -  49,10.861287,10861287,23017610,0,No,255064,255.064,Above Average
+343,Above Average,23.017794,2408,Saturdays,Saturday,19-Jan-19,11  15  17  22  31  52  -  45,7.361168,7361168,23017794,0,No,144671,144.671,Above Average
+344,Above Average,23.026866,2370,Saturdays,Saturday,08-Sep-18,7  19  33  34  52  53  -  48,12.30843,12308430,23026866,0,No,100223,100.223,Above Average
+345,Above Average,23.041204,2300,Saturdays,Saturday,06-Jan-18,18  28  31  32  44  51  -  50,8.337171,8337171,23041204,0,No,113235,113.235,Above Average
+346,Above Average,23.044424,2236,Saturdays,Saturday,27-May-17,20  22  31  39  41  54  -  33,3.494644,3494644,23044424,0,No,90806,90.806,Below Average
+347,Above Average,23.04929,2246,Saturdays,Saturday,01-Jul-17,2  19  36  52  54  59  -  6,5.481888,5481888,23049290,0,No,80337,80.337,Below Average
+348,Above Average,23.056916,2556,Saturdays,Saturday,20-Jun-20,7  21  26  30  40  48  -  13,10.962695,10962695,23056916,0,No,150677,150.677,Above Average
+349,Above Average,23.078374,2224,Saturdays,Saturday,15-Apr-17,8  10  16  19  23  31  -  48,3.421655,3421655,23078374,1,Yes (1),226732,226.732,Above Average
+350,Above Average,23.080172,2278,Saturdays,Saturday,21-Oct-17,3  31  37  41  44  59  -  32,3.500729,3500729,23080172,1,Yes (1),102926,102.926,Above Average
+351,Above Average,23.081,2250,Saturdays,Saturday,15-Jul-17,7  8  14  47  56  58  -  23,8.270807,8270807,23081000,0,No,103287,103.287,Above Average
+352,Above Average,23.082954,2294,Saturdays,Saturday,16-Dec-17,22  25  35  45  46  57  -  14,17.371932,17371932,23082954,0,No,99291,99.291,Below Average
+353,Above Average,23.09078,2270,Saturdays,Saturday,23-Sep-17,17  18  26  39  54  56  -  57,9.807442,9807442,23090780,0,No,90004,90.004,Below Average
+354,Above Average,23.091986,2372,Saturdays,Saturday,15-Sep-18,25  42  48  50  55  58  -  44,16.447318,16447318,23091986,0,No,79958,79.958,Below Average
+355,Above Average,23.118742,2348,Saturdays,Saturday,23-Jun-18,1  10  15  25  31  47  -  53,17.196314,17196314,23118742,1,Yes (1),176190,176.19,Above Average
+356,Above Average,23.124914,2470,Saturdays,Saturday,24-Aug-19,27  36  39  45  46  55  -  38,7.360035,7360035,23124914,0,No,99773,99.773,Above Average
+357,Above Average,23.125556,2600,Saturdays,Saturday,21-Nov-20,23  32  37  49  54  57  -  47,7.743072,7743072,23125556,0,No,90822,90.822,Below Average
+358,Above Average,23.168976,2256,Saturdays,Saturday,05-Aug-17,14  24  30  45  49  56  -  27,9.799014,9799014,23168976,0,No,103106,103.106,Above Average
+359,Above Average,23.1691,2252,Saturdays,Saturday,22-Jul-17,5  13  21  35  41  47  -  23,12.791049,12791049,23169100,1,Yes (1),144269,144.269,Above Average
+360,Above Average,23.190178,2238,Saturdays,Saturday,03-Jun-17,12  19  21  38  47  51  -  48,8.496269,8496269,23190178,0,No,119042,119.042,Above Average
+361,Above Average,23.233418,2384,Saturdays,Saturday,27-Oct-18,1  6  25  26  31  39  -  56,16.543093,16543093,23233418,1,Yes (1),159509,159.509,Above Average
+362,Above Average,23.236428,2282,Saturdays,Saturday,04-Nov-17,6  20  23  29  35  53  -  57,9.812847,9812847,23236428,0,No,117779,117.779,Above Average
+363,Above Average,23.239786,2490,Saturdays,Saturday,02-Nov-19,13  16  28  34  41  56  -  40,10.884211,10884211,23239786,0,No,106730,106.73,Above Average
+364,Above Average,23.381598,2362,Saturdays,Saturday,11-Aug-18,1  3  10  18  19  37  -  57,13.922705,13922705,23381598,1,Yes (1),199067,199.067,Above Average
+365,Above Average,23.383304,2310,Saturdays,Saturday,10-Feb-18,3  12  15  29  51  58  -  13,14.449368,14449368,23383304,0,No,116429,116.429,Above Average
+366,Above Average,23.39321,2332,Saturdays,Saturday,28-Apr-18,3  11  37  38  43  44  -  20,13.477493,13477493,23393210,0,No,150823,150.823,Above Average
+367,Above Average,23.413136,2546,Saturdays,Saturday,16-May-20,4  20  21  44  48  52  -  34,10.848734,10848734,23413136,1,Yes (1),117161,117.161,Above Average
+368,Above Average,23.419582,2298,Saturdays,Saturday,30-Dec-17,33  37  42  47  55  58  -  34,3.472243,3472243,23419582,0,No,90118,90.118,Below Average
+369,Above Average,23.485464,2284,Saturdays,Saturday,11-Nov-17,4  16  27  30  41  49  -  54,14.450835,14450835,23485464,0,No,152732,152.732,Above Average
+370,Above Average,23.516308,2218,Saturdays,Saturday,25-Mar-17,39  48  52  53  54  58  -  28,3.566205,3566205,23516308,0,No,72068,72.068,Below Average
+371,Above Average,23.55378,2594,Saturdays,Saturday,31-Oct-20,1  6  16  34  49  59  -  35,10.998085,10998085,23553780,0,No,115890,115.89,Above Average
+372,Above Average,23.576398,2200,Saturdays,Saturday,21-Jan-17,4  13  37  40  52  58  -  51,3.495493,3495493,23576398,0,No,89301,89.301,Below Average
+373,Above Average,23.6305,2302,Saturdays,Saturday,13-Jan-18,6  7  9  18  35  46  -  5,12.937095,12937095,23630500,0,No,175765,175.765,Above Average
+374,Above Average,23.631382,2258,Saturdays,Saturday,12-Aug-17,10  27  49  52  55  56  -  17,14.402436,14402436,23631382,1,Yes (1),84745,84.745,Below Average
+375,Above Average,23.657878,2272,Saturdays,Saturday,30-Sep-17,13  18  21  30  50  54  -  20,14.54474,14544740,23657878,0,No,106701,106.701,Above Average
+376,Above Average,23.71534,2266,Saturdays,Saturday,09-Sep-17,4  7  13  49  56  58  -  6,16.976182,16976182,23715340,1,Yes (1),115736,115.736,Above Average
+377,Above Average,23.723228,2472,Saturdays,Saturday,31-Aug-19,5  10  16  26  41  58  -  15,11.05882,11058820,23723228,0,No,133102,133.102,Above Average
+378,Above Average,23.77965,2186,Saturdays,Saturday,03-Dec-16,3  8  9  19  21  54  -  31,5.572309,5572309,23779650,0,No,191949,191.949,Above Average
+379,Above Average,23.809736,2242,Saturdays,Saturday,17-Jun-17,1  11  16  20  24  44  -  42,17.407211,17407211,23809736,0,No,190541,190.541,Above Average
+380,Above Average,23.813012,2334,Saturdays,Saturday,05-May-18,2  9  14  49  52  56  -  41,17.250153,17250153,23813012,0,No,108605,108.605,Above Average
+381,Above Average,23.81618,2478,Saturdays,Saturday,21-Sep-19,18  23  32  33  34  41  -  54,11.043941,11043941,23816180,0,No,125481,125.481,Above Average
+382,Above Average,23.835694,2286,Saturdays,Saturday,18-Nov-17,1  20  24  36  54  58  -  11,18.188218,18188218,23835694,1,Yes (1),92792,92.792,Below Average
+383,Above Average,23.838294,2404,Saturdays,Saturday,05-Jan-19,18  25  27  28  32  47  -  6,7.835827,7835827,23838294,0,No,147732,147.732,Above Average
+384,Above Average,23.866324,2240,Saturdays,Saturday,10-Jun-17,10  18  28  35  36  50  -  2,13.178747,13178747,23866324,0,No,117297,117.297,Above Average
+385,Above Average,23.872728,2484,Saturdays,Saturday,12-Oct-19,23  27  30  36  40  42  -  58,11.204025,11204025,23872728,0,No,133444,133.444,Above Average
+386,Above Average,23.929056,2228,Saturdays,Saturday,29-Apr-17,24  29  30  36  46  48  -  7,9.994885,9994885,23929056,0,No,121131,121.131,Above Average
+387,Above Average,23.94569,2220,Saturdays,Saturday,01-Apr-17,1  2  11  23  25  54  -  14,8.647634,8647634,23945690,0,No,166014,166.014,Above Average
+388,Above Average,23.966954,2374,Saturdays,Saturday,22-Sep-18,5  16  18  20  25  55  -  36,20.125455,20125455,23966954,0,No,155456,155.456,Above Average
+389,Above Average,23.985282,2222,Saturdays,Saturday,08-Apr-17,14  23  36  45  47  50  -  21,13.409218,13409218,23985282,0,No,107583,107.583,Above Average
+390,Above Average,23.989648,2182,Saturdays,Saturday,19-Nov-16,5  7  8  16  28  37  -  40,5.563528,5563528,23989648,0,No,222778,222.778,Above Average
+391,Above Average,24,2578,Saturdays,Saturday,05-Sep-20,3  11  28  36  38  47  -  32,20,20000000,24000000,0,No,198021,198.021,Above Average
+392,Above Average,24,2596,Saturdays,Saturday,07-Nov-20,3  33  45  50  52  56  -  44,20,20000000,24000000,0,No,127952,127.952,Above Average
+393,Above Average,24.040068,2312,Saturdays,Saturday,17-Feb-18,5  8  9  10  38  53  -  56,18.139352,18139352,24040068,1,Yes (1),156735,156.735,Above Average
+394,Above Average,24.084044,2204,Saturdays,Saturday,04-Feb-17,6  9  27  30  40  50  -  22,5.61004,5610040,24084044,0,No,146236,146.236,Above Average
+395,Above Average,24.120002,2210,Saturdays,Saturday,25-Feb-17,18  24  34  38  41  49  -  26,5.590553,5590553,24120002,0,No,120598,120.598,Above Average
+396,Above Average,24.163538,2304,Saturdays,Saturday,20-Jan-18,2  10  19  28  29  31  -  47,8.6132,8613200,24163538,2,Yes (2),218928,218.928,Above Average
+397,Above Average,24.1803,2196,Saturdays,Saturday,07-Jan-17,8  16  33  36  45  51  -  38,5.689783,5689783,24180300,0,No,114559,114.559,Above Average
+398,Above Average,24.259924,2180,Saturdays,Saturday,12-Nov-16,3  11  16  31  44  55  -  8,5.672414,5672414,24259924,1,Yes (1),159269,159.269,Above Average
+399,Above Average,24.274362,2422,Saturdays,Saturday,09-Mar-19,22  27  35  40  46  52  -  2,11.252974,11252974,24274362,0,No,102163,102.163,Above Average
+400,Above Average,24.302116,2202,Saturdays,Saturday,28-Jan-17,5  21  23  34  43  45  -  20,4.369877,4369877,24302116,2,Yes (2),147687,147.687,Above Average
+401,Above Average,24.342474,2206,Saturdays,Saturday,11-Feb-17,15  18  23  42  43  52  -  28,10.376181,10376181,24342474,0,No,118921,118.921,Above Average
+402,Above Average,24.34996,2438,Saturdays,Saturday,04-May-19,16  17  35  39  40  55  -  41,4.383861,4383861,24349960,0,No,101838,101.838,Above Average
+403,Above Average,24.352374,2230,Saturdays,Saturday,06-May-17,5  34  36  38  39  48  -  30,14.794798,14794798,24352374,0,No,115926,115.926,Above Average
+404,Above Average,24.376722,2430,Saturdays,Saturday,06-Apr-19,5  8  22  33  36  43  -  21,11.39999,11399990,24376722,1,Yes (1),158525,158.525,Above Average
+405,Above Average,24.384794,2178,Saturdays,Saturday,05-Nov-16,8  12  16  26  45  49  -  27,1.807674,1807674,24384794,2,Yes (2),173756,173.756,Above Average
+406,Above Average,24.46008,2336,Saturdays,Saturday,12-May-18,1  15  21  30  35  44  -  5,21.044592,21044592,24460080,1,Yes (1),152593,152.593,Above Average
+407,Above Average,24.47115,2188,Saturdays,Saturday,10-Dec-16,11  26  31  32  33  46  -  20,10.343595,10343595,24471150,0,No,134499,134.499,Above Average
+408,Above Average,24.582902,2174,Saturdays,Saturday,22-Oct-16,9  19  26  27  45  50  -  23,3.64472,3644720,24582902,0,No,149681,149.681,Above Average
+409,Above Average,24.615842,2410,Saturdays,Saturday,26-Jan-19,29  40  42  47  51  56  -  45,11.202778,11202778,24615842,0,No,88883,88.883,Below Average
+410,Above Average,24.62208,2198,Saturdays,Saturday,14-Jan-17,14  19  21  36  53  54  -  33,10.526484,10526484,24622080,0,No,100946,100.946,Above Average
+411,Above Average,24.716374,2442,Saturdays,Saturday,18-May-19,7  22  23  26  31  54  -  3,11.708252,11708252,24716374,0,No,153007,153.007,Above Average
+412,Above Average,24.753416,2212,Saturdays,Saturday,04-Mar-17,24  38  39  40  49  56  -  21,10.369492,10369492,24753416,0,No,96272,96.272,Below Average
+413,Above Average,24.838762,2184,Saturdays,Saturday,26-Nov-16,1  2  28  40  48  49  -  17,10.394608,10394608,24838762,1,Yes (1),141789,141.789,Above Average
+414,Above Average,24.843392,2436,Saturdays,Saturday,27-Apr-19,1  7  26  34  52  53  -  10,11.396192,11396192,24843392,0,No,110356,110.356,Above Average
+415,Above Average,24.867038,2244,Saturdays,Saturday,24-Jun-17,4  16  26  39  42  54  -  24,21.387231,21387231,24867038,1,Yes (1),127403,127.403,Above Average
+416,Above Average,24.868568,2214,Saturdays,Saturday,11-Mar-17,6  15  23  29  55  57  -  46,15.207601,15207601,24868568,0,No,120550,120.55,Above Average
+417,Above Average,25.028796,2216,Saturdays,Saturday,18-Mar-17,3  8  19  26  37  41  -  43,19.132964,19132964,25028796,1,Yes (1),181600,181.6,Above Average
+418,Above Average,25.033346,2232,Saturdays,Saturday,13-May-17,7  14  15  21  23  57  -  52,18.754003,18754003,25033346,0,No,182758,182.758,Above Average
+419,Above Average,25.117294,2274,Saturdays,Saturday,07-Oct-17,15  20  30  37  47  51  -  21,18.509759,18509759,25117294,0,No,108316,108.316,Above Average
+420,Above Average,25.121764,2208,Saturdays,Saturday,18-Feb-17,11  13  21  37  49  59  -  4,15.3429,15342900,25121764,1,Yes (1),128400,128.4,Above Average
+421,Above Average,25.153378,2376,Saturdays,Saturday,29-Sep-18,17  36  40  44  54  58  -  27,24.284997,24284997,25153378,0,No,101629,101.629,Above Average
+422,Above Average,25.154284,2176,Saturdays,Saturday,29-Oct-16,7  8  16  24  29  58  -  42,9.075232,9075232,25154284,0,No,172781,172.781,Above Average
+423,Above Average,25.274272,2190,Saturdays,Saturday,17-Dec-16,2  11  18  32  40  54  -  8,15.2876,15287600,25274272,0,No,131840,131.84,Above Average
+424,Above Average,25.290612,2502,Saturdays,Saturday,14-Dec-19,2  21  23  32  44  49  -  56,11.598525,11598525,25290612,0,No,160604,160.604,Above Average
+425,Above Average,25.449652,2564,Saturdays,Saturday,18-Jul-20,1  20  24  32  33  42  -  30,11.499676,11499676,25449652,0,No,134076,134.076,Above Average
+426,Above Average,25.518294,2584,Saturdays,Saturday,26-Sep-20,1  19  35  38  54  55  -  45,11.496937,11496937,25518294,0,No,102731,102.731,Above Average
+427,Above Average,25.558702,2416,Saturdays,Saturday,16-Feb-19,11  15  18  43  46  51  -  12,16.502197,16502197,25558702,0,No,122179,122.179,Above Average
+428,Above Average,25.618364,2276,Saturdays,Saturday,14-Oct-17,6  22  40  43  47  58  -  42,22.673298,22673298,25618364,0,No,112611,112.611,Above Average
+429,Above Average,25.665076,2526,Saturdays,Saturday,07-Mar-20,5  29  35  36  40  44  -  42,11.578001,11578001,25665076,0,No,140091,140.091,Above Average
+430,Above Average,26.159846,2516,Saturdays,Saturday,01-Feb-20,7  42  44  47  58  59  -  52,11.574206,11574206,26159846,0,No,112969,112.969,Above Average
+431,Above Average,26.22638,2168,Saturdays,Saturday,01-Oct-16,4  5  18  28  43  58  -  55,14.49459,14494590,26226380,0,No,153348,153.348,Above Average
+432,Above Average,26.453728,2234,Saturdays,Saturday,20-May-17,7  8  13  29  43  53  -  16,23.03673,23036730,26453728,0,No,161969,161.969,Above Average
+433,Above Average,27.581122,2170,Saturdays,Saturday,08-Oct-16,11  17  20  32  40  42  -  27,19.422626,19422626,27581122,0,No,166366,166.366,Above Average
+434,Above Average,28.130718,2172,Saturdays,Saturday,15-Oct-16,14  16  25  42  46  51  -  53,24.226822,24226822,28130718,0,No,129025,129.025,Above Average
+435,Above Average,28.309662,2602,Saturdays,Saturday,28-Nov-20,9  27  35  45  46  57  -  32,12.032594,12032594,28309662,0,No,141104,141.104,Above Average
+436,Above Average,31.81582,2296,Saturdays,Saturday,23-Dec-17,20  32  36  44  47  56  -  41,22.331857,22331857,31815820,0,No,140589,140.589,Above Average
+437,Above Average,34.233772,2192,Saturdays,Saturday,24-Dec-16,16  19  29  46  54  58  -  12,20.765992,20765992,34233772,0,No,146442,146.442,Above Average
+438,Above Average,34.554072,2194,Saturdays,Saturday,31-Dec-16,10  17  35  41  51  54  -  25,26.293902,26293902,34554072,0,No,146415,146.415,Above Average
