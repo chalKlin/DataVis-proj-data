@@ -35,7 +35,7 @@ Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sal
 2571,Wednesdays,Wednesday,12-Aug-20,6  8  27  31  37  51  -  20,8.52692,8526920,13.770726,Below Average,13770726,0,No,74790,74.79,Below Average
 2570,Saturdays,Saturday,08-Aug-20,2  40  49  53  56  58  -  41,7.178766,7178766,21.203576,Above Average,21203576,0,No,69379,69.379,Below Average
 2569,Wednesdays,Wednesday,05-Aug-20,1  28  42  43  51  58  -  36,5.102936,5102936,13.308846,Below Average,13308846,0,No,48234,48.234,Below Average
-2568,Saturdays,Saturday,01-Aug-20,4  10  13  24  53  56  -  22,3.8,3800000,21,Above Average,21000000,0,No,101564,101.564,Below Average
+2568,Saturdays,Saturday,01-Aug-20,4  10  13  24  53  56  -  22,3.8,3800000,21,Above Average,21000000,0,No,101564,101.564,Above Average
 2567,Wednesdays,Wednesday,29-Jul-20,1  24  39  46  49  52  -  51,5.139353,5139353,13.680828,Below Average,13680828,1,Yes (1),57581,57.581,Below Average
 2566,Saturdays,Saturday,25-Jul-20,10  13  14  18  33  34  -  15,3.8,3800000,21,Above Average,21000000,0,No,125238,125.238,Above Average
 2565,Wednesdays,Wednesday,22-Jul-20,2  7  11  23  37  45  -  19,2,2000000,12.7,Below Average,12700000,1,Yes (1),117945,117.945,Above Average
@@ -133,7 +133,7 @@ Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sal
 2473,Wednesdays,Wednesday,04-Sep-19,11  13  32  40  45  49  -  39,12.852503,12852503,18.321584,Below Average,18321584,0,No,98556,98.556,Below Average
 2472,Saturdays,Saturday,31-Aug-19,5  10  16  26  41  58  -  15,11.05882,11058820,23.723228,Above Average,23723228,0,No,133102,133.102,Above Average
 2471,Wednesdays,Wednesday,28-Aug-19,1  40  41  49  52  57  -  43,8.736316,8736316,14.058028,Below Average,14058028,0,No,49746,49.746,Below Average
-2470,Saturdays,Saturday,24-Aug-19,27  36  39  45  46  55  -  38,7.360035,7360035,23.124914,Above Average,23124914,0,No,99773,99.773,Below Average
+2470,Saturdays,Saturday,24-Aug-19,27  36  39  45  46  55  -  38,7.360035,7360035,23.124914,Above Average,23124914,0,No,99773,99.773,Above Average
 2469,Wednesdays,Wednesday,21-Aug-19,11  14  26  51  53  58  -  30,5.096106,5096106,13.23908,Below Average,13239080,0,No,49835,49.835,Below Average
 2468,Saturdays,Saturday,17-Aug-19,6  9  10  41  46  58  -  45,3.8,3800000,21,Above Average,21000000,0,No,106366,106.366,Above Average
 2467,Wednesdays,Wednesday,14-Aug-19,14  16  24  28  30  53  -  23,12.675909,12675909,18.535464,Below Average,18535464,0,No,102820,102.82,Above Average
@@ -149,7 +149,7 @@ Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sal
 2457,Wednesdays,Wednesday,10-Jul-19,4  10  11  17  53  54  -  6,8.512227,8512227,13.800786,Below Average,13800786,0,No,77349,77.349,Below Average
 2456,Saturdays,Saturday,06-Jul-19,24  30  44  50  56  57  -  9,7.16113,7161130,21.376354,Above Average,21376354,0,No,73675,73.675,Below Average
 2455,Wednesdays,Wednesday,03-Jul-19,10  20  27  29  38  52  -  57,5.068385,5068385,12.955924,Below Average,12955924,0,No,65972,65.972,Below Average
-2454,Saturdays,Saturday,29-Jun-19,11  32  43  44  47  52  -  27,3.8,3800000,21,Above Average,21000000,0,No,100710,100.71,Below Average
+2454,Saturdays,Saturday,29-Jun-19,11  32  43  44  47  52  -  27,3.8,3800000,21,Above Average,21000000,0,No,100710,100.71,Above Average
 2453,Wednesdays,Wednesday,26-Jun-19,5  7  9  24  32  44  -  38,12.49721,12497210,17.778712,Below Average,17778712,0,No,147780,147.78,Above Average
 2452,Saturdays,Saturday,22-Jun-19,6  9  17  32  44  57  -  11,10.756674,10756674,22.917712,Above Average,22917712,0,No,140317,140.317,Above Average
 2451,Wednesdays,Wednesday,19-Jun-19,22  26  31  39  47  55  -  35,8.51303,8513030,13.879744,Below Average,13879744,0,No,62488,62.488,Below Average
@@ -179,7 +179,7 @@ Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sal
 2427,Wednesdays,Wednesday,27-Mar-19,13  18  25  35  39  50  -  21,5.391107,5391107,12.984638,Below Average,12984638,0,No,58902,58.902,Below Average
 2426,Saturdays,Saturday,23-Mar-19,6  26  30  50  52  59  -  27,4.119911,4119911,21.65384,Above Average,21653840,0,No,79748,79.748,Below Average
 2425,Wednesdays,Wednesday,20-Mar-19,2  19  35  53  56  58  -  12,2,2000000,12.7,Below Average,12700000,0,No,44987,44.987,Below Average
-2424,Saturdays,Saturday,16-Mar-19,6  26  32  37  42  59  -  38,3.8,3800000,21,Above Average,21000000,1,Yes (1),100000,100,Below Average
+2424,Saturdays,Saturday,16-Mar-19,6  26  32  37  42  59  -  38,3.8,3800000,21,Above Average,21000000,1,Yes (1),100000,100,Above Average
 2423,Wednesdays,Wednesday,13-Mar-19,1  11  29  40  46  48  -  17,12.984966,12984966,17.69144,Below Average,17691440,0,No,96540,96.54,Below Average
 2422,Saturdays,Saturday,09-Mar-19,22  27  35  40  46  52  -  2,11.252974,11252974,24.274362,Above Average,24274362,0,No,102163,102.163,Above Average
 2421,Wednesdays,Wednesday,06-Mar-19,2  12  15  43  46  53  -  17,8.876514,8876514,15.292574,Below Average,15292574,0,No,73819,73.819,Below Average
@@ -221,23 +221,23 @@ Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sal
 2385,Wednesdays,Wednesday,31-Oct-18,5  14  20  24  28  45  -  21,1.900729,1900729,12.820042,Below Average,12820042,0,No,95941,95.941,Below Average
 2384,Saturdays,Saturday,27-Oct-18,1  6  25  26  31  39  -  56,16.543093,16543093,23.233418,Above Average,23233418,1,Yes (1),159509,159.509,Above Average
 2383,Wednesdays,Wednesday,24-Oct-18,9  22  32  40  51  59  -  17,14.098451,14098451,14.181468,Below Average,14181468,0,No,53577,53.577,Below Average
-2382,Saturdays,Saturday,20-Oct-18,12  18  40  42  46  59  -  49,12.447858,12447858,22.647176,Above Average,22647176,0,No,99585,99.585,Below Average
+2382,Saturdays,Saturday,20-Oct-18,12  18  40  42  46  59  -  49,12.447858,12447858,22.647176,Above Average,22647176,0,No,99585,99.585,Above Average
 2381,Wednesdays,Wednesday,17-Oct-18,1  5  6  20  51  54  -  56,9.590134,9590134,13.21823,Below Average,13218230,0,No,66991,66.991,Below Average
 2380,Saturdays,Saturday,13-Oct-18,19  26  40  52  56  58  -  38,8.130368,8130368,21.905874,Above Average,21905874,0,No,75136,75.136,Below Average
 2379,Wednesdays,Wednesday,10-Oct-18,10  49  50  53  54  56  -  4,5.382585,5382585,13.225284,Below Average,13225284,0,No,42210,42.21,Below Average
 2378,Saturdays,Saturday,06-Oct-18,23  26  30  32  37  39  -  5,3.37713,3377130,22.252,Above Average,22252000,0,No,108349,108.349,Above Average
 2377,Wednesdays,Wednesday,03-Oct-18,3  5  11  25  27  45  -  18,26.364533,26364533,20.77085,Above Average,20770850,0,No,178735,178.735,Above Average
-2376,Saturdays,Saturday,29-Sep-18,17  36  40  44  54  58  -  27,24.284997,24284997,25.153378,Above Average,25153378,0,No,101629,101.629,Below Average
+2376,Saturdays,Saturday,29-Sep-18,17  36  40  44  54  58  -  27,24.284997,24284997,25.153378,Above Average,25153378,0,No,101629,101.629,Above Average
 2375,Wednesdays,Wednesday,26-Sep-18,3  8  37  39  47  59  -  42,21.555697,21555697,16.025528,Below Average,16025528,0,No,75063,75.063,Below Average
 2374,Saturdays,Saturday,22-Sep-18,5  16  18  20  25  55  -  36,20.125455,20125455,23.966954,Above Average,23966954,0,No,155456,155.456,Above Average
 2373,Wednesdays,Wednesday,19-Sep-18,7  20  25  26  34  40  -  59,17.572057,17572057,14.330938,Below Average,14330938,0,No,86516,86.516,Below Average
 2372,Saturdays,Saturday,15-Sep-18,25  42  48  50  55  58  -  44,16.447318,16447318,23.091986,Above Average,23091986,0,No,79958,79.958,Below Average
 2371,Wednesdays,Wednesday,12-Sep-18,11  12  13  14  54  56  -  36,13.945461,13945461,14.092038,Below Average,14092038,0,No,60736,60.736,Below Average
-2370,Saturdays,Saturday,08-Sep-18,7  19  33  34  52  53  -  48,12.30843,12308430,23.026866,Above Average,23026866,0,No,100223,100.223,Below Average
+2370,Saturdays,Saturday,08-Sep-18,7  19  33  34  52  53  -  48,12.30843,12308430,23.026866,Above Average,23026866,0,No,100223,100.223,Above Average
 2369,Wednesdays,Wednesday,05-Sep-18,12  18  22  23  48  59  -  47,9.394412,9394412,13.774026,Below Average,13774026,0,No,75586,75.586,Below Average
 2368,Saturdays,Saturday,01-Sep-18,3  21  22  38  46  55  -  50,7.852229,7852229,21.736994,Above Average,21736994,0,No,103534,103.534,Above Average
 2367,Wednesdays,Wednesday,29-Aug-18,19  23  30  50  51  54  -  55,5.055854,5055854,12.603304,Below Average,12603304,0,No,44818,44.818,Below Average
-2366,Saturdays,Saturday,25-Aug-18,9  22  33  39  41  56  -  48,3.187258,3187258,21.497414,Above Average,21497414,0,No,100651,100.651,Below Average
+2366,Saturdays,Saturday,25-Aug-18,9  22  33  39  41  56  -  48,3.187258,3187258,21.497414,Above Average,21497414,0,No,100651,100.651,Above Average
 2365,Wednesdays,Wednesday,22-Aug-18,15  20  21  25  34  47  -  36,6.685121,6685121,13.469472,Below Average,13469472,1,Yes (1),75290,75.29,Below Average
 2364,Saturdays,Saturday,18-Aug-18,1  2  6  12  13  55  -  11,5.188105,5188105,21.77221,Above Average,21772210,0,No,156819,156.819,Above Average
 2363,Wednesdays,Wednesday,15-Aug-18,3  28  34  41  48  58  -  54,1.960095,1960095,12.925282,Below Average,12925282,0,No,55865,55.865,Below Average
@@ -246,7 +246,7 @@ Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sal
 2360,Saturdays,Saturday,04-Aug-18,5  17  23  25  34  51  -  52,9.309088,9309088,22.603746,Above Average,22603746,0,No,135533,135.533,Above Average
 2359,Wednesdays,Wednesday,01-Aug-18,15  17  18  34  46  54  -  4,6.457803,6457803,13.222514,Below Average,13222514,0,No,57068,57.068,Below Average
 2358,Saturdays,Saturday,28-Jul-18,11  29  31  32  38  45  -  10,4.997402,4997402,21.383168,Above Average,21383168,0,No,120770,120.77,Above Average
-2357,Wednesdays,Wednesday,25-Jul-18,5  19  20  23  30  43  -  6,1.827083,1827083,12.323308,Below Average,12323308,0,No,99716,99.716,Below Average
+2357,Wednesdays,Wednesday,25-Jul-18,5  19  20  23  30  43  -  6,1.827083,1827083,12.323308,Below Average,12323308,0,No,99716,99.716,Above Average
 2356,Saturdays,Saturday,21-Jul-18,9  13  16  25  40  46  -  52,7.748131,7748131,21.477046,Above Average,21477046,1,Yes (1),138862,138.862,Above Average
 2355,Wednesdays,Wednesday,18-Jul-18,22  34  44  49  51  53  -  33,5.063895,5063895,12.849174,Below Average,12849174,0,No,47512,47.512,Below Average
 2354,Saturdays,Saturday,14-Jul-18,4  8  13  26  41  55  -  58,3.115342,3115342,21.012356,Above Average,21012356,0,No,125080,125.08,Above Average
@@ -285,7 +285,7 @@ Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sal
 2321,Wednesdays,Wednesday,21-Mar-18,2  35  44  51  54  55  -  45,6.530267,6530267,13.286218,Below Average,13286218,0,No,44805,44.805,Below Average
 2320,Saturdays,Saturday,17-Mar-18,7  8  13  24  45  46  -  39,5.060421,5060421,21.901482,Above Average,21901482,0,No,156675,156.675,Above Average
 2319,Wednesdays,Wednesday,14-Mar-18,7  19  38  45  47  53  -  15,1.813255,1813255,12.23004,Below Average,12230040,0,No,61847,61.847,Below Average
-2318,Saturdays,Saturday,10-Mar-18,3  7  36  42  53  59  -  50,7.988062,7988062,22.203922,Above Average,22203922,1,Yes (1),101289,101.289,Below Average
+2318,Saturdays,Saturday,10-Mar-18,3  7  36  42  53  59  -  50,7.988062,7988062,22.203922,Above Average,22203922,1,Yes (1),101289,101.289,Above Average
 2317,Wednesdays,Wednesday,07-Mar-18,8  10  22  37  55  57  -  29,5.120878,5120878,13.067242,Below Average,13067242,0,No,57618,57.618,Below Average
 2316,Saturdays,Saturday,03-Mar-18,15  19  20  29  42  50  -  36,3.183498,3183498,21.472054,Above Average,21472054,0,No,104540,104.54,Above Average
 2315,Wednesdays,Wednesday,28-Feb-18,9  10  27  30  33  45  -  29,6.700919,6700919,12.932446,Below Average,12932446,1,Yes (1),98603,98.603,Below Average
@@ -315,7 +315,7 @@ Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sal
 2291,Wednesdays,Wednesday,06-Dec-17,3  19  24  31  50  52  -  16,10.999536,10999536,13.73831,Below Average,13738310,0,No,66160,66.16,Below Average
 2290,Saturdays,Saturday,02-Dec-17,4  9  13  32  46  50  -  52,9.462662,9462662,22.348578,Above Average,22348578,0,No,114517,114.517,Above Average
 2289,Wednesdays,Wednesday,29-Nov-17,20  32  42  43  53  58  -  8,6.649202,6649202,13.21176,Below Average,13211760,0,No,42868,42.868,Below Average
-2288,Saturdays,Saturday,25-Nov-17,4  7  29  45  54  56  -  8,5.145663,5145663,22.193216,Above Average,22193216,0,No,100838,100.838,Below Average
+2288,Saturdays,Saturday,25-Nov-17,4  7  29  45  54  56  -  8,5.145663,5145663,22.193216,Above Average,22193216,0,No,100838,100.838,Above Average
 2287,Wednesdays,Wednesday,22-Nov-17,2  16  17  27  36  37  -  42,1.855244,1855244,12.513248,Below Average,12513248,0,No,85323,85.323,Below Average
 2286,Saturdays,Saturday,18-Nov-17,1  20  24  36  54  58  -  11,18.188218,18188218,23.835694,Above Average,23835694,1,Yes (1),92792,92.792,Below Average
 2285,Wednesdays,Wednesday,15-Nov-17,2  11  22  36  51  59  -  7,15.654281,15654281,14.527818,Below Average,14527818,0,No,66661,66.661,Below Average
@@ -362,7 +362,7 @@ Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sal
 2244,Saturdays,Saturday,24-Jun-17,4  16  26  39  42  54  -  24,21.387231,21387231,24.867038,Above Average,24867038,1,Yes (1),127403,127.403,Above Average
 2243,Wednesdays,Wednesday,21-Jun-17,1  3  5  11  15  43  -  48,18.700435,18700435,15.122,Below Average,15122000,0,No,149298,149.298,Above Average
 2242,Saturdays,Saturday,17-Jun-17,1  11  16  20  24  44  -  42,17.407211,17407211,23.809736,Above Average,23809736,0,No,190541,190.541,Above Average
-2241,Wednesdays,Wednesday,14-Jun-17,2  4  14  23  34  46  -  45,14.877043,14877043,14.49603,Below Average,14496030,0,No,100134,100.134,Below Average
+2241,Wednesdays,Wednesday,14-Jun-17,2  4  14  23  34  46  -  45,14.877043,14877043,14.49603,Below Average,14496030,0,No,100134,100.134,Above Average
 2240,Saturdays,Saturday,10-Jun-17,10  18  28  35  36  50  -  2,13.178747,13178747,23.866324,Above Average,23866324,0,No,117297,117.297,Above Average
 2239,Wednesdays,Wednesday,07-Jun-17,6  8  12  36  37  41  -  50,10.140252,10140252,14.137848,Below Average,14137848,0,No,91798,91.798,Below Average
 2238,Saturdays,Saturday,03-Jun-17,12  19  21  38  47  51  -  48,8.496269,8496269,23.190178,Above Average,23190178,0,No,119042,119.042,Above Average
@@ -405,7 +405,7 @@ Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sal
 2201,Wednesdays,Wednesday,25-Jan-17,4  9  20  23  37  53  -  39,5.552469,5552469,13.56093,Below Average,13560930,0,No,77153,77.153,Below Average
 2200,Saturdays,Saturday,21-Jan-17,4  13  37  40  52  58  -  51,3.495493,3495493,23.576398,Above Average,23576398,0,No,89301,89.301,Below Average
 2199,Wednesdays,Wednesday,18-Jan-17,8  14  20  27  28  53  -  45,6.103436,6103436,14.70619,Below Average,14706190,2,Yes (2),92961,92.961,Below Average
-2198,Saturdays,Saturday,14-Jan-17,14  19  21  36  53  54  -  33,10.526484,10526484,24.62208,Above Average,24622080,0,No,100946,100.946,Below Average
+2198,Saturdays,Saturday,14-Jan-17,14  19  21  36  53  54  -  33,10.526484,10526484,24.62208,Above Average,24622080,0,No,100946,100.946,Above Average
 2197,Wednesdays,Wednesday,11-Jan-17,21  26  29  35  46  59  -  10,7.291956,7291956,14.178908,Below Average,14178908,0,No,57724,57.724,Below Average
 2196,Saturdays,Saturday,07-Jan-17,8  16  33  36  45  51  -  38,5.689783,5689783,24.1803,Above Average,24180300,0,No,114559,114.559,Above Average
 2195,Wednesdays,Wednesday,04-Jan-17,10  29  37  42  48  49  -  32,2.024754,2024754,13.656506,Below Average,13656506,0,No,71918,71.918,Below Average
