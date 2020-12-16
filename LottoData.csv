@@ -1,4 +1,4 @@
-Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sales (m),Sales Above or Below Average,Draw Sales,Jackpot Winners,Jackpot Won (with num),Total Winners,Total Winners (thousands),Number of Winners Above or Below Average
+Draw Number,Sales for,Draw Day,Time,Balls,Jackpot Size (m),Jackpot Size,Draw Sales (m),Sales Above or Below Average,Draw Sales,Jackpot Winners,Jackpot Won (with num),Total Winners,Total Winners (ths),Number of Winners Above or Below Average
 2589,Wednesdays,Wednesday,14-Oct-20,9  12  28  31  46  50  -  10,8.996243,8996243,14.720246,Below Average,14720246,1,Yes (1),83239,83.239,Below Average
 2572,Saturdays,Saturday,15-Aug-20,10  14  16  22  25  34  -  21,10.770647,10770647,22.91856,Above Average,22918560,1,Yes (1),162084,162.084,Above Average
 2567,Wednesdays,Wednesday,29-Jul-20,1  24  39  46  49  52  -  51,5.139353,5139353,13.680828,Below Average,13680828,1,Yes (1),57581,57.581,Below Average
