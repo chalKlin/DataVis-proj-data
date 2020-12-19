@@ -39,7 +39,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 74,Below Average,12.7,12700000,2597,Wednesday,Weekday (Wed),11-Nov-20,6  36  46  49  50  59  -  38,2,2000000,0,No,No,50.101,50101,Below Average
 75,Below Average,12.7,12700000,2603,Wednesday,Weekday (Wed),02-Dec-20,16  22  26  38  39  47  -  48,2,2000000,0,No,No,71.975,71975,Below Average
 76,Below Average,12.716286,12716286,2389,Wednesday,Weekday (Wed),14-Nov-18,4  11  20  45  48  53  -  16,1.928401,1928401,0,No,No,63.86,63860,Below Average
-77,Below Average,12.72177,12721770,2267,Wednesday,Weekday (Wed),13-Sep-17,4  11  14  21  29  56  -  27,1.88616,1886160,0,No,No,95.351,95351,Below Average
+77,Below Average,12.72177,12721770,2267,Wednesday,Weekday (Wed),13-Sep-17,4  11  14  21  29  56  -  27,1.886160,1886160,0,No,No,95.351,95351,Below Average
 78,Below Average,12.729604,12729604,2351,Wednesday,Weekday (Wed),04-Jul-18,8  13  22  46  52  58  -  7,6.417197,6417197,0,No,No,53.552,53552,Below Average
 79,Below Average,12.78619,12786190,2519,Wednesday,Weekday (Wed),12-Feb-20,2  3  5  27  51  54  -  6,5.051768,5051768,1,Yes (1),Yes (Single Ticket),68.949,68949,Below Average
 80,Below Average,12.802502,12802502,2449,Wednesday,Weekday (Wed),12-Jun-19,6  16  34  36  37  53  -  50,5.053365,5053365,0,No,No,55.828,55828,Below Average
@@ -62,7 +62,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 97,Below Average,13.062534,13062534,2493,Wednesday,Weekday (Wed),13-Nov-19,1  2  7  9  44  55  -  39,5.078822,5078822,0,No,No,96.644,96644,Below Average
 98,Below Average,13.067242,13067242,2317,Wednesday,Weekday (Wed),07-Mar-18,8  10  22  37  55  57  -  29,5.120878,5120878,0,No,No,57.618,57618,Below Average
 99,Below Average,13.097354,13097354,2433,Wednesday,Weekday (Wed),17-Apr-19,8  23  28  42  43  51  -  52,5.378892,5378892,0,No,No,69.451,69451,Below Average
-100,Below Average,13.098542,13098542,2245,Wednesday,Weekday (Wed),28-Jun-17,2  10  21  23  54  56  -  44,1.98637,1986370,0,No,No,64.384,64384,Below Average
+100,Below Average,13.098542,13098542,2245,Wednesday,Weekday (Wed),28-Jun-17,2  10  21  23  54  56  -  44,1.986370,1986370,0,No,No,64.384,64384,Below Average
 101,Below Average,13.112308,13112308,2533,Wednesday,Weekday (Wed),01-Apr-20,4  16  17  22  27  52  -  30,8.061599,8061599,1,Yes (1),Yes (Single Ticket),88.248,88248,Below Average
 102,Below Average,13.114116,13114116,2399,Wednesday,Weekday (Wed),19-Dec-18,12  24  33  34  39  56  -  38,5.341733,5341733,0,No,No,58.364,58364,Below Average
 103,Below Average,13.135822,13135822,2261,Wednesday,Weekday (Wed),23-Aug-17,8  16  21  41  44  56  -  45,5.372825,5372825,0,No,No,67.559,67559,Below Average
@@ -77,7 +77,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 112,Below Average,13.225284,13225284,2379,Wednesday,Weekday (Wed),10-Oct-18,10  49  50  53  54  56  -  4,5.382585,5382585,0,No,No,42.21,42210,Below Average
 113,Below Average,13.23908,13239080,2469,Wednesday,Weekday (Wed),21-Aug-19,11  14  26  51  53  58  -  30,5.096106,5096106,0,No,No,49.835,49835,Below Average
 114,Below Average,13.274586,13274586,2591,Wednesday,Weekday (Wed),21-Oct-20,9  12  27  28  29  44  -  8,5.099582,5099582,0,No,No,117.821,117821,Above Average
-115,Below Average,13.274914,13274914,2513,Wednesday,Weekday (Wed),22-Jan-20,19  23  25  29  30  36  -  14,5.34303,5343030,1,Yes (1),Yes (Single Ticket),89.022,89022,Below Average
+115,Below Average,13.274914,13274914,2513,Wednesday,Weekday (Wed),22-Jan-20,19  23  25  29  30  36  -  14,5.343030,5343030,1,Yes (1),Yes (Single Ticket),89.022,89022,Below Average
 116,Below Average,13.279642,13279642,2499,Wednesday,Weekday (Wed),04-Dec-19,9  13  21  25  28  31  -  1,5.434036,5434036,0,No,No,116.89,116890,Above Average
 117,Below Average,13.283802,13283802,2209,Wednesday,Weekday (Wed),22-Feb-17,1  16  28  31  38  54  -  5,2.014488,2014488,0,No,No,65.661,65661,Below Average
 118,Below Average,13.286218,13286218,2321,Wednesday,Weekday (Wed),21-Mar-18,2  35  44  51  54  55  -  45,6.530267,6530267,0,No,No,44.805,44805,Below Average
