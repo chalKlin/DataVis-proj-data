@@ -269,7 +269,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 304,Below Average,48.537347,48537347,1282,Friday,Fridays,03-Jan-20,5  15  20  36  47  -  08  12,55.523057,55523057,0,No,No,1.873287,1873287,Below Average,Both Below,Jackpot Only,Above Average
 305,Below Average,48.559511,48559511,1007,Tuesday,Tuesdays,16-May-17,8  11  15  20  30  -  03  08,84.319251,84319251,0,No,No,2.211257,2211257,Above Average,Wins Only,Jackpot + Wins Above,Above Average
 306,Below Average,48.571184,48571184,1040,Friday,Fridays,08-Sep-17,9  24  42  47  49  -  01  05,25.993675,25993675,0,No,No,1.718948,1718948,Below Average,Both Below,All Below,Below Average
-307,Average Sales,48.63,48630000,0,Average Sales,Average Sales,,,190,190000000,Average Sales,Average Sales,Average Sales,5.25,5250000,Average Sales,,,
+307,Average Sales,48.63,48630000,0,Average Sales,Average Sales,,,190,190000000,,,Average Sales,5.25,5250000,,,,
 308,Above Average,48.699208,48699208,1096,Friday,Fridays,23-Mar-18,5  7  11  46  50  -  08  11,32.771739,32771739,0,No,No,2.047673,2047673,Above Average,Both Above,Sales + Wins Above,Below Average
 309,Above Average,48.737388,48737388,1152,Friday,Fridays,05-Oct-18,8  16  24  26  35  -  03  11,14.9481,14948100,1,Yes (1),Yes (Single Ticket),1.959734,1959734,Above Average,Both Above,Sales + Wins Above,Below Average
 310,Above Average,48.995782,48995782,1074,Friday,Fridays,05-Jan-18,2  5  20  38  41  -  04  08,25.687589,25687589,0,No,No,1.865975,1865975,Below Average,Sales Only,Sales Only,Below Average
