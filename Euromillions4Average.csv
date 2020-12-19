@@ -268,7 +268,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 303,Below Average,48.537347,48537347,1282,Friday,Fridays,03-Jan-20,5  15  20  36  47  -  08  12,55.523057,55523057,0,No,No,1.873287,1873287,Below Average
 304,Below Average,48.559511,48559511,1007,Tuesday,Tuesdays,16-May-17,8  11  15  20  30  -  03  08,84.319251,84319251,0,No,No,2.211257,2211257,Above Average
 305,Below Average,48.571184,48571184,1040,Friday,Fridays,08-Sep-17,9  24  42  47  49  -  01  05,25.993675,25993675,0,No,No,1.718948,1718948,Below Average
-306,Average Sales,48.63,48630000,0,Average Sales,Average Sales,,,190,190000000,,,Average Sales,5.49,5490000,
+306,Average Sales,48.63,48630000,,Average Sales,Average Sales,,,190,199000000,,,Average Sales,5.49,5490000,
 307,Above Average,48.699208,48699208,1096,Friday,Fridays,23-Mar-18,5  7  11  46  50  -  08  11,32.771739,32771739,0,No,No,2.267673,2267673,Above Average
 308,Above Average,48.737388,48737388,1152,Friday,Fridays,05-Oct-18,8  16  24  26  35  -  03  11,14.9481,14948100,1,Yes (1),Yes (Single Ticket),2.179734,2179734,Above Average
 309,Above Average,48.995782,48995782,1074,Friday,Fridays,05-Jan-18,2  5  20  38  41  -  04  08,25.687589,25687589,0,No,No,2.185975,2185975,Below Average
