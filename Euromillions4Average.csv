@@ -1,439 +1,440 @@
-Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Number,Draw Day,Sales for,Time,Balls,Jackpot Size (m),Jackpot Size,Jackpot Above or Below Average,Draw Sales,Jackpot Winners,Jackpot Won (with num),Jackpot Won,Total Winners (m),Total Winners,Number of Winners Above or Below Average,Averages,Average
-37,Below Average,20.144991,1305,Tuesday,Tuesdays,24-Mar-20,7  12  26  30  33  -  10  11,15.6213,15621300,Below Average,20144991,0,No,No,0.84388,843880,Below Average,Both Below,All Below
-38,Below Average,21.554075,1307,Tuesday,Tuesdays,31-Mar-20,12  17  24  30  36  -  01  09,27.30865,27308650,Below Average,21554075,0,No,No,0.903675,903675,Below Average,Both Below,All Below
-39,Below Average,22.057948,1313,Tuesday,Tuesdays,21-Apr-20,10  11  14  23  28  -  06  08,15.0263,15026300,Below Average,22057948,0,No,No,1.064251,1064251,Below Average,Both Below,All Below
-40,Below Average,23.545017,1309,Tuesday,Tuesdays,07-Apr-20,4  5  14  33  48  -  07  12,40.506751,40506751,Below Average,23545017,0,No,No,0.899399,899399,Below Average,Both Below,All Below
-41,Below Average,23.724858,1315,Tuesday,Tuesdays,28-Apr-20,15  23  26  28  32  -  01  05,28.167968,28167968,Below Average,23724858,0,No,No,1.006798,1006798,Below Average,Both Below,All Below
-42,Below Average,23.843223,1311,Tuesday,Tuesdays,14-Apr-20,6  29  34  35  40  -  04  11,51.538058,51538058,Below Average,23843223,0,No,No,0.802806,802806,Below Average,Both Below,All Below
-43,Below Average,26.642797,1317,Tuesday,Tuesdays,05-May-20,2  10  22  27  41  -  02  03,42.596857,42596857,Below Average,26642797,0,No,No,1.124062,1124062,Below Average,Both Below,All Below
-44,Below Average,27.562926,1306,Friday,Fridays,27-Mar-20,11  14  27  41  46  -  02  03,22.095531,22095531,Below Average,27562926,0,No,No,1.049548,1049548,Below Average,Both Below,All Below
-45,Below Average,28.205637,1303,Tuesday,Tuesdays,17-Mar-20,5  7  8  16  20  -  02  12,57.86967,57869670,Above Average,28205637,1,Yes (1),Yes (Single Ticket),1.271942,1271942,Below Average,Both Below,Jackpot Only
-46,Below Average,28.828629,1319,Tuesday,Tuesdays,12-May-20,9  16  29  37  39  -  04  11,56.472701,56472701,Above Average,28828629,0,No,No,1.129528,1129528,Below Average,Both Below,Jackpot Only
-47,Below Average,29.068637,1304,Friday,Fridays,20-Mar-20,3  9  20  34  40  -  06  12,15.6961,15696100,Below Average,29068637,1,Yes (1),Yes (Single Ticket),1.095514,1095514,Below Average,Both Below,All Below
-48,Below Average,29.528525,1308,Friday,Fridays,03-Apr-20,16  19  34  46  50  -  02  06,34.546128,34546128,Below Average,29528525,0,No,No,1.074084,1074084,Below Average,Both Below,All Below
-49,Below Average,29.646765,999,Tuesday,Tuesdays,18-Apr-17,17  22  31  38  45  -  05  12,20.624201,20624201,Below Average,29646765,0,No,No,1.159706,1159706,Below Average,Both Below,All Below
-50,Below Average,29.666277,1321,Tuesday,Tuesdays,19-May-20,5  25  32  37  43  -  06  07,15.1708,15170800,Below Average,29666277,0,No,No,1.085982,1085982,Below Average,Both Below,All Below
-51,Below Average,29.74279,1314,Friday,Fridays,24-Apr-20,1  5  19  21  28  -  04  07,22.310697,22310697,Below Average,29742790,0,No,No,1.424425,1424425,Below Average,Both Below,All Below
-52,Below Average,29.876708,1325,Tuesday,Tuesdays,02-Jun-20,10  12  22  26  49  -  07  11,15.1487,15148700,Below Average,29876708,0,No,No,1.246757,1246757,Below Average,Both Below,All Below
-53,Below Average,30.577404,1033,Tuesday,Tuesdays,15-Aug-17,10  14  30  35  46  -  04  10,22.117219,22117219,Below Average,30577404,0,No,No,1.085088,1085088,Below Average,Both Below,All Below
-54,Below Average,31.195213,1129,Tuesday,Tuesdays,17-Jul-18,4  6  27  48  50  -  01  11,15.1266,15126600,Below Average,31195213,0,No,No,1.200506,1200506,Below Average,Both Below,All Below
-55,Below Average,31.244183,1123,Tuesday,Tuesdays,26-Jun-18,15  16  20  34  50  -  04  07,21.730843,21730843,Below Average,31244183,0,No,No,1.191611,1191611,Below Average,Both Below,All Below
-56,Below Average,31.245095,983,Tuesday,Tuesdays,21-Feb-17,13  19  41  45  49  -  03  04,14.3837,14383700,Below Average,31245095,0,No,No,1.226656,1226656,Below Average,Both Below,All Below
-57,Below Average,31.312678,1316,Friday,Fridays,01-May-20,19  20  38  45  47  -  02  06,36.22869,36228690,Below Average,31312678,0,No,No,1.159354,1159354,Below Average,Both Below,All Below
-58,Below Average,31.462558,1329,Tuesday,Tuesdays,16-Jun-20,4  9  11  17  39  -  02  10,15.2456,15245600,Below Average,31462558,0,No,No,1.422794,1422794,Below Average,Both Below,All Below
-59,Below Average,31.550321,1107,Tuesday,Tuesdays,01-May-18,6  15  17  42  48  -  04  06,21.805469,21805469,Below Average,31550321,0,No,No,1.261262,1261262,Below Average,Both Below,All Below
-60,Below Average,31.680558,1323,Tuesday,Tuesdays,26-May-20,4  9  14  21  27  -  04  06,16.530706,16530706,Below Average,31680558,2,Yes (2),Yes (Multiple Tickets),1.479396,1479396,Below Average,Both Below,All Below
-61,Below Average,31.716791,961,Tuesday,Tuesdays,06-Dec-16,1  7  11  27  45  -  04  09,14.3922,14392200,Below Average,31716791,0,No,No,1.56226,1562260,Below Average,Both Below,All Below
-62,Below Average,31.7302,1071,Tuesday,Tuesdays,26-Dec-17,4  17  30  43  44  -  02  10,21.951423,21951423,Below Average,31730200,0,No,No,1.229515,1229515,Below Average,Both Below,All Below
-63,Below Average,31.799224,1119,Tuesday,Tuesdays,12-Jun-18,7  21  23  36  38  -  06  08,14.9549,14954900,Below Average,31799224,0,No,No,1.372593,1372593,Below Average,Both Below,All Below
-64,Below Average,31.826643,1213,Tuesday,Tuesdays,07-May-19,7  20  26  32  47  -  02  11,21.438454,21438454,Below Average,31826643,1,Yes (1),Yes (Single Ticket),1.2743,1274300,Below Average,Both Below,All Below
-65,Below Average,31.886384,1165,Tuesday,Tuesdays,20-Nov-18,6  19  39  45  48  -  07  12,15.13,15130000,Below Average,31886384,0,No,No,1.137225,1137225,Below Average,Both Below,All Below
-66,Below Average,31.950906,1310,Friday,Fridays,10-Apr-20,3  10  17  33  39  -  01  04,46.937085,46937085,Below Average,31950906,0,No,No,1.386674,1386674,Below Average,Both Below,All Below
-67,Below Average,31.989495,1117,Tuesday,Tuesdays,05-Jun-18,9  15  22  39  46  -  04  05,14.8869,14886900,Below Average,31989495,1,Yes (1),Yes (Single Ticket),1.251307,1251307,Below Average,Both Below,All Below
-68,Below Average,32.011673,1215,Tuesday,Tuesdays,14-May-19,10  14  17  25  50  -  02  10,21.687521,21687521,Below Average,32011673,0,No,No,1.410524,1410524,Below Average,Both Below,All Below
-69,Below Average,32.063846,1073,Tuesday,Tuesdays,02-Jan-18,10  20  21  28  48  -  01  08,15.0841,15084100,Below Average,32063846,0,No,No,1.318113,1318113,Below Average,Both Below,All Below
-70,Below Average,32.285053,1209,Tuesday,Tuesdays,23-Apr-19,18  23  27  42  44  -  02  07,38.254645,38254645,Below Average,32285053,1,Yes (1),Yes (Single Ticket),1.406675,1406675,Below Average,Both Below,All Below
-71,Below Average,32.32983,1029,Tuesday,Tuesdays,01-Aug-17,14  21  24  29  30  -  08  10,15.2082,15208200,Below Average,32329830,0,No,No,1.316448,1316448,Below Average,Both Below,All Below
-72,Below Average,32.473241,1235,Tuesday,Tuesdays,23-Jul-19,1  14  19  23  38  -  03  07,15.2541,15254100,Below Average,32473241,0,No,No,1.453208,1453208,Below Average,Both Below,All Below
-73,Below Average,32.579553,967,Tuesday,Tuesdays,27-Dec-16,3  22  25  32  39  -  07  12,21.534783,21534783,Below Average,32579553,1,Yes (1),Yes (Single Ticket),1.291565,1291565,Below Average,Both Below,All Below
-74,Below Average,32.65944,1037,Tuesday,Tuesdays,29-Aug-17,4  12  15  32  38  -  01  05,15.7675,15767500,Below Average,32659440,0,No,No,1.270407,1270407,Below Average,Both Below,All Below
-75,Below Average,32.66444,1289,Tuesday,Tuesdays,28-Jan-20,1  19  27  31  38  -  04  05,14.4092,14409200,Below Average,32664440,0,No,No,1.398506,1398506,Below Average,Both Below,All Below
-76,Below Average,32.66667,959,Tuesday,Tuesdays,29-Nov-16,21  26  27  28  38  -  09  11,14.4942,14494200,Below Average,32666670,0,No,No,1.332834,1332834,Below Average,Both Below,All Below
-77,Below Average,32.677246,1199,Tuesday,Tuesdays,19-Mar-19,1  6  9  34  47  -  07  12,14.552,14552000,Below Average,32677246,0,No,No,1.27648,1276480,Below Average,Both Below,All Below
-78,Below Average,32.774493,991,Tuesday,Tuesdays,21-Mar-17,1  20  23  44  47  -  04  11,21.81829,21818290,Below Average,32774493,0,No,No,1.242536,1242536,Below Average,Both Below,All Below
-79,Below Average,32.820289,1101,Tuesday,Tuesdays,10-Apr-18,14  27  39  46  48  -  11  12,14.8291,14829100,Below Average,32820289,1,Yes (1),Yes (Single Ticket),1.150268,1150268,Below Average,Both Below,All Below
-80,Below Average,32.932697,1121,Tuesday,Tuesdays,19-Jun-18,7  19  26  42  50  -  04  09,31.80904,31809040,Below Average,32932697,1,Yes (1),Yes (Single Ticket),1.406546,1406546,Below Average,Both Below,All Below
-81,Below Average,32.967296,969,Tuesday,Tuesdays,03-Jan-17,19  23  27  34  49  -  01  11,21.591336,21591336,Below Average,32967296,0,No,No,1.40692,1406920,Below Average,Both Below,All Below
-82,Below Average,33.089651,1039,Tuesday,Tuesdays,05-Sep-17,6  9  18  28  29  -  01  09,15.5601,15560100,Below Average,33089651,0,No,No,1.450942,1450942,Below Average,Both Below,All Below
-83,Below Average,33.093736,1111,Tuesday,Tuesdays,15-May-18,4  16  20  31  39  -  02  12,22.065747,22065747,Below Average,33093736,0,No,No,1.249694,1249694,Below Average,Both Below,All Below
-84,Below Average,33.102563,1287,Tuesday,Tuesdays,21-Jan-20,10  11  24  36  46  -  03  05,14.4636,14463600,Below Average,33102563,0,No,No,1.332112,1332112,Below Average,Both Below,All Below
-85,Below Average,33.108174,1312,Friday,Fridays,17-Apr-20,16  28  32  37  45  -  01  11,58.366488,58366488,Above Average,33108174,1,Yes (1),Yes (Single Ticket),1.217562,1217562,Below Average,Both Below,Jackpot Only
-86,Below Average,33.150425,1207,Tuesday,Tuesdays,16-Apr-19,1  8  15  44  49  -  02  11,21.879091,21879091,Below Average,33150425,0,No,No,1.321568,1321568,Below Average,Both Below,All Below
-87,Below Average,33.203867,1211,Tuesday,Tuesdays,30-Apr-19,5  12  20  26  48  -  02  11,21.815835,21815835,Below Average,33203867,1,Yes (1),Yes (Single Ticket),1.432093,1432093,Below Average,Both Below,All Below
-88,Below Average,33.278241,1131,Tuesday,Tuesdays,24-Jul-18,2  4  23  39  40  -  03  09,32.023423,32023423,Below Average,33278241,0,No,No,1.30674,1306740,Below Average,Both Below,All Below
-89,Below Average,33.279015,1025,Tuesday,Tuesdays,18-Jul-17,1  25  27  41  45  -  05  07,22.265567,22265567,Below Average,33279015,0,No,No,1.279792,1279792,Below Average,Both Below,All Below
-90,Below Average,33.356636,1113,Tuesday,Tuesdays,22-May-18,1  11  37  41  48  -  08  12,39.384424,39384424,Below Average,33356636,0,No,No,1.146279,1146279,Below Average,Both Below,All Below
-91,Below Average,33.37085,1295,Tuesday,Tuesdays,18-Feb-20,11  32  34  38  47  -  02  10,22.469712,22469712,Below Average,33370850,0,No,No,1.237264,1237264,Below Average,Both Below,All Below
-92,Below Average,33.406521,1023,Tuesday,Tuesdays,11-Jul-17,14  22  26  42  50  -  08  10,15.1895,15189500,Below Average,33406521,1,Yes (1),Yes (Single Ticket),1.24581,1245810,Below Average,Both Below,All Below
-93,Below Average,33.481699,1145,Tuesday,Tuesdays,11-Sep-18,9  18  32  38  46  -  02  03,22.382447,22382447,Below Average,33481699,0,No,No,1.224671,1224671,Below Average,Both Below,All Below
-94,Below Average,33.545007,1299,Tuesday,Tuesdays,03-Mar-20,4  14  27  44  45  -  01  10,14.841,14841000,Below Average,33545007,0,No,No,1.328279,1328279,Below Average,Both Below,All Below
-95,Below Average,33.554997,1153,Tuesday,Tuesdays,09-Oct-18,3  12  36  44  45  -  08  11,14.8733,14873300,Below Average,33554997,0,No,No,1.267101,1267101,Below Average,Both Below,All Below
-96,Below Average,33.568299,1341,Tuesday,Tuesdays,28-Jul-20,9  13  15  17  34  -  02  07,23.795774,23795774,Below Average,33568299,0,No,No,1.523445,1523445,Below Average,Both Below,All Below
-97,Below Average,33.680421,979,Tuesday,Tuesdays,07-Feb-17,4  10  31  38  44  -  08  10,21.809971,21809971,Below Average,33680421,0,No,No,1.346517,1346517,Below Average,Both Below,All Below
-98,Below Average,33.719838,951,Tuesday,Tuesdays,01-Nov-16,6  10  20  29  37  -  01  09,15.3629,15362900,Below Average,33719838,0,No,No,1.372058,1372058,Below Average,Both Below,All Below
-99,Below Average,33.789459,985,Tuesday,Tuesdays,28-Feb-17,10  20  31  35  42  -  02  12,31.923442,31923442,Below Average,33789459,0,No,No,1.278736,1278736,Below Average,Both Below,All Below
-100,Below Average,33.806711,1141,Tuesday,Tuesdays,28-Aug-18,4  16  32  42  46  -  08  12,22.758649,22758649,Below Average,33806711,0,No,No,1.134507,1134507,Below Average,Both Below,All Below
-101,Below Average,33.812645,1021,Tuesday,Tuesdays,04-Jul-17,10  22  25  37  49  -  05  08,14.943,14943000,Below Average,33812645,0,No,No,1.395314,1395314,Below Average,Both Below,All Below
-102,Below Average,33.852395,1331,Tuesday,Tuesdays,23-Jun-20,2  12  19  46  49  -  01  08,34.732623,34732623,Below Average,33852395,0,No,No,1.290532,1290532,Below Average,Both Below,All Below
-103,Below Average,33.867144,1003,Tuesday,Tuesdays,02-May-17,6  19  23  25  27  -  11  12,55.848627,55848627,Above Average,33867144,0,No,No,1.59018,1590180,Below Average,Both Below,Jackpot Only
-104,Below Average,33.879345,1001,Tuesday,Tuesdays,25-Apr-17,9  11  19  32  43  -  03  09,38.059267,38059267,Below Average,33879345,0,No,No,1.517119,1517119,Below Average,Both Below,All Below
-105,Below Average,33.983732,1327,Tuesday,Tuesdays,09-Jun-20,5  15  27  36  46  -  02  08,34.451775,34451775,Below Average,33983732,0,No,No,1.338852,1338852,Below Average,Both Below,All Below
-106,Below Average,34.035628,1318,Friday,Fridays,08-May-20,8  25  32  33  38  -  07  09,49.837132,49837132,Below Average,34035628,0,No,No,1.327697,1327697,Below Average,Both Below,All Below
-107,Below Average,34.105948,1293,Tuesday,Tuesdays,11-Feb-20,24  26  32  43  46  -  06  10,14.3429,14342900,Below Average,34105948,1,Yes (1),Yes (Single Ticket),1.236529,1236529,Below Average,Both Below,All Below
-108,Below Average,34.183462,1095,Tuesday,Tuesdays,20-Mar-18,26  29  37  39  44  -  09  11,22.265427,22265427,Below Average,34183462,0,No,No,1.235335,1235335,Below Average,Both Below,All Below
-109,Below Average,34.218824,1369,Tuesday,Tuesdays,03-Nov-20,5  7  18  20  30  -  06  07,23.844506,23844506,Below Average,34218824,0,No,No,1.573763,1573763,Below Average,Both Below,All Below
-110,Below Average,34.278913,1055,Tuesday,Tuesdays,31-Oct-17,1  12  36  43  46  -  03  05,14.9192,14919200,Below Average,34278913,0,No,No,1.218701,1218701,Below Average,Both Below,All Below
-111,Below Average,34.291618,1275,Tuesday,Tuesdays,10-Dec-19,2  10  19  21  47  -  02  08,21.715889,21715889,Below Average,34291618,0,No,No,1.558961,1558961,Below Average,Both Below,All Below
-112,Below Average,34.296353,1337,Tuesday,Tuesdays,14-Jul-20,11  22  30  37  47  -  09  10,24.013488,24013488,Below Average,34296353,0,No,No,1.258767,1258767,Below Average,Both Below,All Below
-113,Below Average,34.315303,1225,Tuesday,Tuesdays,18-Jun-19,12  24  37  40  44  -  03  07,22.579505,22579505,Below Average,34315303,0,No,No,1.358255,1358255,Below Average,Both Below,All Below
-114,Below Average,34.324989,1013,Tuesday,Tuesdays,06-Jun-17,20  22  25  37  40  -  03  07,14.8665,14866500,Below Average,34324989,0,No,No,1.364809,1364809,Below Average,Both Below,All Below
-115,Below Average,34.401192,1221,Tuesday,Tuesdays,04-Jun-19,9  31  32  39  41  -  02  08,22.504557,22504557,Below Average,34401192,0,No,No,1.235873,1235873,Below Average,Both Below,All Below
-116,Below Average,34.47562,955,Tuesday,Tuesdays,15-Nov-16,7  15  36  42  48  -  03  07,22.092234,22092234,Below Average,34475620,0,No,No,1.404829,1404829,Below Average,Both Below,All Below
-117,Below Average,34.574977,1361,Tuesday,Tuesdays,06-Oct-20,4  21  36  41  47  -  09  11,15.4853,15485300,Below Average,34574977,0,No,No,1.133059,1133059,Below Average,Both Below,All Below
-118,Below Average,34.597435,1125,Tuesday,Tuesdays,03-Jul-18,1  12  15  29  48  -  03  05,39.091736,39091736,Below Average,34597435,0,No,No,1.440795,1440795,Below Average,Both Below,All Below
-119,Below Average,34.63838,1201,Tuesday,Tuesdays,26-Mar-19,12  19  23  43  47  -  02  06,32.010911,32010911,Below Average,34638380,0,No,No,1.499613,1499613,Below Average,Both Below,All Below
-120,Below Average,34.643176,1217,Tuesday,Tuesdays,21-May-19,32  33  34  39  47  -  08  12,39.211724,39211724,Below Average,34643176,0,No,No,1.139762,1139762,Below Average,Both Below,All Below
-121,Below Average,34.71766,1161,Tuesday,Tuesdays,06-Nov-18,14  24  36  40  43  -  02  09,14.8325,14832500,Below Average,34717660,0,No,No,1.236792,1236792,Below Average,Both Below,All Below
-122,Below Average,34.748817,1167,Tuesday,Tuesdays,27-Nov-18,4  16  17  18  32  -  02  11,32.439819,32439819,Below Average,34748817,0,No,No,1.435142,1435142,Below Average,Both Below,All Below
-123,Below Average,34.844789,1031,Tuesday,Tuesdays,08-Aug-17,15  25  26  40  41  -  04  05,33.089644,33089644,Below Average,34844789,1,Yes (1),Yes (Single Ticket),1.255276,1255276,Below Average,Both Below,All Below
-124,Below Average,34.993771,1109,Tuesday,Tuesdays,08-May-18,17  25  35  39  44  -  02  05,39.948586,39948586,Below Average,34993771,1,Yes (1),Yes (Single Ticket),1.393834,1393834,Below Average,Both Below,All Below
-125,Below Average,34.994084,1103,Tuesday,Tuesdays,17-Apr-18,15  27  33  39  50  -  04  06,22.289222,22289222,Below Average,34994084,0,No,No,1.37185,1371850,Below Average,Both Below,All Below
-126,Below Average,35.106041,1155,Tuesday,Tuesdays,16-Oct-18,15  28  37  40  42  -  01  06,32.638799,32638799,Below Average,35106041,0,No,No,1.280093,1280093,Below Average,Both Below,All Below
-127,Below Average,35.171614,1163,Tuesday,Tuesdays,13-Nov-18,2  7  10  13  42  -  03  06,33.184923,33184923,Below Average,35171614,0,No,No,1.68972,1689720,Below Average,Both Below,All Below
-128,Below Average,35.18912,993,Tuesday,Tuesdays,28-Mar-17,9  13  31  33  46  -  06  10,39.63035,39630350,Below Average,35189120,0,No,No,1.437386,1437386,Below Average,Both Below,All Below
-129,Below Average,35.221957,1057,Tuesday,Tuesdays,07-Nov-17,7  19  20  37  41  -  02  12,14.9702,14970200,Below Average,35221957,0,No,No,1.402281,1402281,Below Average,Both Below,All Below
-130,Below Average,35.236501,963,Tuesday,Tuesdays,13-Dec-16,14  28  29  48  50  -  02  08,32.050401,32050401,Below Average,35236501,0,No,No,1.430438,1430438,Below Average,Both Below,All Below
-131,Below Average,35.27201,1271,Tuesday,Tuesdays,26-Nov-19,2  3  15  19  34  -  05  08,22.196254,22196254,Below Average,35272010,0,No,No,1.572427,1572427,Below Average,Both Below,All Below
-132,Below Average,35.320576,977,Tuesday,Tuesdays,31-Jan-17,3  4  17  23  44  -  06  09,22.233944,22233944,Below Average,35320576,1,Yes (1),Yes (Single Ticket),1.680382,1680382,Below Average,Both Below,All Below
-133,Below Average,35.353393,1193,Tuesday,Tuesdays,26-Feb-19,3  15  29  35  47  -  03  04,22.256333,22256333,Below Average,35353393,0,No,No,1.388366,1388366,Below Average,Both Below,All Below
-134,Below Average,35.627204,1301,Tuesday,Tuesdays,10-Mar-20,11  23  30  37  43  -  05  12,35.567254,35567254,Below Average,35627204,0,No,No,1.392127,1392127,Below Average,Both Below,All Below
-135,Below Average,35.705734,1227,Tuesday,Tuesdays,25-Jun-19,6  26  27  34  46  -  01  09,40.597881,40597881,Below Average,35705734,0,No,No,1.308704,1308704,Below Average,Both Below,All Below
-136,Below Average,35.780356,1027,Tuesday,Tuesdays,25-Jul-17,12  14  43  44  48  -  02  11,40.445365,40445365,Below Average,35780356,0,No,No,1.274007,1274007,Below Average,Both Below,All Below
-137,Below Average,35.83541,1359,Tuesday,Tuesdays,29-Sep-20,4  14  16  41  44  -  11  12,15.5312,15531200,Below Average,35835410,0,No,No,1.299124,1299124,Below Average,Both Below,All Below
-138,Below Average,36.012598,1097,Tuesday,Tuesdays,27-Mar-18,17  20  23  40  46  -  09  10,40.629122,40629122,Below Average,36012598,0,No,No,1.389696,1389696,Below Average,Both Below,All Below
-139,Below Average,36.019661,1059,Tuesday,Tuesdays,14-Nov-17,14  16  39  40  41  -  08  10,34.502478,34502478,Below Average,36019661,0,No,No,1.217911,1217911,Below Average,Both Below,All Below
-140,Below Average,36.039929,1089,Tuesday,Tuesdays,27-Feb-18,3  31  41  48  50  -  08  11,14.9566,14956600,Below Average,36039929,0,No,No,1.198209,1198209,Below Average,Both Below,All Below
-141,Below Average,36.125595,1237,Tuesday,Tuesdays,30-Jul-19,15  20  23  27  40  -  03  06,33.364792,33364792,Below Average,36125595,0,No,No,1.477652,1477652,Below Average,Both Below,All Below
-142,Below Average,36.185729,1035,Tuesday,Tuesdays,22-Aug-17,3  10  12  17  27  -  03  05,40.510685,40510685,Below Average,36185729,1,Yes (1),Yes (Single Ticket),1.783982,1783982,Below Average,Both Below,All Below
-143,Below Average,36.294949,1115,Tuesday,Tuesdays,29-May-18,6  11  20  38  43  -  02  04,57.637756,57637756,Above Average,36294949,0,No,No,1.41862,1418620,Below Average,Both Below,Jackpot Only
-144,Below Average,36.307641,1015,Tuesday,Tuesdays,13-Jun-17,3  12  22  27  49  -  04  11,33.506785,33506785,Below Average,36307641,0,No,No,1.59142,1591420,Below Average,Both Below,All Below
-145,Below Average,36.374446,1297,Tuesday,Tuesdays,25-Feb-20,1  4  18  27  42  -  04  06,43.515336,43515336,Below Average,36374446,0,No,No,1.620037,1620037,Below Average,Both Below,All Below
-146,Below Average,36.383922,1363,Tuesday,Tuesdays,13-Oct-20,5  14  38  41  46  -  01  10,36.618665,36618665,Below Average,36383922,0,No,No,1.227145,1227145,Below Average,Both Below,All Below
-147,Below Average,36.419591,1353,Tuesday,Tuesdays,08-Sep-20,2  9  31  35  41  -  09  12,24.534097,24534097,Below Average,36419591,0,No,No,1.256217,1256217,Below Average,Both Below,All Below
-148,Below Average,36.484727,1099,Tuesday,Tuesdays,03-Apr-18,3  8  16  40  43  -  05  08,59.156133,59156133,Above Average,36484727,0,No,No,1.489813,1489813,Below Average,Both Below,Jackpot Only
-149,Below Average,36.532667,957,Tuesday,Tuesdays,22-Nov-16,5  10  33  34  47  -  02  10,40.546633,40546633,Below Average,36532667,0,No,No,1.425468,1425468,Below Average,Both Below,All Below
-150,Below Average,36.592774,1219,Tuesday,Tuesdays,28-May-19,7  19  20  28  29  -  01  05,28.837305,28837305,Below Average,36592774,2,Yes (2),Yes (Multiple Tickets),1.699581,1699581,Below Average,Both Below,All Below
-151,Below Average,36.714653,1343,Tuesday,Tuesdays,04-Aug-20,1  2  5  15  42  -  05  08,44.373299,44373299,Below Average,36714653,0,No,No,1.537547,1537547,Below Average,Both Below,All Below
-152,Below Average,36.750157,981,Tuesday,Tuesdays,14-Feb-17,2  10  24  40  44  -  03  10,19.987961,19987961,Below Average,36750157,2,Yes (2),Yes (Multiple Tickets),1.512442,1512442,Below Average,Both Below,All Below
-153,Below Average,36.789053,1179,Tuesday,Tuesdays,08-Jan-19,3  19  22  31  32  -  02  11,23.253235,23253235,Below Average,36789053,0,No,No,1.467905,1467905,Below Average,Both Below,All Below
-154,Below Average,36.870375,1147,Tuesday,Tuesdays,18-Sep-18,3  8  10  32  45  -  04  12,40.651934,40651934,Below Average,36870375,0,No,No,1.454332,1454332,Below Average,Both Below,All Below
-155,Below Average,36.87215,1075,Tuesday,Tuesdays,09-Jan-18,6  12  15  38  49  -  02  09,33.484288,33484288,Below Average,36872150,0,No,No,1.484442,1484442,Below Average,Both Below,All Below
-156,Below Average,36.98929,1339,Tuesday,Tuesdays,21-Jul-20,14  15  24  29  42  -  02  04,44.865863,44865863,Below Average,36989290,1,Yes (1),Yes (Single Ticket),1.448392,1448392,Below Average,Both Below,All Below
-157,Below Average,37.038561,971,Tuesday,Tuesdays,10-Jan-17,2  11  29  35  44  -  04  09,40.25965,40259650,Below Average,37038561,0,No,No,1.511105,1511105,Below Average,Both Below,All Below
-158,Below Average,37.20127,1143,Tuesday,Tuesdays,04-Sep-18,5  14  28  30  47  -  04  11,40.979973,40979973,Below Average,37201270,1,Yes (1),Yes (Single Ticket),1.456073,1456073,Below Average,Both Below,All Below
-159,Below Average,37.221319,1041,Tuesday,Tuesdays,12-Sep-17,10  17  27  29  35  -  04  11,33.717075,33717075,Below Average,37221319,0,No,No,1.591627,1591627,Below Average,Both Below,All Below
-160,Below Average,37.430522,1259,Tuesday,Tuesdays,15-Oct-19,3  28  31  32  34  -  04  05,22.772993,22772993,Below Average,37430522,0,No,No,1.410205,1410205,Below Average,Both Below,All Below
-161,Below Average,37.552202,1277,Tuesday,Tuesdays,17-Dec-19,1  7  12  25  49  -  06  09,41.621418,41621418,Below Average,37552202,1,Yes (1),Yes (Single Ticket),1.751197,1751197,Below Average,Both Below,All Below
-162,Below Average,37.716154,1017,Tuesday,Tuesdays,20-Jun-17,11  18  26  43  44  -  08  10,52.594374,52594374,Below Average,37716154,0,No,No,1.469998,1469998,Below Average,Both Below,All Below
-163,Below Average,37.736184,1133,Tuesday,Tuesdays,31-Jul-18,20  25  34  42  45  -  06  11,50.637585,50637585,Below Average,37736184,0,No,No,1.315082,1315082,Below Average,Both Below,All Below
-164,Below Average,37.908724,1203,Tuesday,Tuesdays,02-Apr-19,2  9  16  26  36  -  06  07,50.833887,50833887,Below Average,37908724,0,No,No,1.569587,1569587,Below Average,Both Below,All Below
-165,Below Average,37.990618,1169,Tuesday,Tuesdays,04-Dec-18,19  20  21  42  45  -  08  09,51.79999,51799990,Below Average,37990618,0,No,No,1.406668,1406668,Below Average,Both Below,All Below
-166,Below Average,38.076355,1127,Tuesday,Tuesdays,10-Jul-18,3  8  26  33  45  -  07  10,57.975368,57975368,Above Average,38076355,1,Yes (1),Yes (Single Ticket),1.519567,1519567,Below Average,Both Below,Jackpot Only
-167,Below Average,38.118526,1273,Tuesday,Tuesdays,03-Dec-19,18  31  32  38  48  -  04  12,40.957697,40957697,Below Average,38118526,1,Yes (1),Yes (Single Ticket),1.367876,1367876,Below Average,Both Below,All Below
-168,Below Average,38.139517,1049,Tuesday,Tuesdays,10-Oct-17,4  21  34  36  37  -  03  06,15.2099,15209900,Below Average,38139517,0,No,No,1.351736,1351736,Below Average,Both Below,All Below
-169,Below Average,38.172573,953,Tuesday,Tuesdays,08-Nov-16,5  9  47  49  50  -  08  09,35.072281,35072281,Below Average,38172573,1,Yes (1),Yes (Single Ticket),1.436674,1436674,Below Average,Both Below,All Below
-170,Below Average,38.25864,1371,Tuesday,Tuesdays,10-Nov-20,3  19  29  32  38  -  05  12,45.088804,45088804,Below Average,38258640,0,No,No,1.49607,1496070,Below Average,Both Below,All Below
-171,Below Average,38.276455,1051,Tuesday,Tuesdays,17-Oct-17,13  17  19  26  36  -  02  03,37.871775,37871775,Below Average,38276455,0,No,No,1.658729,1658729,Below Average,Both Below,All Below
-172,Below Average,38.409292,1195,Tuesday,Tuesdays,05-Mar-19,6  10  16  39  46  -  08  11,43.29416,43294160,Below Average,38409292,0,No,No,1.469753,1469753,Below Average,Both Below,All Below
-173,Below Average,38.443084,941,Tuesday,Tuesdays,27-Sep-16,6  9  13  39  41  -  02  12,14.671,14671000,Below Average,38443084,0,No,No,1.572657,1572657,Below Average,Both Below,All Below
-174,Below Average,38.486526,1091,Tuesday,Tuesdays,06-Mar-18,15  20  26  31  44  -  02  09,34.392263,34392263,Below Average,38486526,0,No,No,1.498742,1498742,Below Average,Both Below,All Below
-175,Below Average,38.62368,1261,Tuesday,Tuesdays,22-Oct-19,2  5  32  33  47  -  07  08,41.922445,41922445,Below Average,38623680,0,No,No,1.474623,1474623,Below Average,Both Below,All Below
-176,Below Average,38.638633,1181,Tuesday,Tuesdays,15-Jan-19,22  25  29  33  35  -  03  06,42.137452,42137452,Below Average,38638633,0,No,No,1.497164,1497164,Below Average,Both Below,All Below
-177,Below Average,38.699238,1061,Tuesday,Tuesdays,21-Nov-17,2  10  14  28  31  -  05  07,54.215274,54215274,Above Average,38699238,0,No,No,1.713051,1713051,Below Average,Both Below,Jackpot Only
-178,Below Average,38.737585,1320,Friday,Fridays,15-May-20,11  23  32  34  39  -  01  06,65.175962,65175962,Above Average,38737585,1,Yes (1),Yes (Single Ticket),1.52658,1526580,Below Average,Both Below,Jackpot Only
-179,Below Average,38.815303,995,Tuesday,Tuesdays,04-Apr-17,1  9  24  33  34  -  02  06,58.513592,58513592,Above Average,38815303,0,No,No,1.587281,1587281,Below Average,Both Below,Jackpot Only
-180,Below Average,38.854088,1157,Tuesday,Tuesdays,23-Oct-18,1  2  5  21  32  -  02  12,52.107396,52107396,Below Average,38854088,0,No,No,1.559417,1559417,Below Average,Both Below,All Below
-181,Below Average,39.106662,947,Tuesday,Tuesdays,18-Oct-16,2  17  21  25  27  -  06  09,23.638239,23638239,Below Average,39106662,0,No,No,1.727304,1727304,Below Average,Both Below,All Below
-182,Below Average,39.160784,987,Tuesday,Tuesdays,07-Mar-17,6  37  41  48  50  -  04  05,51.910688,51910688,Below Average,39160784,0,No,No,1.337835,1337835,Below Average,Both Below,All Below
-183,Below Average,39.280847,1333,Tuesday,Tuesdays,30-Jun-20,1  6  11  28  42  -  02  10,56.510237,56510237,Above Average,39280847,0,No,No,1.598344,1598344,Below Average,Both Below,Jackpot Only
-184,Below Average,39.721124,1239,Tuesday,Tuesdays,06-Aug-19,12  13  29  36  38  -  04  12,52.917787,52917787,Below Average,39721124,0,No,No,1.498638,1498638,Below Average,Both Below,All Below
-185,Below Average,39.792481,1229,Tuesday,Tuesdays,02-Jul-19,11  19  29  44  45  -  08  12,60.173279,60173279,Above Average,39792481,0,No,No,1.579922,1579922,Below Average,Both Below,Jackpot Only
-186,Below Average,39.835091,1365,Tuesday,Tuesdays,20-Oct-20,5  6  15  37  42  -  03  04,59.778232,59778232,Above Average,39835091,0,No,No,1.511168,1511168,Below Average,Both Below,Jackpot Only
-187,Below Average,39.856411,1355,Tuesday,Tuesdays,15-Sep-20,16  20  25  30  38  -  06  08,47.250235,47250235,Below Average,39856411,0,No,No,1.516838,1516838,Below Average,Both Below,All Below
-188,Below Average,40.075128,965,Tuesday,Tuesdays,20-Dec-16,13  15  17  21  27  -  02  03,51.875129,51875129,Below Average,40075128,1,Yes (1),Yes (Single Ticket),2.005448,2005448,Above Average,Wins Only,Wins Only
-189,Below Average,40.12866,1222,Friday,Fridays,07-Jun-19,1  4  16  20  34  -  02  05,115.726,115726000,Above Average,40128660,0,No,No,3.581902,3581902,Above Average,Wins Only,Jackpot + Wins Above
-190,Below Average,40.197372,1324,Friday,Fridays,29-May-20,4  8  11  19  46  -  04  08,15.2949,15294900,Below Average,40197372,1,Yes (1),Yes (Single Ticket),1.763683,1763683,Below Average,Both Below,All Below
-191,Below Average,40.306428,1205,Tuesday,Tuesdays,09-Apr-19,18  21  29  38  41  -  01  11,68.329653,68329653,Above Average,40306428,1,Yes (1),Yes (Single Ticket),1.548078,1548078,Below Average,Both Below,Jackpot Only
-192,Below Average,40.428855,1291,Tuesday,Tuesdays,04-Feb-20,21  23  33  35  47  -  06  07,34.634832,34634832,Below Average,40428855,0,No,No,1.620796,1620796,Below Average,Both Below,All Below
-193,Below Average,40.429626,1322,Friday,Fridays,22-May-20,3  18  22  27  32  -  02  07,25.387006,25387006,Below Average,40429626,0,No,No,1.774481,1774481,Below Average,Both Below,All Below
-194,Below Average,40.431112,1345,Tuesday,Tuesdays,11-Aug-20,8  13  14  42  50  -  03  09,66.130274,66130274,Above Average,40431112,0,No,No,1.613185,1613185,Below Average,Both Below,Jackpot Only
-195,Below Average,40.519016,1053,Tuesday,Tuesdays,24-Oct-17,9  11  13  27  33  -  07  10,58.670142,58670142,Above Average,40519016,1,Yes (1),Yes (Single Ticket),1.944447,1944447,Below Average,Both Below,Jackpot Only
-196,Below Average,40.573396,1183,Tuesday,Tuesdays,22-Jan-19,9  23  29  41  49  -  08  10,61.621961,61621961,Above Average,40573396,0,No,No,1.585425,1585425,Below Average,Both Below,Jackpot Only
-197,Below Average,40.605496,1135,Tuesday,Tuesdays,07-Aug-18,16  28  29  30  36  -  08  10,67.719962,67719962,Above Average,40605496,0,No,No,1.495118,1495118,Below Average,Both Below,Jackpot Only
-198,Below Average,40.700715,1283,Tuesday,Tuesdays,07-Jan-20,5  8  12  37  43  -  06  11,64.021946,64021946,Above Average,40700715,0,No,No,1.720809,1720809,Below Average,Both Below,Jackpot Only
-199,Below Average,41.102401,1005,Tuesday,Tuesdays,09-May-17,8  12  16  22  26  -  06  07,68.249429,68249429,Above Average,41102401,0,No,No,1.948255,1948255,Below Average,Both Below,Jackpot Only
-200,Below Average,41.132504,1093,Tuesday,Tuesdays,13-Mar-18,9  11  13  33  49  -  06  12,54.643467,54643467,Above Average,41132504,1,Yes (1),Yes (Single Ticket),1.814174,1814174,Below Average,Both Below,Jackpot Only
-201,Below Average,41.235007,1077,Tuesday,Tuesdays,16-Jan-18,20  23  31  34  46  -  03  12,54.434216,54434216,Above Average,41235007,0,No,No,1.446248,1446248,Below Average,Both Below,Jackpot Only
-202,Below Average,41.296163,1171,Tuesday,Tuesdays,11-Dec-18,4  7  13  23  42  -  01  03,69.712546,69712546,Above Average,41296163,0,No,No,1.94207,1942070,Below Average,Both Below,Jackpot Only
-203,Below Average,41.330066,1212,Friday,Fridays,03-May-19,2  9  20  27  43  -  05  06,14.467,14467000,Below Average,41330066,0,No,No,1.762515,1762515,Below Average,Both Below,All Below
-204,Below Average,41.555354,1279,Tuesday,Tuesdays,24-Dec-19,3  11  13  14  47  -  03  06,23.534756,23534756,Below Average,41555354,0,No,No,1.900558,1900558,Below Average,Both Below,All Below
-205,Below Average,41.603277,1263,Tuesday,Tuesdays,29-Oct-19,16  18  28  42  49  -  05  10,62.293451,62293451,Above Average,41603277,0,No,No,1.619208,1619208,Below Average,Both Below,Jackpot Only
-206,Below Average,41.790534,1197,Tuesday,Tuesdays,12-Mar-19,5  7  13  19  31  -  02  09,64.356515,64356515,Above Average,41790534,0,No,No,2.158286,2158286,Above Average,Wins Only,Jackpot + Wins Above
-207,Below Average,41.85769,973,Tuesday,Tuesdays,17-Jan-17,4  16  25  43  47  -  02  10,62.366698,62366698,Above Average,41857690,0,No,No,1.571807,1571807,Below Average,Both Below,Jackpot Only
-208,Below Average,41.863533,1373,Tuesday,Tuesdays,17-Nov-20,16  19  25  30  44  -  02  06,69.354137,69354137,Above Average,41863533,0,No,No,1.717073,1717073,Below Average,Both Below,Jackpot Only
-209,Below Average,41.990323,998,Friday,Fridays,14-Apr-17,4  14  20  23  33  -  06  10,14.4228,14422800,Below Average,41990323,0,No,No,1.896557,1896557,Below Average,Both Below,All Below
-210,Below Average,42.143808,1367,Tuesday,Tuesdays,27-Oct-20,13  15  28  32  44  -  03  12,79.315198,79315198,Above Average,42143808,1,Yes (1),Yes (Single Ticket),1.686057,1686057,Below Average,Both Below,Jackpot Only
-211,Below Average,42.188421,1159,Tuesday,Tuesdays,30-Oct-18,17  23  27  43  44  -  01  12,70.193991,70193991,Above Average,42188421,0,No,No,1.772738,1772738,Below Average,Both Below,Jackpot Only
-212,Below Average,42.245303,1019,Tuesday,Tuesdays,27-Jun-17,9  17  21  28  45  -  01  03,70.127201,70127201,Above Average,42245303,0,No,No,1.833319,1833319,Below Average,Both Below,Jackpot Only
-213,Below Average,42.252548,1214,Friday,Fridays,10-May-19,1  4  27  45  48  -  01  07,14.6948,14694800,Below Average,42252548,0,No,No,1.63984,1639840,Below Average,Both Below,All Below
-214,Below Average,42.254955,1122,Friday,Fridays,22-Jun-18,14  25  39  41  44  -  02  08,14.96,14960000,Below Average,42254955,0,No,No,1.598189,1598189,Below Average,Both Below,All Below
-215,Below Average,42.350471,949,Tuesday,Tuesdays,25-Oct-16,3  15  20  21  28  -  01  05,44.777159,44777159,Below Average,42350471,1,Yes (1),Yes (Single Ticket),1.835606,1835606,Below Average,Both Below,All Below
-216,Below Average,42.469068,997,Tuesday,Tuesdays,11-Apr-17,5  21  22  31  49  -  02  08,70.887897,70887897,Above Average,42469068,1,Yes (1),Yes (Single Ticket),1.807549,1807549,Below Average,Both Below,Jackpot Only
-217,Below Average,42.477656,1063,Tuesday,Tuesdays,28-Nov-17,1  6  12  18  42  -  02  07,71.866782,71866782,Above Average,42477656,0,No,No,1.814149,1814149,Below Average,Both Below,Jackpot Only
-218,Below Average,42.48282,1210,Friday,Fridays,26-Apr-19,14  33  35  47  50  -  09  11,14.6829,14682900,Below Average,42482820,0,No,No,1.497865,1497865,Below Average,Both Below,All Below
-219,Below Average,43.030146,1220,Friday,Fridays,31-May-19,1  23  24  26  35  -  01  11,15.0348,15034800,Below Average,43030146,0,No,No,1.663467,1663467,Below Average,Both Below,All Below
-220,Below Average,43.124042,1340,Friday,Fridays,24-Jul-20,8  9  27  28  50  -  04  12,15.4836,15483600,Below Average,43124042,0,No,No,1.746841,1746841,Below Average,Both Below,All Below
-221,Below Average,43.308157,1326,Friday,Fridays,05-Jun-20,5  11  17  24  37  -  03  06,25.999539,25999539,Below Average,43308157,0,No,No,1.962381,1962381,Above Average,Wins Only,Wins Only
-222,Below Average,43.308809,989,Tuesday,Tuesdays,14-Mar-17,3  5  21  36  44  -  03  06,70.386999,70386999,Above Average,43308809,1,Yes (1),Yes (Single Ticket),1.79546,1795460,Below Average,Both Below,Jackpot Only
-223,Below Average,43.4101,1265,Tuesday,Tuesdays,05-Nov-19,9  14  25  33  48  -  02  12,74.873475,74873475,Above Average,43410100,0,No,No,1.73333,1733330,Below Average,Both Below,Jackpot Only
-224,Below Average,43.437437,1231,Tuesday,Tuesdays,09-Jul-19,7  29  32  36  41  -  06  07,73.547916,73547916,Above Average,43437437,0,No,No,1.596489,1596489,Below Average,Both Below,Jackpot Only
-225,Below Average,43.447463,1208,Friday,Fridays,19-Apr-19,7  8  32  41  49  -  05  11,31.273852,31273852,Below Average,43447463,0,No,No,1.641817,1641817,Below Average,Both Below,All Below
-226,Below Average,43.53487,1241,Tuesday,Tuesdays,13-Aug-19,13  29  31  33  40  -  02  03,70.899768,70899768,Above Average,43534870,0,No,No,1.659736,1659736,Below Average,Both Below,Jackpot Only
-227,Below Average,43.69666,1357,Tuesday,Tuesdays,22-Sep-20,16  25  28  39  40  -  01  06,71.063522,71063522,Above Average,43696660,0,No,No,1.57124,1571240,Below Average,Both Below,Jackpot Only
-228,Below Average,43.725874,1330,Friday,Fridays,19-Jun-20,5  14  19  24  43  -  03  11,26.333468,26333468,Below Average,43725874,0,No,No,1.788281,1788281,Below Average,Both Below,All Below
-229,Below Average,43.817393,1079,Tuesday,Tuesdays,23-Jan-18,5  8  9  23  24  -  07  08,71.872851,71872851,Above Average,43817393,0,No,No,2.08347,2083470,Above Average,Wins Only,Jackpot + Wins Above
-230,Below Average,44.118297,1000,Friday,Fridays,21-Apr-17,2  13  16  22  49  -  04  05,30.153753,30153753,Below Average,44118297,0,No,No,1.956983,1956983,Above Average,Wins Only,Wins Only
-231,Below Average,44.361347,1280,Friday,Fridays,27-Dec-19,1  7  22  26  35  -  05  10,33.089326,33089326,Below Average,44361347,0,No,No,1.921052,1921052,Below Average,Both Below,All Below
-232,Below Average,44.408647,1274,Friday,Fridays,06-Dec-19,1  3  27  39  46  -  01  10,14.3191,14319100,Below Average,44408647,0,No,No,1.776203,1776203,Below Average,Both Below,All Below
-233,Below Average,44.439491,1185,Tuesday,Tuesdays,29-Jan-19,14  24  26  32  39  -  03  08,75.051591,75051591,Above Average,44439491,0,No,No,1.774795,1774795,Below Average,Both Below,Jackpot Only
-234,Below Average,44.558018,1024,Friday,Fridays,14-Jul-17,11  14  20  21  47  -  07  10,14.9005,14900500,Below Average,44558018,0,No,No,1.85222,1852220,Below Average,Both Below,All Below
-235,Below Average,44.639668,1110,Friday,Fridays,11-May-18,3  22  34  49  50  -  08  11,15.0042,15004200,Below Average,44639668,0,No,No,1.639292,1639292,Below Average,Both Below,All Below
-236,Below Average,44.74846,1206,Friday,Fridays,12-Apr-19,1  28  35  36  46  -  06  09,14.7016,14701600,Below Average,44748460,0,No,No,1.526974,1526974,Below Average,Both Below,All Below
-237,Below Average,44.849669,1120,Friday,Fridays,15-Jun-18,23  26  33  38  49  -  01  12,24.560828,24560828,Below Average,44849669,0,No,No,1.689714,1689714,Below Average,Both Below,All Below
-238,Below Average,44.857301,1285,Tuesday,Tuesdays,14-Jan-20,21  25  29  39  44  -  08  09,78.00049,78000490,Above Average,44857301,0,No,No,1.770798,1770798,Below Average,Both Below,Jackpot Only
-239,Below Average,44.930225,1278,Friday,Fridays,20-Dec-19,8  24  30  32  34  -  03  04,14.484,14484000,Below Average,44930225,0,No,No,1.777543,1777543,Below Average,Both Below,All Below
-240,Below Average,44.960753,1144,Friday,Fridays,07-Sep-18,4  23  27  31  50  -  01  08,15.2167,15216700,Below Average,44960753,0,No,No,1.841323,1841323,Below Average,Both Below,All Below
-241,Below Average,44.987395,982,Friday,Fridays,17-Feb-17,19  25  33  36  48  -  02  09,14.5095,14509500,Below Average,44987395,1,Yes (1),Yes (Single Ticket),1.728805,1728805,Below Average,Both Below,All Below
-242,Below Average,45.022113,1368,Friday,Fridays,30-Oct-20,12  16  20  21  28  -  03  09,15.3017,15301700,Below Average,45022113,0,No,No,1.977041,1977041,Above Average,Wins Only,Wins Only
-243,Below Average,45.137081,1236,Friday,Fridays,26-Jul-19,2  5  27  37  42  -  03  10,25.032609,25032609,Below Average,45137081,0,No,No,1.739304,1739304,Below Average,Both Below,All Below
-244,Below Average,45.14767,1130,Friday,Fridays,20-Jul-18,2  15  40  43  46  -  03  06,24.941396,24941396,Below Average,45147670,0,No,No,1.527054,1527054,Below Average,Both Below,All Below
-245,Below Average,45.231571,1216,Friday,Fridays,17-May-19,16  28  42  43  45  -  06  07,31.674666,31674666,Below Average,45231571,0,No,No,1.597592,1597592,Below Average,Both Below,All Below
-246,Below Average,45.332644,1288,Friday,Fridays,24-Jan-20,3  4  6  9  24  -  05  08,24.139851,24139851,Below Average,45332644,1,Yes (1),Yes (Single Ticket),2.236871,2236871,Above Average,Wins Only,Wins Only
-247,Below Average,45.423541,1166,Friday,Fridays,23-Nov-18,5  8  25  26  30  -  03  10,24.866684,24866684,Below Average,45423541,0,No,No,1.994301,1994301,Above Average,Wins Only,Wins Only
-248,Below Average,45.465808,1347,Tuesday,Tuesdays,18-Aug-20,6  12  17  34  42  -  05  12,87.266444,87266444,Above Average,45465808,0,No,No,1.805255,1805255,Below Average,Both Below,Jackpot Only
-249,Below Average,45.487133,1124,Friday,Fridays,29-Jun-18,15  21  23  40  48  -  03  12,31.647298,31647298,Below Average,45487133,0,No,No,1.718327,1718327,Below Average,Both Below,All Below
-250,Below Average,45.567415,990,Friday,Fridays,17-Mar-17,6  10  19  29  36  -  03  09,14.7424,14742400,Below Average,45567415,0,No,No,2.011936,2011936,Above Average,Wins Only,Wins Only
-251,Below Average,45.600427,1173,Tuesday,Tuesdays,18-Dec-18,1  9  18  39  48  -  05  07,83.057501,83057501,Above Average,45600427,0,No,No,1.819369,1819369,Below Average,Both Below,Jackpot Only
-252,Below Average,45.714168,1032,Friday,Fridays,11-Aug-17,18  28  39  46  48  -  05  12,15.4496,15449600,Below Average,45714168,0,No,No,1.513516,1513516,Below Average,Both Below,All Below
-253,Below Average,45.716265,1342,Friday,Fridays,31-Jul-20,21  24  30  46  49  -  02  05,35.077775,35077775,Below Average,45716265,0,No,No,1.628634,1628634,Below Average,Both Below,All Below
-254,Below Average,45.72155,1243,Tuesday,Tuesdays,20-Aug-19,20  22  23  24  37  -  01  04,83.338679,83338679,Above Average,45721550,0,No,No,1.713572,1713572,Below Average,Both Below,Jackpot Only
-255,Below Average,45.98564,1140,Friday,Fridays,24-Aug-18,3  14  31  36  50  -  01  12,15.3935,15393500,Below Average,45985640,0,No,No,1.621896,1621896,Below Average,Both Below,All Below
-256,Below Average,46.014421,1137,Tuesday,Tuesdays,14-Aug-18,1  15  18  25  31  -  09  11,81.090231,81090231,Above Average,46014421,0,No,No,1.852942,1852942,Below Average,Both Below,Jackpot Only
-257,Below Average,46.062204,975,Tuesday,Tuesdays,24-Jan-17,1  5  7  17  23  -  03  08,76.052175,76052175,Above Average,46062204,1,Yes (1),Yes (Single Ticket),2.402716,2402716,Above Average,Wins Only,Jackpot + Wins Above
-258,Below Average,46.189476,1336,Friday,Fridays,10-Jul-20,15  17  23  30  38  -  02  07,15.2252,15225200,Below Average,46189476,0,No,No,2.011223,2011223,Above Average,Wins Only,Wins Only
-259,Below Average,46.231964,1270,Friday,Fridays,22-Nov-19,3  21  32  34  48  -  03  11,14.6081,14608100,Below Average,46231964,0,No,No,1.736494,1736494,Below Average,Both Below,All Below
-260,Below Average,46.289749,1118,Friday,Fridays,08-Jun-18,8  19  32  43  46  -  02  08,14.9311,14931100,Below Average,46289749,1,Yes (1),Yes (Single Ticket),1.758722,1758722,Below Average,Both Below,All Below
-261,Below Average,46.402645,984,Friday,Fridays,24-Feb-17,2  4  13  22  43  -  08  09,24.449171,24449171,Below Average,46402645,0,No,No,2.061921,2061921,Above Average,Wins Only,Wins Only
-262,Below Average,46.437111,1200,Friday,Fridays,22-Mar-19,4  17  26  30  43  -  06  11,24.580716,24580716,Below Average,46437111,0,No,No,1.929433,1929433,Below Average,Both Below,All Below
-263,Below Average,46.472,1290,Friday,Fridays,31-Jan-20,13  18  20  23  30  -  02  04,24.336652,24336652,Below Average,46472000,0,No,No,2.222817,2222817,Above Average,Wins Only,Wins Only
-264,Below Average,46.47645,1328,Friday,Fridays,12-Jun-20,2  24  39  45  46  -  04  08,46.399553,46399553,Below Average,46476450,1,Yes (1),Yes (Single Ticket),1.586331,1586331,Below Average,Both Below,All Below
-265,Below Average,46.483129,1036,Friday,Fridays,25-Aug-17,1  5  7  15  47  -  09  12,15.7352,15735200,Below Average,46483129,1,Yes (1),Yes (Single Ticket),1.929665,1929665,Below Average,Both Below,All Below
-266,Below Average,46.536379,976,Friday,Fridays,27-Jan-17,17  20  28  45  48  -  05  09,14.4959,14495900,Below Average,46536379,0,No,No,1.886916,1886916,Below Average,Both Below,All Below
-267,Below Average,46.587745,1300,Friday,Fridays,06-Mar-20,15  38  43  45  46  -  01  11,26.423336,26423336,Below Average,46587745,0,No,No,1.541171,1541171,Below Average,Both Below,All Below
-268,Below Average,46.596523,1112,Friday,Fridays,18-May-18,5  8  10  13  31  -  03  06,32.04007,32040070,Below Average,46596523,0,No,No,2.261817,2261817,Above Average,Wins Only,Wins Only
-269,Below Average,46.707795,1294,Friday,Fridays,14-Feb-20,5  20  35  41  49  -  06  10,14.1406,14140600,Below Average,46707795,0,No,No,1.734592,1734592,Below Average,Both Below,All Below
-270,Below Average,46.851392,970,Friday,Fridays,06-Jan-17,10  14  18  21  49  -  09  11,31.898943,31898943,Below Average,46851392,0,No,No,1.98789,1987890,Above Average,Wins Only,Wins Only
-271,Below Average,46.861345,1154,Friday,Fridays,12-Oct-18,4  9  12  31  43  -  05  08,25.07015,25070150,Below Average,46861345,0,No,No,2.038565,2038565,Above Average,Wins Only,Wins Only
-272,Below Average,46.913486,992,Friday,Fridays,24-Mar-17,2  17  21  27  34  -  05  09,31.918888,31918888,Below Average,46913486,0,No,No,2.114195,2114195,Above Average,Wins Only,Wins Only
-273,Below Average,46.951741,1081,Tuesday,Tuesdays,30-Jan-18,11  15  21  27  35  -  04  05,86.173606,86173606,Above Average,46951741,0,No,No,2.039844,2039844,Above Average,Wins Only,Jackpot + Wins Above
-274,Below Average,46.965341,1178,Friday,Fridays,04-Jan-19,7  11  19  27  37  -  06  10,15.2286,15228600,Below Average,46965341,0,No,No,2.192933,2192933,Above Average,Wins Only,Wins Only
-275,Below Average,47.026637,1338,Friday,Fridays,17-Jul-20,7  15  27  41  43  -  07  09,35.838894,35838894,Below Average,47026637,0,No,No,1.911934,1911934,Below Average,Both Below,All Below
-276,Below Average,47.058676,1030,Friday,Fridays,04-Aug-17,29  30  36  40  41  -  02  09,25.529274,25529274,Below Average,47058676,0,No,No,1.540568,1540568,Below Average,Both Below,All Below
-277,Below Average,47.062543,1226,Friday,Fridays,21-Jun-19,5  8  9  25  39  -  03  07,32.775384,32775384,Below Average,47062543,0,No,No,2.150438,2150438,Above Average,Wins Only,Wins Only
-278,Below Average,47.072026,962,Friday,Fridays,09-Dec-16,6  12  28  37  40  -  01  05,24.450957,24450957,Below Average,47072026,0,No,No,1.991675,1991675,Above Average,Wins Only,Wins Only
-279,Below Average,47.072577,1296,Friday,Fridays,21-Feb-20,7  23  30  32  45  -  05  09,34.421724,34421724,Below Average,47072577,0,No,No,2.082007,2082007,Above Average,Wins Only,Wins Only
-280,Below Average,47.118936,1224,Friday,Fridays,14-Jun-19,1  13  30  31  39  -  02  07,15.1521,15152100,Below Average,47118936,0,No,No,1.90781,1907810,Below Average,Both Below,All Below
-281,Below Average,47.127288,954,Friday,Fridays,11-Nov-16,3  22  23  38  49  -  02  09,14.6489,14648900,Below Average,47127288,0,No,No,1.946736,1946736,Below Average,Both Below,All Below
-282,Below Average,47.18264,1267,Tuesday,Tuesdays,12-Nov-19,1  21  23  25  39  -  02  04,89.866288,89866288,Above Average,47182640,0,No,No,1.969317,1969317,Above Average,Wins Only,Jackpot + Wins Above
-283,Below Average,47.199779,1233,Tuesday,Tuesdays,16-Jul-19,3  5  13  18  39  -  07  08,88.185562,88185562,Above Average,47199779,0,No,No,2.074142,2074142,Above Average,Wins Only,Jackpot + Wins Above
-284,Below Average,47.494495,1332,Friday,Fridays,26-Jun-20,1  10  12  21  26  -  05  11,46.859882,46859882,Below Average,47494495,0,No,No,2.049112,2049112,Above Average,Wins Only,Wins Only
-285,Below Average,47.700964,1142,Friday,Fridays,31-Aug-18,4  30  31  38  42  -  04  06,32.721629,32721629,Below Average,47700964,0,No,No,1.734759,1734759,Below Average,Both Below,All Below
-286,Below Average,47.706993,1026,Friday,Fridays,21-Jul-17,1  8  9  26  49  -  05  09,32.874047,32874047,Below Average,47706993,0,No,No,1.974484,1974484,Above Average,Wins Only,Wins Only
-287,Below Average,47.807162,1054,Friday,Fridays,27-Oct-17,3  16  23  32  39  -  01  04,15.011,15011000,Below Average,47807162,1,Yes (1),Yes (Single Ticket),1.937446,1937446,Below Average,Both Below,All Below
-288,Below Average,47.871823,1038,Friday,Fridays,01-Sep-17,3  7  8  14  49  -  05  08,25.914013,25914013,Below Average,47871823,1,Yes (1),Yes (Single Ticket),2.155272,2155272,Above Average,Wins Only,Wins Only
-289,Below Average,47.945015,1094,Friday,Fridays,16-Mar-18,4  17  24  27  31  -  10  11,14.9923,14992300,Below Average,47945015,0,No,No,2.115414,2115414,Above Average,Wins Only,Wins Only
-290,Below Average,47.960699,1132,Friday,Fridays,27-Jul-18,11  17  22  23  41  -  06  11,42.386533,42386533,Below Average,47960699,0,No,No,2.07696,2076960,Above Average,Wins Only,Wins Only
-291,Below Average,48.012341,1065,Tuesday,Tuesdays,05-Dec-17,11  36  43  44  48  -  02  07,85.788778,85788778,Above Average,48012341,0,No,No,1.723362,1723362,Below Average,Both Below,Jackpot Only
-292,Below Average,48.038279,1034,Friday,Fridays,18-Aug-17,2  24  39  42  45  -  02  08,32.520149,32520149,Below Average,48038279,0,No,No,1.703336,1703336,Below Average,Both Below,All Below
-293,Below Average,48.050999,1106,Friday,Fridays,27-Apr-18,12  24  40  41  46  -  05  12,14.9583,14958300,Below Average,48050999,0,No,No,1.656108,1656108,Below Average,Both Below,All Below
-294,Below Average,48.104772,960,Friday,Fridays,02-Dec-16,6  11  23  31  32  -  02  12,24.66213,24662130,Below Average,48104772,1,Yes (1),Yes (Single Ticket),2.087858,2087858,Above Average,Wins Only,Wins Only
-295,Below Average,48.106379,1056,Friday,Fridays,03-Nov-17,5  12  17  33  41  -  04  09,25.476778,25476778,Below Average,48106379,1,Yes (1),Yes (Single Ticket),2.09293,2092930,Above Average,Wins Only,Wins Only
-296,Below Average,48.14257,1146,Friday,Fridays,14-Sep-18,1  3  33  40  45  -  03  04,32.776219,32776219,Below Average,48142570,0,No,No,1.754823,1754823,Below Average,Both Below,All Below
-297,Below Average,48.158499,1370,Friday,Fridays,06-Nov-20,7  12  37  40  50  -  01  02,36.006084,36006084,Below Average,48158499,0,No,No,1.818077,1818077,Below Average,Both Below,All Below
-298,Below Average,48.169397,1218,Friday,Fridays,24-May-19,5  16  23  30  49  -  06  07,49.736732,49736732,Below Average,48169397,0,No,No,1.99458,1994580,Above Average,Wins Only,Wins Only
-299,Below Average,48.267815,1362,Friday,Fridays,09-Oct-20,11  15  35  41  50  -  05  08,27.489353,27489353,Below Average,48267815,0,No,No,1.757505,1757505,Below Average,Both Below,All Below
-300,Below Average,48.328468,1192,Friday,Fridays,22-Feb-19,3  27  29  33  50  -  03  07,14.773,14773000,Below Average,48328468,0,No,No,2.082847,2082847,Above Average,Wins Only,Wins Only
-301,Below Average,48.34468,1352,Friday,Fridays,04-Sep-20,6  22  29  40  43  -  04  07,15.1742,15174200,Below Average,48344680,0,No,No,1.802694,1802694,Below Average,Both Below,All Below
-302,Below Average,48.428113,980,Friday,Fridays,10-Feb-17,7  21  26  35  43  -  02  09,32.204121,32204121,Below Average,48428113,0,No,No,2.048527,2048527,Above Average,Wins Only,Wins Only
-303,Below Average,48.525879,978,Friday,Fridays,03-Feb-17,3  4  15  46  50  -  05  09,14.6863,14686300,Below Average,48525879,0,No,No,1.938228,1938228,Below Average,Both Below,All Below
-304,Below Average,48.537347,1282,Friday,Fridays,03-Jan-20,5  15  20  36  47  -  08  12,55.523057,55523057,Above Average,48537347,0,No,No,1.873287,1873287,Below Average,Both Below,Jackpot Only
-305,Below Average,48.559511,1007,Tuesday,Tuesdays,16-May-17,8  11  15  20  30  -  03  08,84.319251,84319251,Above Average,48559511,0,No,No,2.211257,2211257,Above Average,Wins Only,Jackpot + Wins Above
-306,Below Average,48.571184,1040,Friday,Fridays,08-Sep-17,9  24  42  47  49  -  01  05,25.993675,25993675,Below Average,48571184,0,No,No,1.718948,1718948,Below Average,Both Below,All Below
-307,Above Average,48.699208,1096,Friday,Fridays,23-Mar-18,5  7  11  46  50  -  08  11,32.771739,32771739,Below Average,48699208,0,No,No,2.047673,2047673,Above Average,Both Above,Sales + Wins Above
-308,Above Average,48.737388,1152,Friday,Fridays,05-Oct-18,8  16  24  26  35  -  03  11,14.9481,14948100,Below Average,48737388,1,Yes (1),Yes (Single Ticket),1.959734,1959734,Above Average,Both Above,Sales + Wins Above
-309,Above Average,48.995782,1074,Friday,Fridays,05-Jan-18,2  5  20  38  41  -  04  08,25.687589,25687589,Below Average,48995782,0,No,No,1.865975,1865975,Below Average,Sales Only,Sales Only
-310,Above Average,49.105625,1022,Friday,Fridays,07-Jul-17,11  20  35  37  45  -  03  06,25.663715,25663715,Below Average,49105625,1,Yes (1),Yes (Single Ticket),1.802973,1802973,Below Average,Sales Only,Sales Only
-311,Above Average,49.286754,968,Friday,Fridays,30-Dec-16,8  10  22  29  47  -  01  03,14.5384,14538400,Below Average,49286754,0,No,No,2.105809,2105809,Above Average,Both Above,Sales + Wins Above
-312,Above Average,49.316109,1126,Friday,Fridays,06-Jul-18,8  30  33  38  48  -  02  10,49.801491,49801491,Below Average,49316109,0,No,No,1.785443,1785443,Below Average,Sales Only,Sales Only
-313,Above Average,49.409164,1360,Friday,Fridays,02-Oct-20,6  12  15  40  45  -  03  09,27.761091,27761091,Below Average,49409164,1,Yes (1),Yes (Single Ticket),1.924955,1924955,Below Average,Sales Only,Sales Only
-314,Above Average,49.409898,1272,Friday,Fridays,29-Nov-19,3  7  12  42  50  -  06  08,32.747133,32747133,Below Average,49409898,0,No,No,2.232837,2232837,Above Average,Both Above,Sales + Wins Above
-315,Above Average,49.458686,1175,Tuesday,Tuesdays,25-Dec-18,4  5  8  31  43  -  02  09,99.026381,99026381,Above Average,49458686,0,No,No,1.993231,1993231,Above Average,Both Above,All Above
-316,Above Average,49.626148,1202,Friday,Fridays,29-Mar-19,13  23  26  32  47  -  06  10,43.015001,43015001,Below Average,49626148,0,No,No,2.062581,2062581,Above Average,Both Above,Sales + Wins Above
-317,Above Average,49.655757,956,Friday,Fridays,18-Nov-16,3  12  27  32  47  -  06  08,32.72043,32720430,Below Average,49655757,0,No,No,2.11983,2119830,Above Average,Both Above,Sales + Wins Above
-318,Above Average,49.659572,1014,Friday,Fridays,09-Jun-17,9  20  27  39  43  -  10  11,25.684767,25684767,Below Average,49659572,0,No,No,1.954684,1954684,Above Average,Both Above,Sales + Wins Above
-319,Above Average,49.665963,1002,Friday,Fridays,28-Apr-17,14  20  25  30  39  -  02  08,48.309589,48309589,Below Average,49665963,0,No,No,2.097399,2097399,Above Average,Both Above,Sales + Wins Above
-320,Above Average,49.69942,1238,Friday,Fridays,02-Aug-19,13  22  33  44  50  -  02  05,43.958121,43958121,Below Average,49699420,0,No,No,2.029954,2029954,Above Average,Both Above,Sales + Wins Above
-321,Above Average,49.788887,1114,Friday,Fridays,25-May-18,13  15  16  28  41  -  04  05,50.089464,50089464,Below Average,49788887,0,No,No,2.043436,2043436,Above Average,Both Above,Sales + Wins Above
-322,Above Average,49.857736,1016,Friday,Fridays,16-Jun-17,15  17  38  41  42  -  09  12,44.150291,44150291,Below Average,49857736,0,No,No,1.812191,1812191,Below Average,Sales Only,Sales Only
-323,Above Average,49.955313,1260,Friday,Fridays,18-Oct-19,8  18  22  41  42  -  11  12,33.536983,33536983,Below Average,49955313,0,No,No,1.957533,1957533,Above Average,Both Above,Sales + Wins Above
-324,Above Average,49.996793,1354,Friday,Fridays,11-Sep-20,34  38  42  43  45  -  09  12,37.525275,37525275,Below Average,49996793,0,No,No,1.555193,1555193,Below Average,Sales Only,Sales Only
-325,Above Average,49.998889,1108,Friday,Fridays,04-May-18,6  12  23  39  45  -  09  12,32.659632,32659632,Below Average,49998889,0,No,No,1.985723,1985723,Above Average,Both Above,Sales + Wins Above
-326,Above Average,50.158643,1162,Friday,Fridays,09-Nov-18,14  17  32  37  49  -  11  12,25.702466,25702466,Below Average,50158643,0,No,No,1.880593,1880593,Below Average,Sales Only,Sales Only
-327,Above Average,50.178923,1156,Friday,Fridays,19-Oct-18,1  3  29  47  48  -  03  12,43.58144,43581440,Below Average,50178923,0,No,No,1.79894,1798940,Below Average,Sales Only,Sales Only
-328,Above Average,50.354219,1098,Friday,Fridays,30-Mar-18,12  17  28  35  47  -  07  11,51.598288,51598288,Below Average,50354219,0,No,No,2.04722,2047220,Above Average,Both Above,Sales + Wins Above
-329,Above Average,50.393853,1090,Friday,Fridays,02-Mar-18,2  7  34  45  48  -  01  12,26.096672,26096672,Below Average,50393853,0,No,No,1.78756,1787560,Below Average,Sales Only,Sales Only
-330,Above Average,50.414651,1164,Friday,Fridays,16-Nov-18,9  10  13  28  41  -  01  12,44.832935,44832935,Below Average,50414651,1,Yes (1),Yes (Single Ticket),2.137727,2137727,Above Average,Both Above,Sales + Wins Above
-331,Above Average,50.551687,1180,Friday,Fridays,11-Jan-19,1  19  31  39  48  -  01  06,34.004534,34004534,Below Average,50551687,0,No,No,1.85062,1850620,Below Average,Sales Only,Sales Only
-332,Above Average,50.603404,994,Friday,Fridays,31-Mar-17,17  24  26  28  45  -  04  12,49.849009,49849009,Below Average,50603404,0,No,No,2.091174,2091174,Above Average,Both Above,Sales + Wins Above
-333,Above Average,50.639003,1168,Friday,Fridays,30-Nov-18,3  10  12  23  26  -  01  12,43.37419,43374190,Below Average,50639003,0,No,No,2.385923,2385923,Above Average,Both Above,Sales + Wins Above
-334,Above Average,50.807465,1245,Tuesday,Tuesdays,27-Aug-19,8  26  35  43  47  -  01  09,97.958413,97958413,Above Average,50807465,0,No,No,1.799432,1799432,Below Average,Sales Only,Jackpot + Sales Above
-335,Above Average,50.819062,1228,Friday,Fridays,28-Jun-19,1  3  16  33  49  -  02  11,51.583856,51583856,Below Average,50819062,0,No,No,1.97945,1979450,Above Average,Both Above,Sales + Wins Above
-336,Above Average,51.114788,986,Friday,Fridays,03-Mar-17,2  11  29  30  47  -  01  12,43.311596,43311596,Below Average,51114788,0,No,No,2.002357,2002357,Above Average,Both Above,Sales + Wins Above
-337,Above Average,51.166631,964,Friday,Fridays,16-Dec-16,6  10  30  41  45  -  04  11,43.003166,43003166,Below Average,51166631,0,No,No,2.009466,2009466,Above Average,Both Above,Sales + Wins Above
-338,Above Average,51.286432,1364,Friday,Fridays,16-Oct-20,15  33  38  40  50  -  03  06,49.383832,49383832,Below Average,51286432,0,No,No,1.80284,1802840,Below Average,Sales Only,Sales Only
-339,Above Average,51.311766,1269,Tuesday,Tuesdays,19-Nov-19,8  10  15  30  42  -  04  06,105.100702,105100702,Above Average,51311766,1,Yes (1),Yes (Single Ticket),2.227329,2227329,Above Average,Both Above,All Above
-340,Above Average,51.683307,1258,Friday,Fridays,11-Oct-19,2  14  19  42  45  -  05  06,14.8308,14830800,Below Average,51683307,0,No,No,2.030832,2030832,Above Average,Both Above,Sales + Wins Above
-341,Above Average,51.928725,1134,Friday,Fridays,03-Aug-18,7  26  36  38  43  -  06  12,61.780382,61780382,Above Average,51928725,0,No,No,1.880805,1880805,Below Average,Sales Only,Jackpot + Sales Above
-342,Above Average,52.10904,966,Friday,Fridays,23-Dec-16,4  16  20  39  46  -  02  05,14.4874,14487400,Below Average,52109040,0,No,No,2.048075,2048075,Above Average,Both Above,Sales + Wins Above
-343,Above Average,52.21871,1298,Friday,Fridays,28-Feb-20,8  11  20  22  23  -  03  04,57.826962,57826962,Above Average,52218710,1,Yes (1),Yes (Single Ticket),2.473338,2473338,Above Average,Both Above,All Above
-344,Above Average,52.386348,1028,Friday,Fridays,28-Jul-17,5  9  29  31  41  -  02  04,51.70205,51702050,Below Average,52386348,1,Yes (1),Yes (Single Ticket),2.093024,2093024,Above Average,Both Above,Sales + Wins Above
-345,Above Average,52.423351,1058,Friday,Fridays,10-Nov-17,13  22  29  36  37  -  01  09,26.361644,26361644,Below Average,52423351,0,No,No,2.109365,2109365,Above Average,Both Above,Sales + Wins Above
-346,Above Average,52.437374,1264,Friday,Fridays,01-Nov-19,2  20  39  44  48  -  05  07,69.286018,69286018,Above Average,52437374,0,No,No,1.972255,1972255,Above Average,Both Above,All Above
-347,Above Average,52.513994,1182,Friday,Fridays,18-Jan-19,5  6  16  30  46  -  05  10,53.285987,53285987,Below Average,52513994,0,No,No,2.047422,2047422,Above Average,Both Above,Sales + Wins Above
-348,Above Average,52.561367,1276,Friday,Fridays,13-Dec-19,9  16  18  23  32  -  02  10,32.875644,32875644,Below Average,52561367,0,No,No,2.393775,2393775,Above Average,Both Above,Sales + Wins Above
-349,Above Average,52.645641,1262,Friday,Fridays,25-Oct-19,34  37  39  40  50  -  04  10,53.31331,53313310,Below Average,52645641,0,No,No,1.753329,1753329,Below Average,Sales Only,Sales Only
-350,Above Average,52.767727,1070,Friday,Fridays,22-Dec-17,5  24  30  31  43  -  03  06,15.0892,15089200,Below Average,52767727,0,No,No,2.053002,2053002,Above Average,Both Above,Sales + Wins Above
-351,Above Average,52.806778,1139,Tuesday,Tuesdays,21-Aug-18,16  23  42  43  49  -  10  12,96.785706,96785706,Above Average,52806778,1,Yes (1),Yes (Single Ticket),1.875355,1875355,Below Average,Sales Only,Jackpot + Sales Above
-352,Above Average,53.198136,1004,Friday,Fridays,05-May-17,3  7  30  35  43  -  01  03,63.162406,63162406,Above Average,53198136,0,No,No,2.235799,2235799,Above Average,Both Above,All Above
-353,Above Average,53.229248,1204,Friday,Fridays,05-Apr-19,1  7  10  29  45  -  03  05,62.771731,62771731,Above Average,53229248,0,No,No,2.392263,2392263,Above Average,Both Above,All Above
-354,Above Average,53.233299,1170,Friday,Fridays,07-Dec-18,11  17  26  37  48  -  01  10,63.478325,63478325,Above Average,53233299,0,No,No,2.074842,2074842,Above Average,Both Above,All Above
-355,Above Average,53.487663,1018,Friday,Fridays,23-Jun-17,3  4  21  31  38  -  03  07,64.0821,64082100,Above Average,53487663,0,No,No,2.286,2286000,Above Average,Both Above,All Above
-356,Above Average,53.602954,996,Friday,Fridays,07-Apr-17,2  10  19  35  50  -  06  07,65.668144,65668144,Above Average,53602954,0,No,No,2.23601,2236010,Above Average,Both Above,All Above
-357,Above Average,53.794208,1092,Friday,Fridays,09-Mar-18,9  14  21  32  44  -  01  12,45.846428,45846428,Below Average,53794208,0,No,No,2.16522,2165220,Above Average,Both Above,Sales + Wins Above
-358,Above Average,53.862747,1230,Friday,Fridays,05-Jul-19,2  9  20  34  42  -  06  09,67.458174,67458174,Above Average,53862747,0,No,No,2.075634,2075634,Above Average,Both Above,All Above
-359,Above Average,53.927592,1067,Tuesday,Tuesdays,12-Dec-17,20  37  39  44  50  -  04  08,101.93867,101938670,Above Average,53927592,0,No,No,1.936888,1936888,Below Average,Sales Only,Jackpot + Sales Above
-360,Above Average,54.001868,1344,Friday,Fridays,07-Aug-20,5  20  21  36  41  -  06  11,57.863944,57863944,Above Average,54001868,0,No,No,1.961308,1961308,Above Average,Both Above,All Above
-361,Above Average,54.032937,952,Friday,Fridays,04-Nov-16,7  11  12  44  48  -  03  07,26.830014,26830014,Below Average,54032937,0,No,No,2.427049,2427049,Above Average,Both Above,Sales + Wins Above
-362,Above Average,54.141239,1196,Friday,Fridays,08-Mar-19,17  18  19  24  40  -  04  08,55.265839,55265839,Above Average,54141239,0,No,No,2.320721,2320721,Above Average,Both Above,All Above
-363,Above Average,54.2551,958,Friday,Fridays,25-Nov-16,5  11  17  23  28  -  10  11,26.009712,26009712,Below Average,54255100,2,Yes (2),Yes (Multiple Tickets),2.697196,2697196,Above Average,Both Above,Sales + Wins Above
-364,Above Average,54.278924,1100,Friday,Fridays,06-Apr-18,1  29  33  45  47  -  04  08,66.429609,66429609,Above Average,54278924,1,Yes (1),Yes (Single Ticket),1.963713,1963713,Above Average,Both Above,All Above
-365,Above Average,54.314232,1076,Friday,Fridays,12-Jan-18,13  21  23  30  45  -  04  06,45.394452,45394452,Below Average,54314232,0,No,No,2.352349,2352349,Above Average,Both Above,Sales + Wins Above
-366,Above Average,54.424586,1060,Friday,Fridays,17-Nov-17,20  26  35  36  42  -  05  12,46.135062,46135062,Below Average,54424586,0,No,No,1.826757,1826757,Below Average,Sales Only,Sales Only
-367,Above Average,54.490631,1242,Friday,Fridays,16-Aug-19,9  10  27  37  42  -  01  05,77.208525,77208525,Above Average,54490631,0,No,No,2.150827,2150827,Above Average,Both Above,All Above
-368,Above Average,54.593653,1346,Friday,Fridays,14-Aug-20,9  10  19  42  49  -  04  12,77.977112,77977112,Above Average,54593653,0,No,No,2.123058,2123058,Above Average,Both Above,All Above
-369,Above Average,54.723268,1158,Friday,Fridays,26-Oct-18,5  18  21  31  35  -  06  09,64.245817,64245817,Above Average,54723268,0,No,No,2.230488,2230488,Above Average,Both Above,All Above
-370,Above Average,54.734143,1184,Friday,Fridays,25-Jan-19,1  6  13  15  16  -  06  10,68.153942,68153942,Above Average,54734143,0,No,No,2.42286,2422860,Above Average,Both Above,All Above
-371,Above Average,54.739803,1366,Friday,Fridays,23-Oct-20,10  15  19  21  23  -  03  12,70.979568,70979568,Above Average,54739803,0,No,No,2.488279,2488279,Above Average,Both Above,All Above
-372,Above Average,54.79729,1240,Friday,Fridays,09-Aug-19,2  14  35  41  42  -  10  11,65.218898,65218898,Above Average,54797290,0,No,No,1.79361,1793610,Below Average,Sales Only,Jackpot + Sales Above
-373,Above Average,54.816456,1052,Friday,Fridays,20-Oct-17,4  17  23  27  30  -  03  08,49.71213,49712130,Below Average,54816456,0,No,No,2.536013,2536013,Above Average,Both Above,Sales + Wins Above
-374,Above Average,54.827951,1160,Friday,Fridays,02-Nov-18,5  15  17  37  44  -  07  11,76.369807,76369807,Above Average,54827951,1,Yes (1),Yes (Single Ticket),2.320966,2320966,Above Average,Both Above,All Above
-375,Above Average,55.122408,1302,Friday,Fridays,13-Mar-20,3  11  21  27  36  -  09  10,50.321191,50321191,Below Average,55122408,0,No,No,2.306848,2306848,Above Average,Both Above,Sales + Wins Above
-376,Above Average,55.123084,1281,Tuesday,Tuesdays,31-Dec-19,26  31  33  41  48  -  02  04,44.717396,44717396,Below Average,55123084,0,No,No,2.055193,2055193,Above Average,Both Above,Sales + Wins Above
-377,Above Average,55.309888,948,Friday,Fridays,21-Oct-16,9  20  23  44  48  -  08  10,35.49788,35497880,Below Average,55309888,0,No,No,2.112658,2112658,Above Average,Both Above,Sales + Wins Above
-378,Above Average,55.372392,1136,Friday,Fridays,10-Aug-18,18  20  36  43  44  -  03  09,75.029181,75029181,Above Average,55372392,0,No,No,2.019547,2019547,Above Average,Both Above,All Above
-379,Above Average,55.609407,1284,Friday,Fridays,10-Jan-20,6  17  32  44  46  -  02  06,71.71756,71717560,Above Average,55609407,0,No,No,2.230969,2230969,Above Average,Both Above,All Above
-380,Above Average,55.763055,1128,Friday,Fridays,13-Jul-18,1  4  14  21  49  -  02  12,15.0212,15021200,Below Average,55763055,1,Yes (1),Yes (Single Ticket),2.220359,2220359,Above Average,Both Above,Sales + Wins Above
-381,Above Average,55.852301,1062,Friday,Fridays,24-Nov-17,19  24  28  30  50  -  03  10,66.743323,66743323,Above Average,55852301,0,No,No,2.211231,2211231,Above Average,Both Above,All Above
-382,Above Average,56.320463,1172,Friday,Fridays,14-Dec-18,12  29  38  42  44  -  02  12,76.884342,76884342,Above Average,56320463,0,No,No,2.101912,2101912,Above Average,Both Above,All Above
-383,Above Average,56.454912,1349,Tuesday,Tuesdays,25-Aug-20,7  18  30  37  39  -  08  10,112.618069,112618069,Above Average,56454912,0,No,No,2.205943,2205943,Above Average,Both Above,All Above
-384,Above Average,56.519901,1105,Tuesday,Tuesdays,24-Apr-18,20  23  28  30  44  -  03  07,121.328187,121328187,Above Average,56519901,1,Yes (1),Yes (Single Ticket),2.438901,2438901,Above Average,Both Above,All Above
-385,Above Average,56.767035,1078,Friday,Fridays,19-Jan-18,3  8  17  44  50  -  02  07,66.212715,66212715,Above Average,56767035,0,No,No,2.439159,2439159,Above Average,Both Above,All Above
-386,Above Average,56.867232,1116,Friday,Fridays,01-Jun-18,17  18  24  29  40  -  04  05,34.972315,34972315,Below Average,56867232,2,Yes (2),Yes (Multiple Tickets),2.1893,2189300,Above Average,Both Above,Sales + Wins Above
-387,Above Average,56.928407,988,Friday,Fridays,10-Mar-17,31  36  38  47  49  -  08  11,64.931865,64931865,Above Average,56928407,0,No,No,1.855534,1855534,Below Average,Sales Only,Jackpot + Sales Above
-388,Above Average,57.181518,1198,Friday,Fridays,15-Mar-19,3  15  24  42  46  -  09  12,71.057439,71057439,Above Average,57181518,1,Yes (1),Yes (Single Ticket),2.244133,2244133,Above Average,Both Above,All Above
-389,Above Average,57.466722,1223,Tuesday,Tuesdays,11-Jun-19,25  27  39  42  46  -  11  12,123.458008,123458008,Above Average,57466722,1,Yes (1),Yes (Single Ticket),2.05675,2056750,Above Average,Both Above,All Above
-390,Above Average,57.989379,1232,Friday,Fridays,12-Jul-19,2  31  39  45  47  -  04  08,81.180289,81180289,Above Average,57989379,0,No,No,1.976286,1976286,Above Average,Both Above,All Above
-391,Above Average,58.246284,1083,Tuesday,Tuesdays,06-Feb-18,8  17  28  34  38  -  06  12,104.423108,104423108,Above Average,58246284,0,No,No,2.34457,2344570,Above Average,Both Above,All Above
-392,Above Average,58.400002,1072,Friday,Fridays,29-Dec-17,4  8  22  23  48  -  01  12,34.588069,34588069,Below Average,58400002,1,Yes (1),Yes (Single Ticket),2.383562,2383562,Above Average,Both Above,Sales + Wins Above
-393,Above Average,58.401569,1356,Friday,Fridays,18-Sep-20,2  10  19  25  45  -  01  07,61.732489,61732489,Above Average,58401569,0,No,No,2.36994,2369940,Above Average,Both Above,All Above
-394,Above Average,58.44828,1009,Tuesday,Tuesdays,23-May-17,8  15  25  27  42  -  01  04,102.10143,102101430,Above Average,58448280,0,No,No,2.488406,2488406,Above Average,Both Above,All Above
-395,Above Average,58.502723,1069,Tuesday,Tuesdays,19-Dec-17,8  15  30  38  46  -  04  07,119.876081,119876081,Above Average,58502723,1,Yes (1),Yes (Single Ticket),2.26227,2262270,Above Average,Both Above,All Above
-396,Above Average,58.848184,974,Friday,Fridays,20-Jan-17,10  17  27  31  49  -  03  05,70.419453,70419453,Above Average,58848184,0,No,No,2.594276,2594276,Above Average,Both Above,All Above
-397,Above Average,59.017984,946,Friday,Fridays,14-Oct-16,7  13  19  31  34  -  01  11,15.3306,15330600,Below Average,59017984,0,No,No,2.607603,2607603,Above Average,Both Above,Sales + Wins Above
-398,Above Average,59.292902,1006,Friday,Fridays,12-May-17,2  20  28  29  44  -  03  09,76.813393,76813393,Above Average,59292902,0,No,No,2.481359,2481359,Above Average,Both Above,All Above
-399,Above Average,59.350402,1194,Friday,Fridays,01-Mar-19,6  9  19  26  31  -  11  12,35.148482,35148482,Below Average,59350402,0,No,No,2.618825,2618825,Above Average,Both Above,Sales + Wins Above
-400,Above Average,59.454221,1064,Friday,Fridays,01-Dec-17,5  24  29  35  46  -  11  12,79.577293,79577293,Above Average,59454221,0,No,No,2.140051,2140051,Above Average,Both Above,All Above
-401,Above Average,59.903706,1102,Friday,Fridays,13-Apr-18,5  25  34  48  50  -  06  07,14.7407,14740700,Below Average,59903706,0,No,No,2.24251,2242510,Above Average,Both Above,Sales + Wins Above
-402,Above Average,60.010714,1080,Friday,Fridays,26-Jan-18,6  15  24  28  48  -  04  09,79.917041,79917041,Above Average,60010714,0,No,No,2.45856,2458560,Above Average,Both Above,All Above
-403,Above Average,60.242902,1085,Tuesday,Tuesdays,13-Feb-18,10  13  17  21  44  -  01  10,123.305866,123305866,Above Average,60242902,0,No,No,2.691672,2691672,Above Average,Both Above,All Above
-404,Above Average,60.342584,1375,Tuesday,Tuesdays,24-Nov-20,25  33  38  42  50  -  08  12,128.449942,128449942,Above Average,60342584,0,No,No,2.155481,2155481,Above Average,Both Above,All Above
-405,Above Average,60.345929,1286,Friday,Fridays,17-Jan-20,8  19  20  29  44  -  03  08,85.964733,85964733,Above Average,60345929,1,Yes (1),Yes (Single Ticket),2.691123,2691123,Above Average,Both Above,All Above
-406,Above Average,60.490007,1187,Tuesday,Tuesdays,05-Feb-19,14  25  31  37  43  -  02  03,113.958151,113958151,Above Average,60490007,0,No,No,2.228563,2228563,Above Average,Both Above,All Above
-407,Above Average,60.504067,1247,Tuesday,Tuesdays,03-Sep-19,7  11  38  39  44  -  07  10,116.404085,116404085,Above Average,60504067,0,No,No,2.381793,2381793,Above Average,Both Above,All Above
-408,Above Average,60.638519,1138,Friday,Fridays,17-Aug-18,2  15  18  24  43  -  08  12,89.766677,89766677,Above Average,60638519,0,No,No,2.324362,2324362,Above Average,Both Above,All Above
-409,Above Average,60.973811,1177,Tuesday,Tuesdays,01-Jan-19,1  8  11  25  28  -  04  06,114.969776,114969776,Above Average,60973811,1,Yes (1),Yes (Single Ticket),2.717684,2717684,Above Average,Both Above,All Above
-410,Above Average,61.209836,1372,Friday,Fridays,13-Nov-20,1  5  17  28  31  -  01  10,60.684475,60684475,Above Average,61209836,0,No,No,2.622372,2622372,Above Average,Both Above,All Above
-411,Above Average,61.354156,1149,Tuesday,Tuesdays,25-Sep-18,6  15  20  30  38  -  04  07,124.411811,124411811,Above Average,61354156,0,No,No,2.479244,2479244,Above Average,Both Above,All Above
-412,Above Average,62.072885,972,Friday,Fridays,13-Jan-17,3  7  16  26  50  -  04  07,53.936316,53936316,Above Average,62072885,0,No,No,2.754685,2754685,Above Average,Both Above,All Above
-413,Above Average,62.310354,1335,Tuesday,Tuesdays,07-Jul-20,12  16  23  33  41  -  08  10,130.059174,130059174,Above Average,62310354,1,Yes (1),Yes (Single Ticket),2.488776,2488776,Above Average,Both Above,All Above
-414,Above Average,62.697585,1043,Tuesday,Tuesdays,19-Sep-17,1  8  21  30  45  -  02  03,123.904174,123904174,Above Average,62697585,0,No,No,2.439497,2439497,Above Average,Both Above,All Above
-415,Above Average,62.710338,1268,Friday,Fridays,15-Nov-19,3  13  20  32  34  -  04  11,98.311223,98311223,Above Average,62710338,0,No,No,2.59863,2598630,Above Average,Both Above,All Above
-416,Above Average,63.044558,1351,Tuesday,Tuesdays,01-Sep-20,4  8  10  33  46  -  08  11,139.992069,139992069,Above Average,63044558,1,Yes (1),Yes (Single Ticket),2.473276,2473276,Above Average,Both Above,All Above
-417,Above Average,63.802103,1066,Friday,Fridays,08-Dec-17,4  22  30  32  34  -  03  04,94.304641,94304641,Above Average,63802103,0,No,No,2.433777,2433777,Above Average,Both Above,All Above
-418,Above Average,64.064166,1011,Tuesday,Tuesdays,30-May-17,7  12  27  38  48  -  06  09,121.851562,121851562,Above Average,64064166,0,No,No,2.775316,2775316,Above Average,Both Above,All Above
-419,Above Average,64.349624,1244,Friday,Fridays,23-Aug-19,4  17  35  42  45  -  02  08,91.53302,91533020,Above Average,64349624,0,No,No,2.42007,2420070,Above Average,Both Above,All Above
-420,Above Average,64.848739,1348,Friday,Fridays,21-Aug-20,10  15  35  44  50  -  03  05,100.807281,100807281,Above Average,64848739,0,No,No,2.444738,2444738,Above Average,Both Above,All Above
-421,Above Average,65.265795,1189,Tuesday,Tuesdays,12-Feb-19,6  34  36  41  50  -  01  05,133.312302,133312302,Above Average,65265795,0,No,No,2.225992,2225992,Above Average,Both Above,All Above
-422,Above Average,65.54545,1249,Tuesday,Tuesdays,10-Sep-19,3  22  25  30  49  -  03  06,134.122038,134122038,Above Average,65545450,0,No,No,2.605683,2605683,Above Average,Both Above,All Above
-423,Above Average,65.762823,1266,Friday,Fridays,08-Nov-19,8  17  20  23  45  -  02  08,84.012704,84012704,Above Average,65762823,0,No,No,2.978472,2978472,Above Average,Both Above,All Above
-424,Above Average,66.495762,1050,Friday,Fridays,13-Oct-17,23  29  37  45  50  -  05  11,29.491384,29491384,Below Average,66495762,0,No,No,2.398435,2398435,Above Average,Both Above,Sales + Wins Above
-425,Above Average,66.894664,1174,Friday,Fridays,21-Dec-18,2  12  15  34  50  -  03  04,92.134454,92134454,Above Average,66894664,0,No,No,2.601548,2601548,Above Average,Both Above,All Above
-426,Above Average,67.626361,1234,Friday,Fridays,19-Jul-19,13  14  17  26  28  -  02  07,96.710509,96710509,Above Average,67626361,1,Yes (1),Yes (Single Ticket),3.090961,3090961,Above Average,Both Above,All Above
-427,Above Average,67.973828,1377,Tuesday,Tuesdays,01-Dec-20,14  20  29  47  49  -  04  12,160.906372,160906372,Above Average,67973828,0,No,No,2.42081,2420810,Above Average,Both Above,All Above
-428,Above Average,68.582951,1082,Friday,Fridays,02-Feb-18,14  34  36  39  48  -  02  03,95.972671,95972671,Above Average,68582951,0,No,No,2.36302,2363020,Above Average,Both Above,All Above
-429,Above Average,69.032238,1087,Tuesday,Tuesdays,20-Feb-18,6  14  19  25  29  -  05  11,142.157622,142157622,Above Average,69032238,0,No,No,2.948168,2948168,Above Average,Both Above,All Above
-430,Above Average,69.428313,1151,Tuesday,Tuesdays,02-Oct-18,7  17  29  37  45  -  03  11,144.603632,144603632,Above Average,69428313,1,Yes (1),Yes (Single Ticket),2.861171,2861171,Above Average,Both Above,All Above
-431,Above Average,69.808192,1191,Tuesday,Tuesdays,19-Feb-19,1  8  18  19  39  -  07  09,152.400366,152400366,Above Average,69808192,1,Yes (1),Yes (Single Ticket),3.024006,3024006,Above Average,Both Above,All Above
-432,Above Average,70.44166,1008,Friday,Fridays,19-May-17,9  11  12  19  30  -  04  09,93.927013,93927013,Above Average,70441660,0,No,No,3.441077,3441077,Above Average,Both Above,All Above
-433,Above Average,70.457205,943,Tuesday,Tuesdays,04-Oct-16,4  7  14  34  38  -  04  11,124.041722,124041722,Above Average,70457205,0,No,No,2.935175,2935175,Above Average,Both Above,All Above
-434,Above Average,70.66176,1176,Friday,Fridays,28-Dec-18,13  16  34  35  45  -  10  12,108.543762,108543762,Above Average,70661760,0,No,No,2.501915,2501915,Above Average,Both Above,All Above
-435,Above Average,70.998122,1045,Tuesday,Tuesdays,26-Sep-17,1  29  40  41  48  -  06  12,143.626132,143626132,Above Average,70998122,0,No,No,2.397407,2397407,Above Average,Both Above,All Above
-436,Above Average,71.777263,1068,Friday,Fridays,15-Dec-17,25  30  31  42  50  -  02  11,111.674784,111674784,Above Average,71777263,0,No,No,2.584531,2584531,Above Average,Both Above,All Above
-437,Above Average,71.956813,1246,Friday,Fridays,30-Aug-19,25  27  45  46  49  -  04  06,107.75933,107759330,Above Average,71956813,0,No,No,2.538312,2538312,Above Average,Both Above,All Above
-438,Above Average,72.535638,950,Friday,Fridays,28-Oct-16,10  16  19  23  43  -  02  08,15.667698,15667698,Below Average,72535638,1,Yes (1),Yes (Single Ticket),3.120016,3120016,Above Average,Both Above,Sales + Wins Above
-439,Above Average,72.822188,1251,Tuesday,Tuesdays,17-Sep-19,22  37  43  44  45  -  01  12,155.282163,155282163,Above Average,72822188,0,No,No,2.553242,2553242,Above Average,Both Above,All Above
-440,Above Average,73.403006,1350,Friday,Fridays,28-Aug-20,7  12  16  17  31  -  07  09,126.895018,126895018,Above Average,73403006,0,No,No,3.323666,3323666,Above Average,Both Above,All Above
-441,Above Average,75.577708,1010,Friday,Fridays,26-May-17,5  7  26  36  39  -  02  10,113.47596,113475960,Above Average,75577708,0,No,No,3.104158,3104158,Above Average,Both Above,All Above
-442,Above Average,76.7658,1084,Friday,Fridays,09-Feb-18,22  31  36  38  44  -  01  11,114.539544,114539544,Above Average,76765800,0,No,No,2.74071,2740710,Above Average,Both Above,All Above
-443,Above Average,78.475582,1248,Friday,Fridays,06-Sep-19,10  13  22  40  48  -  02  05,125.665319,125665319,Above Average,78475582,0,No,No,3.156955,3156955,Above Average,Both Above,All Above
-444,Above Average,79.640508,1086,Friday,Fridays,16-Feb-18,10  12  23  32  50  -  04  10,133.365227,133365227,Above Average,79640508,0,No,No,3.342643,3342643,Above Average,Both Above,All Above
-445,Above Average,80.067102,1188,Friday,Fridays,08-Feb-19,11  12  13  39  46  -  07  10,123.991632,123991632,Above Average,80067102,0,No,No,3.17268,3172680,Above Average,Both Above,All Above
-446,Above Average,80.86539,1376,Friday,Fridays,27-Nov-20,2  5  8  14  16  -  08  09,146.729731,146729731,Above Average,80865390,0,No,No,3.453808,3453808,Above Average,Both Above,All Above
-447,Above Average,83.170005,1020,Friday,Fridays,30-Jun-17,17  35  39  47  50  -  06  08,87.57,87570000,Above Average,83170005,1,Yes (1),Yes (Single Ticket),3.057357,3057357,Above Average,Both Above,All Above
-448,Above Average,83.225872,1150,Friday,Fridays,28-Sep-18,2  4  8  27  50  -  02  09,135.382686,135382686,Above Average,83225872,0,No,No,3.476937,3476937,Above Average,Both Above,All Above
-449,Above Average,84.421104,1190,Friday,Fridays,15-Feb-19,15  27  34  38  49  -  02  10,144.375567,144375567,Above Average,84421104,0,No,No,3.199745,3199745,Above Average,Both Above,All Above
-450,Above Average,84.831239,945,Tuesday,Tuesdays,11-Oct-16,5  12  20  24  37  -  04  11,153.361048,153361048,Above Average,84831239,1,Yes (1),Yes (Single Ticket),3.428136,3428136,Above Average,Both Above,All Above
-451,Above Average,84.96324,1292,Friday,Fridays,07-Feb-20,9  15  17  25  40  -  03  09,110.5,110500000,Above Average,84963240,1,Yes (1),Yes (Single Ticket),3.807451,3807451,Above Average,Both Above,All Above
-452,Above Average,85.87217,1374,Friday,Fridays,20-Nov-20,28  29  39  48  50  -  05  07,116.103,116103000,Above Average,85872170,0,No,No,3.095558,3095558,Above Average,Both Above,All Above
-453,Above Average,86.188913,1044,Friday,Fridays,22-Sep-17,6  11  31  39  42  -  01  03,134.911784,134911784,Above Average,86188913,0,No,No,3.324206,3324206,Above Average,Both Above,All Above
-454,Above Average,86.447822,1358,Friday,Fridays,25-Sep-20,19  23  34  37  45  -  01  07,118.729,118729000,Above Average,86447822,1,Yes (1),Yes (Single Ticket),3.285386,3285386,Above Average,Both Above,All Above
-455,Above Average,87.011065,1104,Friday,Fridays,20-Apr-18,3  16  25  39  44  -  07  11,114.01,114010000,Above Average,87011065,0,No,No,3.388585,3388585,Above Average,Both Above,All Above
-456,Above Average,87.319586,1334,Friday,Fridays,03-Jul-20,4  16  27  37  39  -  03  06,117.26,117260000,Above Average,87319586,0,No,No,3.443322,3443322,Above Average,Both Above,All Above
-457,Above Average,88.05755,1253,Tuesday,Tuesdays,24-Sep-19,2  33  42  47  48  -  01  02,167.751,167751000,Above Average,88057550,0,No,No,3.118284,3118284,Above Average,Both Above,All Above
-458,Above Average,90.229315,1186,Friday,Fridays,01-Feb-19,3  21  26  41  46  -  01  06,105.204,105204000,Above Average,90229315,0,No,No,3.346689,3346689,Above Average,Both Above,All Above
-459,Above Average,90.27707,1012,Friday,Fridays,02-Jun-17,8  10  24  33  42  -  03  09,134.808762,134808762,Above Average,90277070,1,Yes (1),Yes (Single Ticket),3.819434,3819434,Above Average,Both Above,All Above
-460,Above Average,91.887661,1255,Tuesday,Tuesdays,01-Oct-19,2  11  18  40  46  -  01  04,168.72,168720000,Above Average,91887661,0,No,No,3.422052,3422052,Above Average,Both Above,All Above
-461,Above Average,93.317535,1250,Friday,Fridays,13-Sep-19,1  12  27  42  47  -  06  07,145.566007,145566007,Above Average,93317535,0,No,No,3.684076,3684076,Above Average,Both Above,All Above
-462,Above Average,94.688223,1252,Friday,Fridays,20-Sep-19,8  21  25  38  50  -  04  08,167.609701,167609701,Above Average,94688223,0,No,No,3.776914,3776914,Above Average,Both Above,All Above
-463,Above Average,94.883433,1042,Friday,Fridays,15-Sep-17,13  18  37  44  49  -  09  12,114.504,114504000,Above Average,94883433,0,No,No,3.662037,3662037,Above Average,Both Above,All Above
-464,Above Average,94.898866,1148,Friday,Fridays,21-Sep-18,5  7  21  25  37  -  03  04,116.87,116870000,Above Average,94898866,0,No,No,4.129604,4129604,Above Average,Both Above,All Above
-465,Above Average,97.979161,1047,Tuesday,Tuesdays,03-Oct-17,6  24  32  48  50  -  01  05,168.701,168701000,Above Average,97979161,0,No,No,3.589379,3589379,Above Average,Both Above,All Above
-466,Above Average,98.334429,944,Friday,Fridays,07-Oct-16,2  12  20  27  30  -  09  11,140.104641,140104641,Above Average,98334429,0,No,No,4.100797,4100797,Above Average,Both Above,All Above
-467,Above Average,100.144727,1046,Friday,Fridays,29-Sep-17,7  18  19  32  48  -  03  07,157.898325,157898325,Above Average,100144727,0,No,No,4.295675,4295675,Above Average,Both Above,All Above
-468,Above Average,106.633158,942,Friday,Fridays,30-Sep-16,17  35  37  43  44  -  02  10,112.697,112697000,Above Average,106633158,0,No,No,4.028519,4028519,Above Average,Both Above,All Above
-469,Above Average,107.672589,1088,Friday,Fridays,23-Feb-18,10  17  18  28  47  -  03  07,77.798898,77798898,Above Average,107672589,2,Yes (2),Yes (Multiple Tickets),4.784728,4784728,Above Average,Both Above,All Above
-470,Above Average,108.020002,1254,Friday,Fridays,27-Sep-19,24  37  41  43  46  -  02  08,169.005,169005000,Above Average,108020002,0,No,No,3.747371,3747371,Above Average,Both Above,All Above
-471,Above Average,115.938989,1256,Friday,Fridays,04-Oct-19,6  9  35  41  44  -  06  09,169.024,169024000,Above Average,115938989,0,No,No,4.350671,4350671,Above Average,Both Above,All Above
-472,Above Average,118.873045,1378,Friday,Fridays,04-Dec-20,14  20  27  34  38  -  01  11,180.8,180800000,Above Average,118873045,0,No,No,4.563135,4563135,Above Average,Both Above,All Above
-473,Above Average,120.003558,1048,Friday,Fridays,06-Oct-17,1  9  15  19  25  -  01  07,170.81,170810000,Above Average,120003558,1,Yes (1),Yes (Single Ticket),5.17543,5175430,Above Average,Both Above,All Above
-474,Above Average,121.05577,1257,Tuesday,Tuesdays,08-Oct-19,7  10  15  44  49  -  03  12,170.221,170221000,Above Average,121055770,1,Yes (1),Yes (Single Ticket),4.808839,4808839,Above Average,Both Above,All Above
+Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,Draw Day,Sales for,Time,Balls,Jackpot Size (m),Jackpot Size,Jackpot Winners,Jackpot Won (with num),Jackpot Won,Total Winners (m),Total Winners,Number of Winners Above or Below Average,Averages,Average,Jackpot Above or Below Average
+37,Below Average,20.144991,20144991,1305,Tuesday,Tuesdays,24-Mar-20,7  12  26  30  33  -  10  11,15.6213,15621300,0,No,No,0.84388,843880,Below Average,Both Below,All Below,Below Average
+38,Below Average,21.554075,21554075,1307,Tuesday,Tuesdays,31-Mar-20,12  17  24  30  36  -  01  09,27.30865,27308650,0,No,No,0.903675,903675,Below Average,Both Below,All Below,Below Average
+39,Below Average,22.057948,22057948,1313,Tuesday,Tuesdays,21-Apr-20,10  11  14  23  28  -  06  08,15.0263,15026300,0,No,No,1.064251,1064251,Below Average,Both Below,All Below,Below Average
+40,Below Average,23.545017,23545017,1309,Tuesday,Tuesdays,07-Apr-20,4  5  14  33  48  -  07  12,40.506751,40506751,0,No,No,0.899399,899399,Below Average,Both Below,All Below,Below Average
+41,Below Average,23.724858,23724858,1315,Tuesday,Tuesdays,28-Apr-20,15  23  26  28  32  -  01  05,28.167968,28167968,0,No,No,1.006798,1006798,Below Average,Both Below,All Below,Below Average
+42,Below Average,23.843223,23843223,1311,Tuesday,Tuesdays,14-Apr-20,6  29  34  35  40  -  04  11,51.538058,51538058,0,No,No,0.802806,802806,Below Average,Both Below,All Below,Below Average
+43,Below Average,26.642797,26642797,1317,Tuesday,Tuesdays,05-May-20,2  10  22  27  41  -  02  03,42.596857,42596857,0,No,No,1.124062,1124062,Below Average,Both Below,All Below,Below Average
+44,Below Average,27.562926,27562926,1306,Friday,Fridays,27-Mar-20,11  14  27  41  46  -  02  03,22.095531,22095531,0,No,No,1.049548,1049548,Below Average,Both Below,All Below,Below Average
+45,Below Average,28.205637,28205637,1303,Tuesday,Tuesdays,17-Mar-20,5  7  8  16  20  -  02  12,57.86967,57869670,1,Yes (1),Yes (Single Ticket),1.271942,1271942,Below Average,Both Below,Jackpot Only,Above Average
+46,Below Average,28.828629,28828629,1319,Tuesday,Tuesdays,12-May-20,9  16  29  37  39  -  04  11,56.472701,56472701,0,No,No,1.129528,1129528,Below Average,Both Below,Jackpot Only,Above Average
+47,Below Average,29.068637,29068637,1304,Friday,Fridays,20-Mar-20,3  9  20  34  40  -  06  12,15.6961,15696100,1,Yes (1),Yes (Single Ticket),1.095514,1095514,Below Average,Both Below,All Below,Below Average
+48,Below Average,29.528525,29528525,1308,Friday,Fridays,03-Apr-20,16  19  34  46  50  -  02  06,34.546128,34546128,0,No,No,1.074084,1074084,Below Average,Both Below,All Below,Below Average
+49,Below Average,29.646765,29646765,999,Tuesday,Tuesdays,18-Apr-17,17  22  31  38  45  -  05  12,20.624201,20624201,0,No,No,1.159706,1159706,Below Average,Both Below,All Below,Below Average
+50,Below Average,29.666277,29666277,1321,Tuesday,Tuesdays,19-May-20,5  25  32  37  43  -  06  07,15.1708,15170800,0,No,No,1.085982,1085982,Below Average,Both Below,All Below,Below Average
+51,Below Average,29.74279,29742790,1314,Friday,Fridays,24-Apr-20,1  5  19  21  28  -  04  07,22.310697,22310697,0,No,No,1.424425,1424425,Below Average,Both Below,All Below,Below Average
+52,Below Average,29.876708,29876708,1325,Tuesday,Tuesdays,02-Jun-20,10  12  22  26  49  -  07  11,15.1487,15148700,0,No,No,1.246757,1246757,Below Average,Both Below,All Below,Below Average
+53,Below Average,30.577404,30577404,1033,Tuesday,Tuesdays,15-Aug-17,10  14  30  35  46  -  04  10,22.117219,22117219,0,No,No,1.085088,1085088,Below Average,Both Below,All Below,Below Average
+54,Below Average,31.195213,31195213,1129,Tuesday,Tuesdays,17-Jul-18,4  6  27  48  50  -  01  11,15.1266,15126600,0,No,No,1.200506,1200506,Below Average,Both Below,All Below,Below Average
+55,Below Average,31.244183,31244183,1123,Tuesday,Tuesdays,26-Jun-18,15  16  20  34  50  -  04  07,21.730843,21730843,0,No,No,1.191611,1191611,Below Average,Both Below,All Below,Below Average
+56,Below Average,31.245095,31245095,983,Tuesday,Tuesdays,21-Feb-17,13  19  41  45  49  -  03  04,14.3837,14383700,0,No,No,1.226656,1226656,Below Average,Both Below,All Below,Below Average
+57,Below Average,31.312678,31312678,1316,Friday,Fridays,01-May-20,19  20  38  45  47  -  02  06,36.22869,36228690,0,No,No,1.159354,1159354,Below Average,Both Below,All Below,Below Average
+58,Below Average,31.462558,31462558,1329,Tuesday,Tuesdays,16-Jun-20,4  9  11  17  39  -  02  10,15.2456,15245600,0,No,No,1.422794,1422794,Below Average,Both Below,All Below,Below Average
+59,Below Average,31.550321,31550321,1107,Tuesday,Tuesdays,01-May-18,6  15  17  42  48  -  04  06,21.805469,21805469,0,No,No,1.261262,1261262,Below Average,Both Below,All Below,Below Average
+60,Below Average,31.680558,31680558,1323,Tuesday,Tuesdays,26-May-20,4  9  14  21  27  -  04  06,16.530706,16530706,2,Yes (2),Yes (Multiple Tickets),1.479396,1479396,Below Average,Both Below,All Below,Below Average
+61,Below Average,31.716791,31716791,961,Tuesday,Tuesdays,06-Dec-16,1  7  11  27  45  -  04  09,14.3922,14392200,0,No,No,1.56226,1562260,Below Average,Both Below,All Below,Below Average
+62,Below Average,31.7302,31730200,1071,Tuesday,Tuesdays,26-Dec-17,4  17  30  43  44  -  02  10,21.951423,21951423,0,No,No,1.229515,1229515,Below Average,Both Below,All Below,Below Average
+63,Below Average,31.799224,31799224,1119,Tuesday,Tuesdays,12-Jun-18,7  21  23  36  38  -  06  08,14.9549,14954900,0,No,No,1.372593,1372593,Below Average,Both Below,All Below,Below Average
+64,Below Average,31.826643,31826643,1213,Tuesday,Tuesdays,07-May-19,7  20  26  32  47  -  02  11,21.438454,21438454,1,Yes (1),Yes (Single Ticket),1.2743,1274300,Below Average,Both Below,All Below,Below Average
+65,Below Average,31.886384,31886384,1165,Tuesday,Tuesdays,20-Nov-18,6  19  39  45  48  -  07  12,15.13,15130000,0,No,No,1.137225,1137225,Below Average,Both Below,All Below,Below Average
+66,Below Average,31.950906,31950906,1310,Friday,Fridays,10-Apr-20,3  10  17  33  39  -  01  04,46.937085,46937085,0,No,No,1.386674,1386674,Below Average,Both Below,All Below,Below Average
+67,Below Average,31.989495,31989495,1117,Tuesday,Tuesdays,05-Jun-18,9  15  22  39  46  -  04  05,14.8869,14886900,1,Yes (1),Yes (Single Ticket),1.251307,1251307,Below Average,Both Below,All Below,Below Average
+68,Below Average,32.011673,32011673,1215,Tuesday,Tuesdays,14-May-19,10  14  17  25  50  -  02  10,21.687521,21687521,0,No,No,1.410524,1410524,Below Average,Both Below,All Below,Below Average
+69,Below Average,32.063846,32063846,1073,Tuesday,Tuesdays,02-Jan-18,10  20  21  28  48  -  01  08,15.0841,15084100,0,No,No,1.318113,1318113,Below Average,Both Below,All Below,Below Average
+70,Below Average,32.285053,32285053,1209,Tuesday,Tuesdays,23-Apr-19,18  23  27  42  44  -  02  07,38.254645,38254645,1,Yes (1),Yes (Single Ticket),1.406675,1406675,Below Average,Both Below,All Below,Below Average
+71,Below Average,32.32983,32329830,1029,Tuesday,Tuesdays,01-Aug-17,14  21  24  29  30  -  08  10,15.2082,15208200,0,No,No,1.316448,1316448,Below Average,Both Below,All Below,Below Average
+72,Below Average,32.473241,32473241,1235,Tuesday,Tuesdays,23-Jul-19,1  14  19  23  38  -  03  07,15.2541,15254100,0,No,No,1.453208,1453208,Below Average,Both Below,All Below,Below Average
+73,Below Average,32.579553,32579553,967,Tuesday,Tuesdays,27-Dec-16,3  22  25  32  39  -  07  12,21.534783,21534783,1,Yes (1),Yes (Single Ticket),1.291565,1291565,Below Average,Both Below,All Below,Below Average
+74,Below Average,32.65944,32659440,1037,Tuesday,Tuesdays,29-Aug-17,4  12  15  32  38  -  01  05,15.7675,15767500,0,No,No,1.270407,1270407,Below Average,Both Below,All Below,Below Average
+75,Below Average,32.66444,32664440,1289,Tuesday,Tuesdays,28-Jan-20,1  19  27  31  38  -  04  05,14.4092,14409200,0,No,No,1.398506,1398506,Below Average,Both Below,All Below,Below Average
+76,Below Average,32.66667,32666670,959,Tuesday,Tuesdays,29-Nov-16,21  26  27  28  38  -  09  11,14.4942,14494200,0,No,No,1.332834,1332834,Below Average,Both Below,All Below,Below Average
+77,Below Average,32.677246,32677246,1199,Tuesday,Tuesdays,19-Mar-19,1  6  9  34  47  -  07  12,14.552,14552000,0,No,No,1.27648,1276480,Below Average,Both Below,All Below,Below Average
+78,Below Average,32.774493,32774493,991,Tuesday,Tuesdays,21-Mar-17,1  20  23  44  47  -  04  11,21.81829,21818290,0,No,No,1.242536,1242536,Below Average,Both Below,All Below,Below Average
+79,Below Average,32.820289,32820289,1101,Tuesday,Tuesdays,10-Apr-18,14  27  39  46  48  -  11  12,14.8291,14829100,1,Yes (1),Yes (Single Ticket),1.150268,1150268,Below Average,Both Below,All Below,Below Average
+80,Below Average,32.932697,32932697,1121,Tuesday,Tuesdays,19-Jun-18,7  19  26  42  50  -  04  09,31.80904,31809040,1,Yes (1),Yes (Single Ticket),1.406546,1406546,Below Average,Both Below,All Below,Below Average
+81,Below Average,32.967296,32967296,969,Tuesday,Tuesdays,03-Jan-17,19  23  27  34  49  -  01  11,21.591336,21591336,0,No,No,1.40692,1406920,Below Average,Both Below,All Below,Below Average
+82,Below Average,33.089651,33089651,1039,Tuesday,Tuesdays,05-Sep-17,6  9  18  28  29  -  01  09,15.5601,15560100,0,No,No,1.450942,1450942,Below Average,Both Below,All Below,Below Average
+83,Below Average,33.093736,33093736,1111,Tuesday,Tuesdays,15-May-18,4  16  20  31  39  -  02  12,22.065747,22065747,0,No,No,1.249694,1249694,Below Average,Both Below,All Below,Below Average
+84,Below Average,33.102563,33102563,1287,Tuesday,Tuesdays,21-Jan-20,10  11  24  36  46  -  03  05,14.4636,14463600,0,No,No,1.332112,1332112,Below Average,Both Below,All Below,Below Average
+85,Below Average,33.108174,33108174,1312,Friday,Fridays,17-Apr-20,16  28  32  37  45  -  01  11,58.366488,58366488,1,Yes (1),Yes (Single Ticket),1.217562,1217562,Below Average,Both Below,Jackpot Only,Above Average
+86,Below Average,33.150425,33150425,1207,Tuesday,Tuesdays,16-Apr-19,1  8  15  44  49  -  02  11,21.879091,21879091,0,No,No,1.321568,1321568,Below Average,Both Below,All Below,Below Average
+87,Below Average,33.203867,33203867,1211,Tuesday,Tuesdays,30-Apr-19,5  12  20  26  48  -  02  11,21.815835,21815835,1,Yes (1),Yes (Single Ticket),1.432093,1432093,Below Average,Both Below,All Below,Below Average
+88,Below Average,33.278241,33278241,1131,Tuesday,Tuesdays,24-Jul-18,2  4  23  39  40  -  03  09,32.023423,32023423,0,No,No,1.30674,1306740,Below Average,Both Below,All Below,Below Average
+89,Below Average,33.279015,33279015,1025,Tuesday,Tuesdays,18-Jul-17,1  25  27  41  45  -  05  07,22.265567,22265567,0,No,No,1.279792,1279792,Below Average,Both Below,All Below,Below Average
+90,Below Average,33.356636,33356636,1113,Tuesday,Tuesdays,22-May-18,1  11  37  41  48  -  08  12,39.384424,39384424,0,No,No,1.146279,1146279,Below Average,Both Below,All Below,Below Average
+91,Below Average,33.37085,33370850,1295,Tuesday,Tuesdays,18-Feb-20,11  32  34  38  47  -  02  10,22.469712,22469712,0,No,No,1.237264,1237264,Below Average,Both Below,All Below,Below Average
+92,Below Average,33.406521,33406521,1023,Tuesday,Tuesdays,11-Jul-17,14  22  26  42  50  -  08  10,15.1895,15189500,1,Yes (1),Yes (Single Ticket),1.24581,1245810,Below Average,Both Below,All Below,Below Average
+93,Below Average,33.481699,33481699,1145,Tuesday,Tuesdays,11-Sep-18,9  18  32  38  46  -  02  03,22.382447,22382447,0,No,No,1.224671,1224671,Below Average,Both Below,All Below,Below Average
+94,Below Average,33.545007,33545007,1299,Tuesday,Tuesdays,03-Mar-20,4  14  27  44  45  -  01  10,14.841,14841000,0,No,No,1.328279,1328279,Below Average,Both Below,All Below,Below Average
+95,Below Average,33.554997,33554997,1153,Tuesday,Tuesdays,09-Oct-18,3  12  36  44  45  -  08  11,14.8733,14873300,0,No,No,1.267101,1267101,Below Average,Both Below,All Below,Below Average
+96,Below Average,33.568299,33568299,1341,Tuesday,Tuesdays,28-Jul-20,9  13  15  17  34  -  02  07,23.795774,23795774,0,No,No,1.523445,1523445,Below Average,Both Below,All Below,Below Average
+97,Below Average,33.680421,33680421,979,Tuesday,Tuesdays,07-Feb-17,4  10  31  38  44  -  08  10,21.809971,21809971,0,No,No,1.346517,1346517,Below Average,Both Below,All Below,Below Average
+98,Below Average,33.719838,33719838,951,Tuesday,Tuesdays,01-Nov-16,6  10  20  29  37  -  01  09,15.3629,15362900,0,No,No,1.372058,1372058,Below Average,Both Below,All Below,Below Average
+99,Below Average,33.789459,33789459,985,Tuesday,Tuesdays,28-Feb-17,10  20  31  35  42  -  02  12,31.923442,31923442,0,No,No,1.278736,1278736,Below Average,Both Below,All Below,Below Average
+100,Below Average,33.806711,33806711,1141,Tuesday,Tuesdays,28-Aug-18,4  16  32  42  46  -  08  12,22.758649,22758649,0,No,No,1.134507,1134507,Below Average,Both Below,All Below,Below Average
+101,Below Average,33.812645,33812645,1021,Tuesday,Tuesdays,04-Jul-17,10  22  25  37  49  -  05  08,14.943,14943000,0,No,No,1.395314,1395314,Below Average,Both Below,All Below,Below Average
+102,Below Average,33.852395,33852395,1331,Tuesday,Tuesdays,23-Jun-20,2  12  19  46  49  -  01  08,34.732623,34732623,0,No,No,1.290532,1290532,Below Average,Both Below,All Below,Below Average
+103,Below Average,33.867144,33867144,1003,Tuesday,Tuesdays,02-May-17,6  19  23  25  27  -  11  12,55.848627,55848627,0,No,No,1.59018,1590180,Below Average,Both Below,Jackpot Only,Above Average
+104,Below Average,33.879345,33879345,1001,Tuesday,Tuesdays,25-Apr-17,9  11  19  32  43  -  03  09,38.059267,38059267,0,No,No,1.517119,1517119,Below Average,Both Below,All Below,Below Average
+105,Below Average,33.983732,33983732,1327,Tuesday,Tuesdays,09-Jun-20,5  15  27  36  46  -  02  08,34.451775,34451775,0,No,No,1.338852,1338852,Below Average,Both Below,All Below,Below Average
+106,Below Average,34.035628,34035628,1318,Friday,Fridays,08-May-20,8  25  32  33  38  -  07  09,49.837132,49837132,0,No,No,1.327697,1327697,Below Average,Both Below,All Below,Below Average
+107,Below Average,34.105948,34105948,1293,Tuesday,Tuesdays,11-Feb-20,24  26  32  43  46  -  06  10,14.3429,14342900,1,Yes (1),Yes (Single Ticket),1.236529,1236529,Below Average,Both Below,All Below,Below Average
+108,Below Average,34.183462,34183462,1095,Tuesday,Tuesdays,20-Mar-18,26  29  37  39  44  -  09  11,22.265427,22265427,0,No,No,1.235335,1235335,Below Average,Both Below,All Below,Below Average
+109,Below Average,34.218824,34218824,1369,Tuesday,Tuesdays,03-Nov-20,5  7  18  20  30  -  06  07,23.844506,23844506,0,No,No,1.573763,1573763,Below Average,Both Below,All Below,Below Average
+110,Below Average,34.278913,34278913,1055,Tuesday,Tuesdays,31-Oct-17,1  12  36  43  46  -  03  05,14.9192,14919200,0,No,No,1.218701,1218701,Below Average,Both Below,All Below,Below Average
+111,Below Average,34.291618,34291618,1275,Tuesday,Tuesdays,10-Dec-19,2  10  19  21  47  -  02  08,21.715889,21715889,0,No,No,1.558961,1558961,Below Average,Both Below,All Below,Below Average
+112,Below Average,34.296353,34296353,1337,Tuesday,Tuesdays,14-Jul-20,11  22  30  37  47  -  09  10,24.013488,24013488,0,No,No,1.258767,1258767,Below Average,Both Below,All Below,Below Average
+113,Below Average,34.315303,34315303,1225,Tuesday,Tuesdays,18-Jun-19,12  24  37  40  44  -  03  07,22.579505,22579505,0,No,No,1.358255,1358255,Below Average,Both Below,All Below,Below Average
+114,Below Average,34.324989,34324989,1013,Tuesday,Tuesdays,06-Jun-17,20  22  25  37  40  -  03  07,14.8665,14866500,0,No,No,1.364809,1364809,Below Average,Both Below,All Below,Below Average
+115,Below Average,34.401192,34401192,1221,Tuesday,Tuesdays,04-Jun-19,9  31  32  39  41  -  02  08,22.504557,22504557,0,No,No,1.235873,1235873,Below Average,Both Below,All Below,Below Average
+116,Below Average,34.47562,34475620,955,Tuesday,Tuesdays,15-Nov-16,7  15  36  42  48  -  03  07,22.092234,22092234,0,No,No,1.404829,1404829,Below Average,Both Below,All Below,Below Average
+117,Below Average,34.574977,34574977,1361,Tuesday,Tuesdays,06-Oct-20,4  21  36  41  47  -  09  11,15.4853,15485300,0,No,No,1.133059,1133059,Below Average,Both Below,All Below,Below Average
+118,Below Average,34.597435,34597435,1125,Tuesday,Tuesdays,03-Jul-18,1  12  15  29  48  -  03  05,39.091736,39091736,0,No,No,1.440795,1440795,Below Average,Both Below,All Below,Below Average
+119,Below Average,34.63838,34638380,1201,Tuesday,Tuesdays,26-Mar-19,12  19  23  43  47  -  02  06,32.010911,32010911,0,No,No,1.499613,1499613,Below Average,Both Below,All Below,Below Average
+120,Below Average,34.643176,34643176,1217,Tuesday,Tuesdays,21-May-19,32  33  34  39  47  -  08  12,39.211724,39211724,0,No,No,1.139762,1139762,Below Average,Both Below,All Below,Below Average
+121,Below Average,34.71766,34717660,1161,Tuesday,Tuesdays,06-Nov-18,14  24  36  40  43  -  02  09,14.8325,14832500,0,No,No,1.236792,1236792,Below Average,Both Below,All Below,Below Average
+122,Below Average,34.748817,34748817,1167,Tuesday,Tuesdays,27-Nov-18,4  16  17  18  32  -  02  11,32.439819,32439819,0,No,No,1.435142,1435142,Below Average,Both Below,All Below,Below Average
+123,Below Average,34.844789,34844789,1031,Tuesday,Tuesdays,08-Aug-17,15  25  26  40  41  -  04  05,33.089644,33089644,1,Yes (1),Yes (Single Ticket),1.255276,1255276,Below Average,Both Below,All Below,Below Average
+124,Below Average,34.993771,34993771,1109,Tuesday,Tuesdays,08-May-18,17  25  35  39  44  -  02  05,39.948586,39948586,1,Yes (1),Yes (Single Ticket),1.393834,1393834,Below Average,Both Below,All Below,Below Average
+125,Below Average,34.994084,34994084,1103,Tuesday,Tuesdays,17-Apr-18,15  27  33  39  50  -  04  06,22.289222,22289222,0,No,No,1.37185,1371850,Below Average,Both Below,All Below,Below Average
+126,Below Average,35.106041,35106041,1155,Tuesday,Tuesdays,16-Oct-18,15  28  37  40  42  -  01  06,32.638799,32638799,0,No,No,1.280093,1280093,Below Average,Both Below,All Below,Below Average
+127,Below Average,35.171614,35171614,1163,Tuesday,Tuesdays,13-Nov-18,2  7  10  13  42  -  03  06,33.184923,33184923,0,No,No,1.68972,1689720,Below Average,Both Below,All Below,Below Average
+128,Below Average,35.18912,35189120,993,Tuesday,Tuesdays,28-Mar-17,9  13  31  33  46  -  06  10,39.63035,39630350,0,No,No,1.437386,1437386,Below Average,Both Below,All Below,Below Average
+129,Below Average,35.221957,35221957,1057,Tuesday,Tuesdays,07-Nov-17,7  19  20  37  41  -  02  12,14.9702,14970200,0,No,No,1.402281,1402281,Below Average,Both Below,All Below,Below Average
+130,Below Average,35.236501,35236501,963,Tuesday,Tuesdays,13-Dec-16,14  28  29  48  50  -  02  08,32.050401,32050401,0,No,No,1.430438,1430438,Below Average,Both Below,All Below,Below Average
+131,Below Average,35.27201,35272010,1271,Tuesday,Tuesdays,26-Nov-19,2  3  15  19  34  -  05  08,22.196254,22196254,0,No,No,1.572427,1572427,Below Average,Both Below,All Below,Below Average
+132,Below Average,35.320576,35320576,977,Tuesday,Tuesdays,31-Jan-17,3  4  17  23  44  -  06  09,22.233944,22233944,1,Yes (1),Yes (Single Ticket),1.680382,1680382,Below Average,Both Below,All Below,Below Average
+133,Below Average,35.353393,35353393,1193,Tuesday,Tuesdays,26-Feb-19,3  15  29  35  47  -  03  04,22.256333,22256333,0,No,No,1.388366,1388366,Below Average,Both Below,All Below,Below Average
+134,Below Average,35.627204,35627204,1301,Tuesday,Tuesdays,10-Mar-20,11  23  30  37  43  -  05  12,35.567254,35567254,0,No,No,1.392127,1392127,Below Average,Both Below,All Below,Below Average
+135,Below Average,35.705734,35705734,1227,Tuesday,Tuesdays,25-Jun-19,6  26  27  34  46  -  01  09,40.597881,40597881,0,No,No,1.308704,1308704,Below Average,Both Below,All Below,Below Average
+136,Below Average,35.780356,35780356,1027,Tuesday,Tuesdays,25-Jul-17,12  14  43  44  48  -  02  11,40.445365,40445365,0,No,No,1.274007,1274007,Below Average,Both Below,All Below,Below Average
+137,Below Average,35.83541,35835410,1359,Tuesday,Tuesdays,29-Sep-20,4  14  16  41  44  -  11  12,15.5312,15531200,0,No,No,1.299124,1299124,Below Average,Both Below,All Below,Below Average
+138,Below Average,36.012598,36012598,1097,Tuesday,Tuesdays,27-Mar-18,17  20  23  40  46  -  09  10,40.629122,40629122,0,No,No,1.389696,1389696,Below Average,Both Below,All Below,Below Average
+139,Below Average,36.019661,36019661,1059,Tuesday,Tuesdays,14-Nov-17,14  16  39  40  41  -  08  10,34.502478,34502478,0,No,No,1.217911,1217911,Below Average,Both Below,All Below,Below Average
+140,Below Average,36.039929,36039929,1089,Tuesday,Tuesdays,27-Feb-18,3  31  41  48  50  -  08  11,14.9566,14956600,0,No,No,1.198209,1198209,Below Average,Both Below,All Below,Below Average
+141,Below Average,36.125595,36125595,1237,Tuesday,Tuesdays,30-Jul-19,15  20  23  27  40  -  03  06,33.364792,33364792,0,No,No,1.477652,1477652,Below Average,Both Below,All Below,Below Average
+142,Below Average,36.185729,36185729,1035,Tuesday,Tuesdays,22-Aug-17,3  10  12  17  27  -  03  05,40.510685,40510685,1,Yes (1),Yes (Single Ticket),1.783982,1783982,Below Average,Both Below,All Below,Below Average
+143,Below Average,36.294949,36294949,1115,Tuesday,Tuesdays,29-May-18,6  11  20  38  43  -  02  04,57.637756,57637756,0,No,No,1.41862,1418620,Below Average,Both Below,Jackpot Only,Above Average
+144,Below Average,36.307641,36307641,1015,Tuesday,Tuesdays,13-Jun-17,3  12  22  27  49  -  04  11,33.506785,33506785,0,No,No,1.59142,1591420,Below Average,Both Below,All Below,Below Average
+145,Below Average,36.374446,36374446,1297,Tuesday,Tuesdays,25-Feb-20,1  4  18  27  42  -  04  06,43.515336,43515336,0,No,No,1.620037,1620037,Below Average,Both Below,All Below,Below Average
+146,Below Average,36.383922,36383922,1363,Tuesday,Tuesdays,13-Oct-20,5  14  38  41  46  -  01  10,36.618665,36618665,0,No,No,1.227145,1227145,Below Average,Both Below,All Below,Below Average
+147,Below Average,36.419591,36419591,1353,Tuesday,Tuesdays,08-Sep-20,2  9  31  35  41  -  09  12,24.534097,24534097,0,No,No,1.256217,1256217,Below Average,Both Below,All Below,Below Average
+148,Below Average,36.484727,36484727,1099,Tuesday,Tuesdays,03-Apr-18,3  8  16  40  43  -  05  08,59.156133,59156133,0,No,No,1.489813,1489813,Below Average,Both Below,Jackpot Only,Above Average
+149,Below Average,36.532667,36532667,957,Tuesday,Tuesdays,22-Nov-16,5  10  33  34  47  -  02  10,40.546633,40546633,0,No,No,1.425468,1425468,Below Average,Both Below,All Below,Below Average
+150,Below Average,36.592774,36592774,1219,Tuesday,Tuesdays,28-May-19,7  19  20  28  29  -  01  05,28.837305,28837305,2,Yes (2),Yes (Multiple Tickets),1.699581,1699581,Below Average,Both Below,All Below,Below Average
+151,Below Average,36.714653,36714653,1343,Tuesday,Tuesdays,04-Aug-20,1  2  5  15  42  -  05  08,44.373299,44373299,0,No,No,1.537547,1537547,Below Average,Both Below,All Below,Below Average
+152,Below Average,36.750157,36750157,981,Tuesday,Tuesdays,14-Feb-17,2  10  24  40  44  -  03  10,19.987961,19987961,2,Yes (2),Yes (Multiple Tickets),1.512442,1512442,Below Average,Both Below,All Below,Below Average
+153,Below Average,36.789053,36789053,1179,Tuesday,Tuesdays,08-Jan-19,3  19  22  31  32  -  02  11,23.253235,23253235,0,No,No,1.467905,1467905,Below Average,Both Below,All Below,Below Average
+154,Below Average,36.870375,36870375,1147,Tuesday,Tuesdays,18-Sep-18,3  8  10  32  45  -  04  12,40.651934,40651934,0,No,No,1.454332,1454332,Below Average,Both Below,All Below,Below Average
+155,Below Average,36.87215,36872150,1075,Tuesday,Tuesdays,09-Jan-18,6  12  15  38  49  -  02  09,33.484288,33484288,0,No,No,1.484442,1484442,Below Average,Both Below,All Below,Below Average
+156,Below Average,36.98929,36989290,1339,Tuesday,Tuesdays,21-Jul-20,14  15  24  29  42  -  02  04,44.865863,44865863,1,Yes (1),Yes (Single Ticket),1.448392,1448392,Below Average,Both Below,All Below,Below Average
+157,Below Average,37.038561,37038561,971,Tuesday,Tuesdays,10-Jan-17,2  11  29  35  44  -  04  09,40.25965,40259650,0,No,No,1.511105,1511105,Below Average,Both Below,All Below,Below Average
+158,Below Average,37.20127,37201270,1143,Tuesday,Tuesdays,04-Sep-18,5  14  28  30  47  -  04  11,40.979973,40979973,1,Yes (1),Yes (Single Ticket),1.456073,1456073,Below Average,Both Below,All Below,Below Average
+159,Below Average,37.221319,37221319,1041,Tuesday,Tuesdays,12-Sep-17,10  17  27  29  35  -  04  11,33.717075,33717075,0,No,No,1.591627,1591627,Below Average,Both Below,All Below,Below Average
+160,Below Average,37.430522,37430522,1259,Tuesday,Tuesdays,15-Oct-19,3  28  31  32  34  -  04  05,22.772993,22772993,0,No,No,1.410205,1410205,Below Average,Both Below,All Below,Below Average
+161,Below Average,37.552202,37552202,1277,Tuesday,Tuesdays,17-Dec-19,1  7  12  25  49  -  06  09,41.621418,41621418,1,Yes (1),Yes (Single Ticket),1.751197,1751197,Below Average,Both Below,All Below,Below Average
+162,Below Average,37.716154,37716154,1017,Tuesday,Tuesdays,20-Jun-17,11  18  26  43  44  -  08  10,52.594374,52594374,0,No,No,1.469998,1469998,Below Average,Both Below,All Below,Below Average
+163,Below Average,37.736184,37736184,1133,Tuesday,Tuesdays,31-Jul-18,20  25  34  42  45  -  06  11,50.637585,50637585,0,No,No,1.315082,1315082,Below Average,Both Below,All Below,Below Average
+164,Below Average,37.908724,37908724,1203,Tuesday,Tuesdays,02-Apr-19,2  9  16  26  36  -  06  07,50.833887,50833887,0,No,No,1.569587,1569587,Below Average,Both Below,All Below,Below Average
+165,Below Average,37.990618,37990618,1169,Tuesday,Tuesdays,04-Dec-18,19  20  21  42  45  -  08  09,51.79999,51799990,0,No,No,1.406668,1406668,Below Average,Both Below,All Below,Below Average
+166,Below Average,38.076355,38076355,1127,Tuesday,Tuesdays,10-Jul-18,3  8  26  33  45  -  07  10,57.975368,57975368,1,Yes (1),Yes (Single Ticket),1.519567,1519567,Below Average,Both Below,Jackpot Only,Above Average
+167,Below Average,38.118526,38118526,1273,Tuesday,Tuesdays,03-Dec-19,18  31  32  38  48  -  04  12,40.957697,40957697,1,Yes (1),Yes (Single Ticket),1.367876,1367876,Below Average,Both Below,All Below,Below Average
+168,Below Average,38.139517,38139517,1049,Tuesday,Tuesdays,10-Oct-17,4  21  34  36  37  -  03  06,15.2099,15209900,0,No,No,1.351736,1351736,Below Average,Both Below,All Below,Below Average
+169,Below Average,38.172573,38172573,953,Tuesday,Tuesdays,08-Nov-16,5  9  47  49  50  -  08  09,35.072281,35072281,1,Yes (1),Yes (Single Ticket),1.436674,1436674,Below Average,Both Below,All Below,Below Average
+170,Below Average,38.25864,38258640,1371,Tuesday,Tuesdays,10-Nov-20,3  19  29  32  38  -  05  12,45.088804,45088804,0,No,No,1.49607,1496070,Below Average,Both Below,All Below,Below Average
+171,Below Average,38.276455,38276455,1051,Tuesday,Tuesdays,17-Oct-17,13  17  19  26  36  -  02  03,37.871775,37871775,0,No,No,1.658729,1658729,Below Average,Both Below,All Below,Below Average
+172,Below Average,38.409292,38409292,1195,Tuesday,Tuesdays,05-Mar-19,6  10  16  39  46  -  08  11,43.29416,43294160,0,No,No,1.469753,1469753,Below Average,Both Below,All Below,Below Average
+173,Below Average,38.443084,38443084,941,Tuesday,Tuesdays,27-Sep-16,6  9  13  39  41  -  02  12,14.671,14671000,0,No,No,1.572657,1572657,Below Average,Both Below,All Below,Below Average
+174,Below Average,38.486526,38486526,1091,Tuesday,Tuesdays,06-Mar-18,15  20  26  31  44  -  02  09,34.392263,34392263,0,No,No,1.498742,1498742,Below Average,Both Below,All Below,Below Average
+175,Below Average,38.62368,38623680,1261,Tuesday,Tuesdays,22-Oct-19,2  5  32  33  47  -  07  08,41.922445,41922445,0,No,No,1.474623,1474623,Below Average,Both Below,All Below,Below Average
+176,Below Average,38.638633,38638633,1181,Tuesday,Tuesdays,15-Jan-19,22  25  29  33  35  -  03  06,42.137452,42137452,0,No,No,1.497164,1497164,Below Average,Both Below,All Below,Below Average
+177,Below Average,38.699238,38699238,1061,Tuesday,Tuesdays,21-Nov-17,2  10  14  28  31  -  05  07,54.215274,54215274,0,No,No,1.713051,1713051,Below Average,Both Below,Jackpot Only,Above Average
+178,Below Average,38.737585,38737585,1320,Friday,Fridays,15-May-20,11  23  32  34  39  -  01  06,65.175962,65175962,1,Yes (1),Yes (Single Ticket),1.52658,1526580,Below Average,Both Below,Jackpot Only,Above Average
+179,Below Average,38.815303,38815303,995,Tuesday,Tuesdays,04-Apr-17,1  9  24  33  34  -  02  06,58.513592,58513592,0,No,No,1.587281,1587281,Below Average,Both Below,Jackpot Only,Above Average
+180,Below Average,38.854088,38854088,1157,Tuesday,Tuesdays,23-Oct-18,1  2  5  21  32  -  02  12,52.107396,52107396,0,No,No,1.559417,1559417,Below Average,Both Below,All Below,Below Average
+181,Below Average,39.106662,39106662,947,Tuesday,Tuesdays,18-Oct-16,2  17  21  25  27  -  06  09,23.638239,23638239,0,No,No,1.727304,1727304,Below Average,Both Below,All Below,Below Average
+182,Below Average,39.160784,39160784,987,Tuesday,Tuesdays,07-Mar-17,6  37  41  48  50  -  04  05,51.910688,51910688,0,No,No,1.337835,1337835,Below Average,Both Below,All Below,Below Average
+183,Below Average,39.280847,39280847,1333,Tuesday,Tuesdays,30-Jun-20,1  6  11  28  42  -  02  10,56.510237,56510237,0,No,No,1.598344,1598344,Below Average,Both Below,Jackpot Only,Above Average
+184,Below Average,39.721124,39721124,1239,Tuesday,Tuesdays,06-Aug-19,12  13  29  36  38  -  04  12,52.917787,52917787,0,No,No,1.498638,1498638,Below Average,Both Below,All Below,Below Average
+185,Below Average,39.792481,39792481,1229,Tuesday,Tuesdays,02-Jul-19,11  19  29  44  45  -  08  12,60.173279,60173279,0,No,No,1.579922,1579922,Below Average,Both Below,Jackpot Only,Above Average
+186,Below Average,39.835091,39835091,1365,Tuesday,Tuesdays,20-Oct-20,5  6  15  37  42  -  03  04,59.778232,59778232,0,No,No,1.511168,1511168,Below Average,Both Below,Jackpot Only,Above Average
+187,Below Average,39.856411,39856411,1355,Tuesday,Tuesdays,15-Sep-20,16  20  25  30  38  -  06  08,47.250235,47250235,0,No,No,1.516838,1516838,Below Average,Both Below,All Below,Below Average
+188,Below Average,40.075128,40075128,965,Tuesday,Tuesdays,20-Dec-16,13  15  17  21  27  -  02  03,51.875129,51875129,1,Yes (1),Yes (Single Ticket),2.005448,2005448,Above Average,Wins Only,Wins Only,Below Average
+189,Below Average,40.12866,40128660,1222,Friday,Fridays,07-Jun-19,1  4  16  20  34  -  02  05,115.726,115726000,0,No,No,3.581902,3581902,Above Average,Wins Only,Jackpot + Wins Above,Above Average
+190,Below Average,40.197372,40197372,1324,Friday,Fridays,29-May-20,4  8  11  19  46  -  04  08,15.2949,15294900,1,Yes (1),Yes (Single Ticket),1.763683,1763683,Below Average,Both Below,All Below,Below Average
+191,Below Average,40.306428,40306428,1205,Tuesday,Tuesdays,09-Apr-19,18  21  29  38  41  -  01  11,68.329653,68329653,1,Yes (1),Yes (Single Ticket),1.548078,1548078,Below Average,Both Below,Jackpot Only,Above Average
+192,Below Average,40.428855,40428855,1291,Tuesday,Tuesdays,04-Feb-20,21  23  33  35  47  -  06  07,34.634832,34634832,0,No,No,1.620796,1620796,Below Average,Both Below,All Below,Below Average
+193,Below Average,40.429626,40429626,1322,Friday,Fridays,22-May-20,3  18  22  27  32  -  02  07,25.387006,25387006,0,No,No,1.774481,1774481,Below Average,Both Below,All Below,Below Average
+194,Below Average,40.431112,40431112,1345,Tuesday,Tuesdays,11-Aug-20,8  13  14  42  50  -  03  09,66.130274,66130274,0,No,No,1.613185,1613185,Below Average,Both Below,Jackpot Only,Above Average
+195,Below Average,40.519016,40519016,1053,Tuesday,Tuesdays,24-Oct-17,9  11  13  27  33  -  07  10,58.670142,58670142,1,Yes (1),Yes (Single Ticket),1.944447,1944447,Below Average,Both Below,Jackpot Only,Above Average
+196,Below Average,40.573396,40573396,1183,Tuesday,Tuesdays,22-Jan-19,9  23  29  41  49  -  08  10,61.621961,61621961,0,No,No,1.585425,1585425,Below Average,Both Below,Jackpot Only,Above Average
+197,Below Average,40.605496,40605496,1135,Tuesday,Tuesdays,07-Aug-18,16  28  29  30  36  -  08  10,67.719962,67719962,0,No,No,1.495118,1495118,Below Average,Both Below,Jackpot Only,Above Average
+198,Below Average,40.700715,40700715,1283,Tuesday,Tuesdays,07-Jan-20,5  8  12  37  43  -  06  11,64.021946,64021946,0,No,No,1.720809,1720809,Below Average,Both Below,Jackpot Only,Above Average
+199,Below Average,41.102401,41102401,1005,Tuesday,Tuesdays,09-May-17,8  12  16  22  26  -  06  07,68.249429,68249429,0,No,No,1.948255,1948255,Below Average,Both Below,Jackpot Only,Above Average
+200,Below Average,41.132504,41132504,1093,Tuesday,Tuesdays,13-Mar-18,9  11  13  33  49  -  06  12,54.643467,54643467,1,Yes (1),Yes (Single Ticket),1.814174,1814174,Below Average,Both Below,Jackpot Only,Above Average
+201,Below Average,41.235007,41235007,1077,Tuesday,Tuesdays,16-Jan-18,20  23  31  34  46  -  03  12,54.434216,54434216,0,No,No,1.446248,1446248,Below Average,Both Below,Jackpot Only,Above Average
+202,Below Average,41.296163,41296163,1171,Tuesday,Tuesdays,11-Dec-18,4  7  13  23  42  -  01  03,69.712546,69712546,0,No,No,1.94207,1942070,Below Average,Both Below,Jackpot Only,Above Average
+203,Below Average,41.330066,41330066,1212,Friday,Fridays,03-May-19,2  9  20  27  43  -  05  06,14.467,14467000,0,No,No,1.762515,1762515,Below Average,Both Below,All Below,Below Average
+204,Below Average,41.555354,41555354,1279,Tuesday,Tuesdays,24-Dec-19,3  11  13  14  47  -  03  06,23.534756,23534756,0,No,No,1.900558,1900558,Below Average,Both Below,All Below,Below Average
+205,Below Average,41.603277,41603277,1263,Tuesday,Tuesdays,29-Oct-19,16  18  28  42  49  -  05  10,62.293451,62293451,0,No,No,1.619208,1619208,Below Average,Both Below,Jackpot Only,Above Average
+206,Below Average,41.790534,41790534,1197,Tuesday,Tuesdays,12-Mar-19,5  7  13  19  31  -  02  09,64.356515,64356515,0,No,No,2.158286,2158286,Above Average,Wins Only,Jackpot + Wins Above,Above Average
+207,Below Average,41.85769,41857690,973,Tuesday,Tuesdays,17-Jan-17,4  16  25  43  47  -  02  10,62.366698,62366698,0,No,No,1.571807,1571807,Below Average,Both Below,Jackpot Only,Above Average
+208,Below Average,41.863533,41863533,1373,Tuesday,Tuesdays,17-Nov-20,16  19  25  30  44  -  02  06,69.354137,69354137,0,No,No,1.717073,1717073,Below Average,Both Below,Jackpot Only,Above Average
+209,Below Average,41.990323,41990323,998,Friday,Fridays,14-Apr-17,4  14  20  23  33  -  06  10,14.4228,14422800,0,No,No,1.896557,1896557,Below Average,Both Below,All Below,Below Average
+210,Below Average,42.143808,42143808,1367,Tuesday,Tuesdays,27-Oct-20,13  15  28  32  44  -  03  12,79.315198,79315198,1,Yes (1),Yes (Single Ticket),1.686057,1686057,Below Average,Both Below,Jackpot Only,Above Average
+211,Below Average,42.188421,42188421,1159,Tuesday,Tuesdays,30-Oct-18,17  23  27  43  44  -  01  12,70.193991,70193991,0,No,No,1.772738,1772738,Below Average,Both Below,Jackpot Only,Above Average
+212,Below Average,42.245303,42245303,1019,Tuesday,Tuesdays,27-Jun-17,9  17  21  28  45  -  01  03,70.127201,70127201,0,No,No,1.833319,1833319,Below Average,Both Below,Jackpot Only,Above Average
+213,Below Average,42.252548,42252548,1214,Friday,Fridays,10-May-19,1  4  27  45  48  -  01  07,14.6948,14694800,0,No,No,1.63984,1639840,Below Average,Both Below,All Below,Below Average
+214,Below Average,42.254955,42254955,1122,Friday,Fridays,22-Jun-18,14  25  39  41  44  -  02  08,14.96,14960000,0,No,No,1.598189,1598189,Below Average,Both Below,All Below,Below Average
+215,Below Average,42.350471,42350471,949,Tuesday,Tuesdays,25-Oct-16,3  15  20  21  28  -  01  05,44.777159,44777159,1,Yes (1),Yes (Single Ticket),1.835606,1835606,Below Average,Both Below,All Below,Below Average
+216,Below Average,42.469068,42469068,997,Tuesday,Tuesdays,11-Apr-17,5  21  22  31  49  -  02  08,70.887897,70887897,1,Yes (1),Yes (Single Ticket),1.807549,1807549,Below Average,Both Below,Jackpot Only,Above Average
+217,Below Average,42.477656,42477656,1063,Tuesday,Tuesdays,28-Nov-17,1  6  12  18  42  -  02  07,71.866782,71866782,0,No,No,1.814149,1814149,Below Average,Both Below,Jackpot Only,Above Average
+218,Below Average,42.48282,42482820,1210,Friday,Fridays,26-Apr-19,14  33  35  47  50  -  09  11,14.6829,14682900,0,No,No,1.497865,1497865,Below Average,Both Below,All Below,Below Average
+219,Below Average,43.030146,43030146,1220,Friday,Fridays,31-May-19,1  23  24  26  35  -  01  11,15.0348,15034800,0,No,No,1.663467,1663467,Below Average,Both Below,All Below,Below Average
+220,Below Average,43.124042,43124042,1340,Friday,Fridays,24-Jul-20,8  9  27  28  50  -  04  12,15.4836,15483600,0,No,No,1.746841,1746841,Below Average,Both Below,All Below,Below Average
+221,Below Average,43.308157,43308157,1326,Friday,Fridays,05-Jun-20,5  11  17  24  37  -  03  06,25.999539,25999539,0,No,No,1.962381,1962381,Above Average,Wins Only,Wins Only,Below Average
+222,Below Average,43.308809,43308809,989,Tuesday,Tuesdays,14-Mar-17,3  5  21  36  44  -  03  06,70.386999,70386999,1,Yes (1),Yes (Single Ticket),1.79546,1795460,Below Average,Both Below,Jackpot Only,Above Average
+223,Below Average,43.4101,43410100,1265,Tuesday,Tuesdays,05-Nov-19,9  14  25  33  48  -  02  12,74.873475,74873475,0,No,No,1.73333,1733330,Below Average,Both Below,Jackpot Only,Above Average
+224,Below Average,43.437437,43437437,1231,Tuesday,Tuesdays,09-Jul-19,7  29  32  36  41  -  06  07,73.547916,73547916,0,No,No,1.596489,1596489,Below Average,Both Below,Jackpot Only,Above Average
+225,Below Average,43.447463,43447463,1208,Friday,Fridays,19-Apr-19,7  8  32  41  49  -  05  11,31.273852,31273852,0,No,No,1.641817,1641817,Below Average,Both Below,All Below,Below Average
+226,Below Average,43.53487,43534870,1241,Tuesday,Tuesdays,13-Aug-19,13  29  31  33  40  -  02  03,70.899768,70899768,0,No,No,1.659736,1659736,Below Average,Both Below,Jackpot Only,Above Average
+227,Below Average,43.69666,43696660,1357,Tuesday,Tuesdays,22-Sep-20,16  25  28  39  40  -  01  06,71.063522,71063522,0,No,No,1.57124,1571240,Below Average,Both Below,Jackpot Only,Above Average
+228,Below Average,43.725874,43725874,1330,Friday,Fridays,19-Jun-20,5  14  19  24  43  -  03  11,26.333468,26333468,0,No,No,1.788281,1788281,Below Average,Both Below,All Below,Below Average
+229,Below Average,43.817393,43817393,1079,Tuesday,Tuesdays,23-Jan-18,5  8  9  23  24  -  07  08,71.872851,71872851,0,No,No,2.08347,2083470,Above Average,Wins Only,Jackpot + Wins Above,Above Average
+230,Below Average,44.118297,44118297,1000,Friday,Fridays,21-Apr-17,2  13  16  22  49  -  04  05,30.153753,30153753,0,No,No,1.956983,1956983,Above Average,Wins Only,Wins Only,Below Average
+231,Below Average,44.361347,44361347,1280,Friday,Fridays,27-Dec-19,1  7  22  26  35  -  05  10,33.089326,33089326,0,No,No,1.921052,1921052,Below Average,Both Below,All Below,Below Average
+232,Below Average,44.408647,44408647,1274,Friday,Fridays,06-Dec-19,1  3  27  39  46  -  01  10,14.3191,14319100,0,No,No,1.776203,1776203,Below Average,Both Below,All Below,Below Average
+233,Below Average,44.439491,44439491,1185,Tuesday,Tuesdays,29-Jan-19,14  24  26  32  39  -  03  08,75.051591,75051591,0,No,No,1.774795,1774795,Below Average,Both Below,Jackpot Only,Above Average
+234,Below Average,44.558018,44558018,1024,Friday,Fridays,14-Jul-17,11  14  20  21  47  -  07  10,14.9005,14900500,0,No,No,1.85222,1852220,Below Average,Both Below,All Below,Below Average
+235,Below Average,44.639668,44639668,1110,Friday,Fridays,11-May-18,3  22  34  49  50  -  08  11,15.0042,15004200,0,No,No,1.639292,1639292,Below Average,Both Below,All Below,Below Average
+236,Below Average,44.74846,44748460,1206,Friday,Fridays,12-Apr-19,1  28  35  36  46  -  06  09,14.7016,14701600,0,No,No,1.526974,1526974,Below Average,Both Below,All Below,Below Average
+237,Below Average,44.849669,44849669,1120,Friday,Fridays,15-Jun-18,23  26  33  38  49  -  01  12,24.560828,24560828,0,No,No,1.689714,1689714,Below Average,Both Below,All Below,Below Average
+238,Below Average,44.857301,44857301,1285,Tuesday,Tuesdays,14-Jan-20,21  25  29  39  44  -  08  09,78.00049,78000490,0,No,No,1.770798,1770798,Below Average,Both Below,Jackpot Only,Above Average
+239,Below Average,44.930225,44930225,1278,Friday,Fridays,20-Dec-19,8  24  30  32  34  -  03  04,14.484,14484000,0,No,No,1.777543,1777543,Below Average,Both Below,All Below,Below Average
+240,Below Average,44.960753,44960753,1144,Friday,Fridays,07-Sep-18,4  23  27  31  50  -  01  08,15.2167,15216700,0,No,No,1.841323,1841323,Below Average,Both Below,All Below,Below Average
+241,Below Average,44.987395,44987395,982,Friday,Fridays,17-Feb-17,19  25  33  36  48  -  02  09,14.5095,14509500,1,Yes (1),Yes (Single Ticket),1.728805,1728805,Below Average,Both Below,All Below,Below Average
+242,Below Average,45.022113,45022113,1368,Friday,Fridays,30-Oct-20,12  16  20  21  28  -  03  09,15.3017,15301700,0,No,No,1.977041,1977041,Above Average,Wins Only,Wins Only,Below Average
+243,Below Average,45.137081,45137081,1236,Friday,Fridays,26-Jul-19,2  5  27  37  42  -  03  10,25.032609,25032609,0,No,No,1.739304,1739304,Below Average,Both Below,All Below,Below Average
+244,Below Average,45.14767,45147670,1130,Friday,Fridays,20-Jul-18,2  15  40  43  46  -  03  06,24.941396,24941396,0,No,No,1.527054,1527054,Below Average,Both Below,All Below,Below Average
+245,Below Average,45.231571,45231571,1216,Friday,Fridays,17-May-19,16  28  42  43  45  -  06  07,31.674666,31674666,0,No,No,1.597592,1597592,Below Average,Both Below,All Below,Below Average
+246,Below Average,45.332644,45332644,1288,Friday,Fridays,24-Jan-20,3  4  6  9  24  -  05  08,24.139851,24139851,1,Yes (1),Yes (Single Ticket),2.236871,2236871,Above Average,Wins Only,Wins Only,Below Average
+247,Below Average,45.423541,45423541,1166,Friday,Fridays,23-Nov-18,5  8  25  26  30  -  03  10,24.866684,24866684,0,No,No,1.994301,1994301,Above Average,Wins Only,Wins Only,Below Average
+248,Below Average,45.465808,45465808,1347,Tuesday,Tuesdays,18-Aug-20,6  12  17  34  42  -  05  12,87.266444,87266444,0,No,No,1.805255,1805255,Below Average,Both Below,Jackpot Only,Above Average
+249,Below Average,45.487133,45487133,1124,Friday,Fridays,29-Jun-18,15  21  23  40  48  -  03  12,31.647298,31647298,0,No,No,1.718327,1718327,Below Average,Both Below,All Below,Below Average
+250,Below Average,45.567415,45567415,990,Friday,Fridays,17-Mar-17,6  10  19  29  36  -  03  09,14.7424,14742400,0,No,No,2.011936,2011936,Above Average,Wins Only,Wins Only,Below Average
+251,Below Average,45.600427,45600427,1173,Tuesday,Tuesdays,18-Dec-18,1  9  18  39  48  -  05  07,83.057501,83057501,0,No,No,1.819369,1819369,Below Average,Both Below,Jackpot Only,Above Average
+252,Below Average,45.714168,45714168,1032,Friday,Fridays,11-Aug-17,18  28  39  46  48  -  05  12,15.4496,15449600,0,No,No,1.513516,1513516,Below Average,Both Below,All Below,Below Average
+253,Below Average,45.716265,45716265,1342,Friday,Fridays,31-Jul-20,21  24  30  46  49  -  02  05,35.077775,35077775,0,No,No,1.628634,1628634,Below Average,Both Below,All Below,Below Average
+254,Below Average,45.72155,45721550,1243,Tuesday,Tuesdays,20-Aug-19,20  22  23  24  37  -  01  04,83.338679,83338679,0,No,No,1.713572,1713572,Below Average,Both Below,Jackpot Only,Above Average
+255,Below Average,45.98564,45985640,1140,Friday,Fridays,24-Aug-18,3  14  31  36  50  -  01  12,15.3935,15393500,0,No,No,1.621896,1621896,Below Average,Both Below,All Below,Below Average
+256,Below Average,46.014421,46014421,1137,Tuesday,Tuesdays,14-Aug-18,1  15  18  25  31  -  09  11,81.090231,81090231,0,No,No,1.852942,1852942,Below Average,Both Below,Jackpot Only,Above Average
+257,Below Average,46.062204,46062204,975,Tuesday,Tuesdays,24-Jan-17,1  5  7  17  23  -  03  08,76.052175,76052175,1,Yes (1),Yes (Single Ticket),2.402716,2402716,Above Average,Wins Only,Jackpot + Wins Above,Above Average
+258,Below Average,46.189476,46189476,1336,Friday,Fridays,10-Jul-20,15  17  23  30  38  -  02  07,15.2252,15225200,0,No,No,2.011223,2011223,Above Average,Wins Only,Wins Only,Below Average
+259,Below Average,46.231964,46231964,1270,Friday,Fridays,22-Nov-19,3  21  32  34  48  -  03  11,14.6081,14608100,0,No,No,1.736494,1736494,Below Average,Both Below,All Below,Below Average
+260,Below Average,46.289749,46289749,1118,Friday,Fridays,08-Jun-18,8  19  32  43  46  -  02  08,14.9311,14931100,1,Yes (1),Yes (Single Ticket),1.758722,1758722,Below Average,Both Below,All Below,Below Average
+261,Below Average,46.402645,46402645,984,Friday,Fridays,24-Feb-17,2  4  13  22  43  -  08  09,24.449171,24449171,0,No,No,2.061921,2061921,Above Average,Wins Only,Wins Only,Below Average
+262,Below Average,46.437111,46437111,1200,Friday,Fridays,22-Mar-19,4  17  26  30  43  -  06  11,24.580716,24580716,0,No,No,1.929433,1929433,Below Average,Both Below,All Below,Below Average
+263,Below Average,46.472,46472000,1290,Friday,Fridays,31-Jan-20,13  18  20  23  30  -  02  04,24.336652,24336652,0,No,No,2.222817,2222817,Above Average,Wins Only,Wins Only,Below Average
+264,Below Average,46.47645,46476450,1328,Friday,Fridays,12-Jun-20,2  24  39  45  46  -  04  08,46.399553,46399553,1,Yes (1),Yes (Single Ticket),1.586331,1586331,Below Average,Both Below,All Below,Below Average
+265,Below Average,46.483129,46483129,1036,Friday,Fridays,25-Aug-17,1  5  7  15  47  -  09  12,15.7352,15735200,1,Yes (1),Yes (Single Ticket),1.929665,1929665,Below Average,Both Below,All Below,Below Average
+266,Below Average,46.536379,46536379,976,Friday,Fridays,27-Jan-17,17  20  28  45  48  -  05  09,14.4959,14495900,0,No,No,1.886916,1886916,Below Average,Both Below,All Below,Below Average
+267,Below Average,46.587745,46587745,1300,Friday,Fridays,06-Mar-20,15  38  43  45  46  -  01  11,26.423336,26423336,0,No,No,1.541171,1541171,Below Average,Both Below,All Below,Below Average
+268,Below Average,46.596523,46596523,1112,Friday,Fridays,18-May-18,5  8  10  13  31  -  03  06,32.04007,32040070,0,No,No,2.261817,2261817,Above Average,Wins Only,Wins Only,Below Average
+269,Below Average,46.707795,46707795,1294,Friday,Fridays,14-Feb-20,5  20  35  41  49  -  06  10,14.1406,14140600,0,No,No,1.734592,1734592,Below Average,Both Below,All Below,Below Average
+270,Below Average,46.851392,46851392,970,Friday,Fridays,06-Jan-17,10  14  18  21  49  -  09  11,31.898943,31898943,0,No,No,1.98789,1987890,Above Average,Wins Only,Wins Only,Below Average
+271,Below Average,46.861345,46861345,1154,Friday,Fridays,12-Oct-18,4  9  12  31  43  -  05  08,25.07015,25070150,0,No,No,2.038565,2038565,Above Average,Wins Only,Wins Only,Below Average
+272,Below Average,46.913486,46913486,992,Friday,Fridays,24-Mar-17,2  17  21  27  34  -  05  09,31.918888,31918888,0,No,No,2.114195,2114195,Above Average,Wins Only,Wins Only,Below Average
+273,Below Average,46.951741,46951741,1081,Tuesday,Tuesdays,30-Jan-18,11  15  21  27  35  -  04  05,86.173606,86173606,0,No,No,2.039844,2039844,Above Average,Wins Only,Jackpot + Wins Above,Above Average
+274,Below Average,46.965341,46965341,1178,Friday,Fridays,04-Jan-19,7  11  19  27  37  -  06  10,15.2286,15228600,0,No,No,2.192933,2192933,Above Average,Wins Only,Wins Only,Below Average
+275,Below Average,47.026637,47026637,1338,Friday,Fridays,17-Jul-20,7  15  27  41  43  -  07  09,35.838894,35838894,0,No,No,1.911934,1911934,Below Average,Both Below,All Below,Below Average
+276,Below Average,47.058676,47058676,1030,Friday,Fridays,04-Aug-17,29  30  36  40  41  -  02  09,25.529274,25529274,0,No,No,1.540568,1540568,Below Average,Both Below,All Below,Below Average
+277,Below Average,47.062543,47062543,1226,Friday,Fridays,21-Jun-19,5  8  9  25  39  -  03  07,32.775384,32775384,0,No,No,2.150438,2150438,Above Average,Wins Only,Wins Only,Below Average
+278,Below Average,47.072026,47072026,962,Friday,Fridays,09-Dec-16,6  12  28  37  40  -  01  05,24.450957,24450957,0,No,No,1.991675,1991675,Above Average,Wins Only,Wins Only,Below Average
+279,Below Average,47.072577,47072577,1296,Friday,Fridays,21-Feb-20,7  23  30  32  45  -  05  09,34.421724,34421724,0,No,No,2.082007,2082007,Above Average,Wins Only,Wins Only,Below Average
+280,Below Average,47.118936,47118936,1224,Friday,Fridays,14-Jun-19,1  13  30  31  39  -  02  07,15.1521,15152100,0,No,No,1.90781,1907810,Below Average,Both Below,All Below,Below Average
+281,Below Average,47.127288,47127288,954,Friday,Fridays,11-Nov-16,3  22  23  38  49  -  02  09,14.6489,14648900,0,No,No,1.946736,1946736,Below Average,Both Below,All Below,Below Average
+282,Below Average,47.18264,47182640,1267,Tuesday,Tuesdays,12-Nov-19,1  21  23  25  39  -  02  04,89.866288,89866288,0,No,No,1.969317,1969317,Above Average,Wins Only,Jackpot + Wins Above,Above Average
+283,Below Average,47.199779,47199779,1233,Tuesday,Tuesdays,16-Jul-19,3  5  13  18  39  -  07  08,88.185562,88185562,0,No,No,2.074142,2074142,Above Average,Wins Only,Jackpot + Wins Above,Above Average
+284,Below Average,47.494495,47494495,1332,Friday,Fridays,26-Jun-20,1  10  12  21  26  -  05  11,46.859882,46859882,0,No,No,2.049112,2049112,Above Average,Wins Only,Wins Only,Below Average
+285,Below Average,47.700964,47700964,1142,Friday,Fridays,31-Aug-18,4  30  31  38  42  -  04  06,32.721629,32721629,0,No,No,1.734759,1734759,Below Average,Both Below,All Below,Below Average
+286,Below Average,47.706993,47706993,1026,Friday,Fridays,21-Jul-17,1  8  9  26  49  -  05  09,32.874047,32874047,0,No,No,1.974484,1974484,Above Average,Wins Only,Wins Only,Below Average
+287,Below Average,47.807162,47807162,1054,Friday,Fridays,27-Oct-17,3  16  23  32  39  -  01  04,15.011,15011000,1,Yes (1),Yes (Single Ticket),1.937446,1937446,Below Average,Both Below,All Below,Below Average
+288,Below Average,47.871823,47871823,1038,Friday,Fridays,01-Sep-17,3  7  8  14  49  -  05  08,25.914013,25914013,1,Yes (1),Yes (Single Ticket),2.155272,2155272,Above Average,Wins Only,Wins Only,Below Average
+289,Below Average,47.945015,47945015,1094,Friday,Fridays,16-Mar-18,4  17  24  27  31  -  10  11,14.9923,14992300,0,No,No,2.115414,2115414,Above Average,Wins Only,Wins Only,Below Average
+290,Below Average,47.960699,47960699,1132,Friday,Fridays,27-Jul-18,11  17  22  23  41  -  06  11,42.386533,42386533,0,No,No,2.07696,2076960,Above Average,Wins Only,Wins Only,Below Average
+291,Below Average,48.012341,48012341,1065,Tuesday,Tuesdays,05-Dec-17,11  36  43  44  48  -  02  07,85.788778,85788778,0,No,No,1.723362,1723362,Below Average,Both Below,Jackpot Only,Above Average
+292,Below Average,48.038279,48038279,1034,Friday,Fridays,18-Aug-17,2  24  39  42  45  -  02  08,32.520149,32520149,0,No,No,1.703336,1703336,Below Average,Both Below,All Below,Below Average
+293,Below Average,48.050999,48050999,1106,Friday,Fridays,27-Apr-18,12  24  40  41  46  -  05  12,14.9583,14958300,0,No,No,1.656108,1656108,Below Average,Both Below,All Below,Below Average
+294,Below Average,48.104772,48104772,960,Friday,Fridays,02-Dec-16,6  11  23  31  32  -  02  12,24.66213,24662130,1,Yes (1),Yes (Single Ticket),2.087858,2087858,Above Average,Wins Only,Wins Only,Below Average
+295,Below Average,48.106379,48106379,1056,Friday,Fridays,03-Nov-17,5  12  17  33  41  -  04  09,25.476778,25476778,1,Yes (1),Yes (Single Ticket),2.09293,2092930,Above Average,Wins Only,Wins Only,Below Average
+296,Below Average,48.14257,48142570,1146,Friday,Fridays,14-Sep-18,1  3  33  40  45  -  03  04,32.776219,32776219,0,No,No,1.754823,1754823,Below Average,Both Below,All Below,Below Average
+297,Below Average,48.158499,48158499,1370,Friday,Fridays,06-Nov-20,7  12  37  40  50  -  01  02,36.006084,36006084,0,No,No,1.818077,1818077,Below Average,Both Below,All Below,Below Average
+298,Below Average,48.169397,48169397,1218,Friday,Fridays,24-May-19,5  16  23  30  49  -  06  07,49.736732,49736732,0,No,No,1.99458,1994580,Above Average,Wins Only,Wins Only,Below Average
+299,Below Average,48.267815,48267815,1362,Friday,Fridays,09-Oct-20,11  15  35  41  50  -  05  08,27.489353,27489353,0,No,No,1.757505,1757505,Below Average,Both Below,All Below,Below Average
+300,Below Average,48.328468,48328468,1192,Friday,Fridays,22-Feb-19,3  27  29  33  50  -  03  07,14.773,14773000,0,No,No,2.082847,2082847,Above Average,Wins Only,Wins Only,Below Average
+301,Below Average,48.34468,48344680,1352,Friday,Fridays,04-Sep-20,6  22  29  40  43  -  04  07,15.1742,15174200,0,No,No,1.802694,1802694,Below Average,Both Below,All Below,Below Average
+302,Below Average,48.428113,48428113,980,Friday,Fridays,10-Feb-17,7  21  26  35  43  -  02  09,32.204121,32204121,0,No,No,2.048527,2048527,Above Average,Wins Only,Wins Only,Below Average
+303,Below Average,48.525879,48525879,978,Friday,Fridays,03-Feb-17,3  4  15  46  50  -  05  09,14.6863,14686300,0,No,No,1.938228,1938228,Below Average,Both Below,All Below,Below Average
+304,Below Average,48.537347,48537347,1282,Friday,Fridays,03-Jan-20,5  15  20  36  47  -  08  12,55.523057,55523057,0,No,No,1.873287,1873287,Below Average,Both Below,Jackpot Only,Above Average
+305,Below Average,48.559511,48559511,1007,Tuesday,Tuesdays,16-May-17,8  11  15  20  30  -  03  08,84.319251,84319251,0,No,No,2.211257,2211257,Above Average,Wins Only,Jackpot + Wins Above,Above Average
+306,Below Average,48.571184,48571184,1040,Friday,Fridays,08-Sep-17,9  24  42  47  49  -  01  05,25.993675,25993675,0,No,No,1.718948,1718948,Below Average,Both Below,All Below,Below Average
+307,Average Sales,48.63,48630000,0,Average Sales,Average Sales,,,190,190000000,Average Sales,Average Sales,Average Sales,5.25,5250000,Average Sales,,,
+308,Above Average,48.699208,48699208,1096,Friday,Fridays,23-Mar-18,5  7  11  46  50  -  08  11,32.771739,32771739,0,No,No,2.047673,2047673,Above Average,Both Above,Sales + Wins Above,Below Average
+309,Above Average,48.737388,48737388,1152,Friday,Fridays,05-Oct-18,8  16  24  26  35  -  03  11,14.9481,14948100,1,Yes (1),Yes (Single Ticket),1.959734,1959734,Above Average,Both Above,Sales + Wins Above,Below Average
+310,Above Average,48.995782,48995782,1074,Friday,Fridays,05-Jan-18,2  5  20  38  41  -  04  08,25.687589,25687589,0,No,No,1.865975,1865975,Below Average,Sales Only,Sales Only,Below Average
+311,Above Average,49.105625,49105625,1022,Friday,Fridays,07-Jul-17,11  20  35  37  45  -  03  06,25.663715,25663715,1,Yes (1),Yes (Single Ticket),1.802973,1802973,Below Average,Sales Only,Sales Only,Below Average
+312,Above Average,49.286754,49286754,968,Friday,Fridays,30-Dec-16,8  10  22  29  47  -  01  03,14.5384,14538400,0,No,No,2.105809,2105809,Above Average,Both Above,Sales + Wins Above,Below Average
+313,Above Average,49.316109,49316109,1126,Friday,Fridays,06-Jul-18,8  30  33  38  48  -  02  10,49.801491,49801491,0,No,No,1.785443,1785443,Below Average,Sales Only,Sales Only,Below Average
+314,Above Average,49.409164,49409164,1360,Friday,Fridays,02-Oct-20,6  12  15  40  45  -  03  09,27.761091,27761091,1,Yes (1),Yes (Single Ticket),1.924955,1924955,Below Average,Sales Only,Sales Only,Below Average
+315,Above Average,49.409898,49409898,1272,Friday,Fridays,29-Nov-19,3  7  12  42  50  -  06  08,32.747133,32747133,0,No,No,2.232837,2232837,Above Average,Both Above,Sales + Wins Above,Below Average
+316,Above Average,49.458686,49458686,1175,Tuesday,Tuesdays,25-Dec-18,4  5  8  31  43  -  02  09,99.026381,99026381,0,No,No,1.993231,1993231,Above Average,Both Above,All Above,Above Average
+317,Above Average,49.626148,49626148,1202,Friday,Fridays,29-Mar-19,13  23  26  32  47  -  06  10,43.015001,43015001,0,No,No,2.062581,2062581,Above Average,Both Above,Sales + Wins Above,Below Average
+318,Above Average,49.655757,49655757,956,Friday,Fridays,18-Nov-16,3  12  27  32  47  -  06  08,32.72043,32720430,0,No,No,2.11983,2119830,Above Average,Both Above,Sales + Wins Above,Below Average
+319,Above Average,49.659572,49659572,1014,Friday,Fridays,09-Jun-17,9  20  27  39  43  -  10  11,25.684767,25684767,0,No,No,1.954684,1954684,Above Average,Both Above,Sales + Wins Above,Below Average
+320,Above Average,49.665963,49665963,1002,Friday,Fridays,28-Apr-17,14  20  25  30  39  -  02  08,48.309589,48309589,0,No,No,2.097399,2097399,Above Average,Both Above,Sales + Wins Above,Below Average
+321,Above Average,49.69942,49699420,1238,Friday,Fridays,02-Aug-19,13  22  33  44  50  -  02  05,43.958121,43958121,0,No,No,2.029954,2029954,Above Average,Both Above,Sales + Wins Above,Below Average
+322,Above Average,49.788887,49788887,1114,Friday,Fridays,25-May-18,13  15  16  28  41  -  04  05,50.089464,50089464,0,No,No,2.043436,2043436,Above Average,Both Above,Sales + Wins Above,Below Average
+323,Above Average,49.857736,49857736,1016,Friday,Fridays,16-Jun-17,15  17  38  41  42  -  09  12,44.150291,44150291,0,No,No,1.812191,1812191,Below Average,Sales Only,Sales Only,Below Average
+324,Above Average,49.955313,49955313,1260,Friday,Fridays,18-Oct-19,8  18  22  41  42  -  11  12,33.536983,33536983,0,No,No,1.957533,1957533,Above Average,Both Above,Sales + Wins Above,Below Average
+325,Above Average,49.996793,49996793,1354,Friday,Fridays,11-Sep-20,34  38  42  43  45  -  09  12,37.525275,37525275,0,No,No,1.555193,1555193,Below Average,Sales Only,Sales Only,Below Average
+326,Above Average,49.998889,49998889,1108,Friday,Fridays,04-May-18,6  12  23  39  45  -  09  12,32.659632,32659632,0,No,No,1.985723,1985723,Above Average,Both Above,Sales + Wins Above,Below Average
+327,Above Average,50.158643,50158643,1162,Friday,Fridays,09-Nov-18,14  17  32  37  49  -  11  12,25.702466,25702466,0,No,No,1.880593,1880593,Below Average,Sales Only,Sales Only,Below Average
+328,Above Average,50.178923,50178923,1156,Friday,Fridays,19-Oct-18,1  3  29  47  48  -  03  12,43.58144,43581440,0,No,No,1.79894,1798940,Below Average,Sales Only,Sales Only,Below Average
+329,Above Average,50.354219,50354219,1098,Friday,Fridays,30-Mar-18,12  17  28  35  47  -  07  11,51.598288,51598288,0,No,No,2.04722,2047220,Above Average,Both Above,Sales + Wins Above,Below Average
+330,Above Average,50.393853,50393853,1090,Friday,Fridays,02-Mar-18,2  7  34  45  48  -  01  12,26.096672,26096672,0,No,No,1.78756,1787560,Below Average,Sales Only,Sales Only,Below Average
+331,Above Average,50.414651,50414651,1164,Friday,Fridays,16-Nov-18,9  10  13  28  41  -  01  12,44.832935,44832935,1,Yes (1),Yes (Single Ticket),2.137727,2137727,Above Average,Both Above,Sales + Wins Above,Below Average
+332,Above Average,50.551687,50551687,1180,Friday,Fridays,11-Jan-19,1  19  31  39  48  -  01  06,34.004534,34004534,0,No,No,1.85062,1850620,Below Average,Sales Only,Sales Only,Below Average
+333,Above Average,50.603404,50603404,994,Friday,Fridays,31-Mar-17,17  24  26  28  45  -  04  12,49.849009,49849009,0,No,No,2.091174,2091174,Above Average,Both Above,Sales + Wins Above,Below Average
+334,Above Average,50.639003,50639003,1168,Friday,Fridays,30-Nov-18,3  10  12  23  26  -  01  12,43.37419,43374190,0,No,No,2.385923,2385923,Above Average,Both Above,Sales + Wins Above,Below Average
+335,Above Average,50.807465,50807465,1245,Tuesday,Tuesdays,27-Aug-19,8  26  35  43  47  -  01  09,97.958413,97958413,0,No,No,1.799432,1799432,Below Average,Sales Only,Jackpot + Sales Above,Above Average
+336,Above Average,50.819062,50819062,1228,Friday,Fridays,28-Jun-19,1  3  16  33  49  -  02  11,51.583856,51583856,0,No,No,1.97945,1979450,Above Average,Both Above,Sales + Wins Above,Below Average
+337,Above Average,51.114788,51114788,986,Friday,Fridays,03-Mar-17,2  11  29  30  47  -  01  12,43.311596,43311596,0,No,No,2.002357,2002357,Above Average,Both Above,Sales + Wins Above,Below Average
+338,Above Average,51.166631,51166631,964,Friday,Fridays,16-Dec-16,6  10  30  41  45  -  04  11,43.003166,43003166,0,No,No,2.009466,2009466,Above Average,Both Above,Sales + Wins Above,Below Average
+339,Above Average,51.286432,51286432,1364,Friday,Fridays,16-Oct-20,15  33  38  40  50  -  03  06,49.383832,49383832,0,No,No,1.80284,1802840,Below Average,Sales Only,Sales Only,Below Average
+340,Above Average,51.311766,51311766,1269,Tuesday,Tuesdays,19-Nov-19,8  10  15  30  42  -  04  06,105.100702,105100702,1,Yes (1),Yes (Single Ticket),2.227329,2227329,Above Average,Both Above,All Above,Above Average
+341,Above Average,51.683307,51683307,1258,Friday,Fridays,11-Oct-19,2  14  19  42  45  -  05  06,14.8308,14830800,0,No,No,2.030832,2030832,Above Average,Both Above,Sales + Wins Above,Below Average
+342,Above Average,51.928725,51928725,1134,Friday,Fridays,03-Aug-18,7  26  36  38  43  -  06  12,61.780382,61780382,0,No,No,1.880805,1880805,Below Average,Sales Only,Jackpot + Sales Above,Above Average
+343,Above Average,52.10904,52109040,966,Friday,Fridays,23-Dec-16,4  16  20  39  46  -  02  05,14.4874,14487400,0,No,No,2.048075,2048075,Above Average,Both Above,Sales + Wins Above,Below Average
+344,Above Average,52.21871,52218710,1298,Friday,Fridays,28-Feb-20,8  11  20  22  23  -  03  04,57.826962,57826962,1,Yes (1),Yes (Single Ticket),2.473338,2473338,Above Average,Both Above,All Above,Above Average
+345,Above Average,52.386348,52386348,1028,Friday,Fridays,28-Jul-17,5  9  29  31  41  -  02  04,51.70205,51702050,1,Yes (1),Yes (Single Ticket),2.093024,2093024,Above Average,Both Above,Sales + Wins Above,Below Average
+346,Above Average,52.423351,52423351,1058,Friday,Fridays,10-Nov-17,13  22  29  36  37  -  01  09,26.361644,26361644,0,No,No,2.109365,2109365,Above Average,Both Above,Sales + Wins Above,Below Average
+347,Above Average,52.437374,52437374,1264,Friday,Fridays,01-Nov-19,2  20  39  44  48  -  05  07,69.286018,69286018,0,No,No,1.972255,1972255,Above Average,Both Above,All Above,Above Average
+348,Above Average,52.513994,52513994,1182,Friday,Fridays,18-Jan-19,5  6  16  30  46  -  05  10,53.285987,53285987,0,No,No,2.047422,2047422,Above Average,Both Above,Sales + Wins Above,Below Average
+349,Above Average,52.561367,52561367,1276,Friday,Fridays,13-Dec-19,9  16  18  23  32  -  02  10,32.875644,32875644,0,No,No,2.393775,2393775,Above Average,Both Above,Sales + Wins Above,Below Average
+350,Above Average,52.645641,52645641,1262,Friday,Fridays,25-Oct-19,34  37  39  40  50  -  04  10,53.31331,53313310,0,No,No,1.753329,1753329,Below Average,Sales Only,Sales Only,Below Average
+351,Above Average,52.767727,52767727,1070,Friday,Fridays,22-Dec-17,5  24  30  31  43  -  03  06,15.0892,15089200,0,No,No,2.053002,2053002,Above Average,Both Above,Sales + Wins Above,Below Average
+352,Above Average,52.806778,52806778,1139,Tuesday,Tuesdays,21-Aug-18,16  23  42  43  49  -  10  12,96.785706,96785706,1,Yes (1),Yes (Single Ticket),1.875355,1875355,Below Average,Sales Only,Jackpot + Sales Above,Above Average
+353,Above Average,53.198136,53198136,1004,Friday,Fridays,05-May-17,3  7  30  35  43  -  01  03,63.162406,63162406,0,No,No,2.235799,2235799,Above Average,Both Above,All Above,Above Average
+354,Above Average,53.229248,53229248,1204,Friday,Fridays,05-Apr-19,1  7  10  29  45  -  03  05,62.771731,62771731,0,No,No,2.392263,2392263,Above Average,Both Above,All Above,Above Average
+355,Above Average,53.233299,53233299,1170,Friday,Fridays,07-Dec-18,11  17  26  37  48  -  01  10,63.478325,63478325,0,No,No,2.074842,2074842,Above Average,Both Above,All Above,Above Average
+356,Above Average,53.487663,53487663,1018,Friday,Fridays,23-Jun-17,3  4  21  31  38  -  03  07,64.0821,64082100,0,No,No,2.286,2286000,Above Average,Both Above,All Above,Above Average
+357,Above Average,53.602954,53602954,996,Friday,Fridays,07-Apr-17,2  10  19  35  50  -  06  07,65.668144,65668144,0,No,No,2.23601,2236010,Above Average,Both Above,All Above,Above Average
+358,Above Average,53.794208,53794208,1092,Friday,Fridays,09-Mar-18,9  14  21  32  44  -  01  12,45.846428,45846428,0,No,No,2.16522,2165220,Above Average,Both Above,Sales + Wins Above,Below Average
+359,Above Average,53.862747,53862747,1230,Friday,Fridays,05-Jul-19,2  9  20  34  42  -  06  09,67.458174,67458174,0,No,No,2.075634,2075634,Above Average,Both Above,All Above,Above Average
+360,Above Average,53.927592,53927592,1067,Tuesday,Tuesdays,12-Dec-17,20  37  39  44  50  -  04  08,101.93867,101938670,0,No,No,1.936888,1936888,Below Average,Sales Only,Jackpot + Sales Above,Above Average
+361,Above Average,54.001868,54001868,1344,Friday,Fridays,07-Aug-20,5  20  21  36  41  -  06  11,57.863944,57863944,0,No,No,1.961308,1961308,Above Average,Both Above,All Above,Above Average
+362,Above Average,54.032937,54032937,952,Friday,Fridays,04-Nov-16,7  11  12  44  48  -  03  07,26.830014,26830014,0,No,No,2.427049,2427049,Above Average,Both Above,Sales + Wins Above,Below Average
+363,Above Average,54.141239,54141239,1196,Friday,Fridays,08-Mar-19,17  18  19  24  40  -  04  08,55.265839,55265839,0,No,No,2.320721,2320721,Above Average,Both Above,All Above,Above Average
+364,Above Average,54.2551,54255100,958,Friday,Fridays,25-Nov-16,5  11  17  23  28  -  10  11,26.009712,26009712,2,Yes (2),Yes (Multiple Tickets),2.697196,2697196,Above Average,Both Above,Sales + Wins Above,Below Average
+365,Above Average,54.278924,54278924,1100,Friday,Fridays,06-Apr-18,1  29  33  45  47  -  04  08,66.429609,66429609,1,Yes (1),Yes (Single Ticket),1.963713,1963713,Above Average,Both Above,All Above,Above Average
+366,Above Average,54.314232,54314232,1076,Friday,Fridays,12-Jan-18,13  21  23  30  45  -  04  06,45.394452,45394452,0,No,No,2.352349,2352349,Above Average,Both Above,Sales + Wins Above,Below Average
+367,Above Average,54.424586,54424586,1060,Friday,Fridays,17-Nov-17,20  26  35  36  42  -  05  12,46.135062,46135062,0,No,No,1.826757,1826757,Below Average,Sales Only,Sales Only,Below Average
+368,Above Average,54.490631,54490631,1242,Friday,Fridays,16-Aug-19,9  10  27  37  42  -  01  05,77.208525,77208525,0,No,No,2.150827,2150827,Above Average,Both Above,All Above,Above Average
+369,Above Average,54.593653,54593653,1346,Friday,Fridays,14-Aug-20,9  10  19  42  49  -  04  12,77.977112,77977112,0,No,No,2.123058,2123058,Above Average,Both Above,All Above,Above Average
+370,Above Average,54.723268,54723268,1158,Friday,Fridays,26-Oct-18,5  18  21  31  35  -  06  09,64.245817,64245817,0,No,No,2.230488,2230488,Above Average,Both Above,All Above,Above Average
+371,Above Average,54.734143,54734143,1184,Friday,Fridays,25-Jan-19,1  6  13  15  16  -  06  10,68.153942,68153942,0,No,No,2.42286,2422860,Above Average,Both Above,All Above,Above Average
+372,Above Average,54.739803,54739803,1366,Friday,Fridays,23-Oct-20,10  15  19  21  23  -  03  12,70.979568,70979568,0,No,No,2.488279,2488279,Above Average,Both Above,All Above,Above Average
+373,Above Average,54.79729,54797290,1240,Friday,Fridays,09-Aug-19,2  14  35  41  42  -  10  11,65.218898,65218898,0,No,No,1.79361,1793610,Below Average,Sales Only,Jackpot + Sales Above,Above Average
+374,Above Average,54.816456,54816456,1052,Friday,Fridays,20-Oct-17,4  17  23  27  30  -  03  08,49.71213,49712130,0,No,No,2.536013,2536013,Above Average,Both Above,Sales + Wins Above,Below Average
+375,Above Average,54.827951,54827951,1160,Friday,Fridays,02-Nov-18,5  15  17  37  44  -  07  11,76.369807,76369807,1,Yes (1),Yes (Single Ticket),2.320966,2320966,Above Average,Both Above,All Above,Above Average
+376,Above Average,55.122408,55122408,1302,Friday,Fridays,13-Mar-20,3  11  21  27  36  -  09  10,50.321191,50321191,0,No,No,2.306848,2306848,Above Average,Both Above,Sales + Wins Above,Below Average
+377,Above Average,55.123084,55123084,1281,Tuesday,Tuesdays,31-Dec-19,26  31  33  41  48  -  02  04,44.717396,44717396,0,No,No,2.055193,2055193,Above Average,Both Above,Sales + Wins Above,Below Average
+378,Above Average,55.309888,55309888,948,Friday,Fridays,21-Oct-16,9  20  23  44  48  -  08  10,35.49788,35497880,0,No,No,2.112658,2112658,Above Average,Both Above,Sales + Wins Above,Below Average
+379,Above Average,55.372392,55372392,1136,Friday,Fridays,10-Aug-18,18  20  36  43  44  -  03  09,75.029181,75029181,0,No,No,2.019547,2019547,Above Average,Both Above,All Above,Above Average
+380,Above Average,55.609407,55609407,1284,Friday,Fridays,10-Jan-20,6  17  32  44  46  -  02  06,71.71756,71717560,0,No,No,2.230969,2230969,Above Average,Both Above,All Above,Above Average
+381,Above Average,55.763055,55763055,1128,Friday,Fridays,13-Jul-18,1  4  14  21  49  -  02  12,15.0212,15021200,1,Yes (1),Yes (Single Ticket),2.220359,2220359,Above Average,Both Above,Sales + Wins Above,Below Average
+382,Above Average,55.852301,55852301,1062,Friday,Fridays,24-Nov-17,19  24  28  30  50  -  03  10,66.743323,66743323,0,No,No,2.211231,2211231,Above Average,Both Above,All Above,Above Average
+383,Above Average,56.320463,56320463,1172,Friday,Fridays,14-Dec-18,12  29  38  42  44  -  02  12,76.884342,76884342,0,No,No,2.101912,2101912,Above Average,Both Above,All Above,Above Average
+384,Above Average,56.454912,56454912,1349,Tuesday,Tuesdays,25-Aug-20,7  18  30  37  39  -  08  10,112.618069,112618069,0,No,No,2.205943,2205943,Above Average,Both Above,All Above,Above Average
+385,Above Average,56.519901,56519901,1105,Tuesday,Tuesdays,24-Apr-18,20  23  28  30  44  -  03  07,121.328187,121328187,1,Yes (1),Yes (Single Ticket),2.438901,2438901,Above Average,Both Above,All Above,Above Average
+386,Above Average,56.767035,56767035,1078,Friday,Fridays,19-Jan-18,3  8  17  44  50  -  02  07,66.212715,66212715,0,No,No,2.439159,2439159,Above Average,Both Above,All Above,Above Average
+387,Above Average,56.867232,56867232,1116,Friday,Fridays,01-Jun-18,17  18  24  29  40  -  04  05,34.972315,34972315,2,Yes (2),Yes (Multiple Tickets),2.1893,2189300,Above Average,Both Above,Sales + Wins Above,Below Average
+388,Above Average,56.928407,56928407,988,Friday,Fridays,10-Mar-17,31  36  38  47  49  -  08  11,64.931865,64931865,0,No,No,1.855534,1855534,Below Average,Sales Only,Jackpot + Sales Above,Above Average
+389,Above Average,57.181518,57181518,1198,Friday,Fridays,15-Mar-19,3  15  24  42  46  -  09  12,71.057439,71057439,1,Yes (1),Yes (Single Ticket),2.244133,2244133,Above Average,Both Above,All Above,Above Average
+390,Above Average,57.466722,57466722,1223,Tuesday,Tuesdays,11-Jun-19,25  27  39  42  46  -  11  12,123.458008,123458008,1,Yes (1),Yes (Single Ticket),2.05675,2056750,Above Average,Both Above,All Above,Above Average
+391,Above Average,57.989379,57989379,1232,Friday,Fridays,12-Jul-19,2  31  39  45  47  -  04  08,81.180289,81180289,0,No,No,1.976286,1976286,Above Average,Both Above,All Above,Above Average
+392,Above Average,58.246284,58246284,1083,Tuesday,Tuesdays,06-Feb-18,8  17  28  34  38  -  06  12,104.423108,104423108,0,No,No,2.34457,2344570,Above Average,Both Above,All Above,Above Average
+393,Above Average,58.400002,58400002,1072,Friday,Fridays,29-Dec-17,4  8  22  23  48  -  01  12,34.588069,34588069,1,Yes (1),Yes (Single Ticket),2.383562,2383562,Above Average,Both Above,Sales + Wins Above,Below Average
+394,Above Average,58.401569,58401569,1356,Friday,Fridays,18-Sep-20,2  10  19  25  45  -  01  07,61.732489,61732489,0,No,No,2.36994,2369940,Above Average,Both Above,All Above,Above Average
+395,Above Average,58.44828,58448280,1009,Tuesday,Tuesdays,23-May-17,8  15  25  27  42  -  01  04,102.10143,102101430,0,No,No,2.488406,2488406,Above Average,Both Above,All Above,Above Average
+396,Above Average,58.502723,58502723,1069,Tuesday,Tuesdays,19-Dec-17,8  15  30  38  46  -  04  07,119.876081,119876081,1,Yes (1),Yes (Single Ticket),2.26227,2262270,Above Average,Both Above,All Above,Above Average
+397,Above Average,58.848184,58848184,974,Friday,Fridays,20-Jan-17,10  17  27  31  49  -  03  05,70.419453,70419453,0,No,No,2.594276,2594276,Above Average,Both Above,All Above,Above Average
+398,Above Average,59.017984,59017984,946,Friday,Fridays,14-Oct-16,7  13  19  31  34  -  01  11,15.3306,15330600,0,No,No,2.607603,2607603,Above Average,Both Above,Sales + Wins Above,Below Average
+399,Above Average,59.292902,59292902,1006,Friday,Fridays,12-May-17,2  20  28  29  44  -  03  09,76.813393,76813393,0,No,No,2.481359,2481359,Above Average,Both Above,All Above,Above Average
+400,Above Average,59.350402,59350402,1194,Friday,Fridays,01-Mar-19,6  9  19  26  31  -  11  12,35.148482,35148482,0,No,No,2.618825,2618825,Above Average,Both Above,Sales + Wins Above,Below Average
+401,Above Average,59.454221,59454221,1064,Friday,Fridays,01-Dec-17,5  24  29  35  46  -  11  12,79.577293,79577293,0,No,No,2.140051,2140051,Above Average,Both Above,All Above,Above Average
+402,Above Average,59.903706,59903706,1102,Friday,Fridays,13-Apr-18,5  25  34  48  50  -  06  07,14.7407,14740700,0,No,No,2.24251,2242510,Above Average,Both Above,Sales + Wins Above,Below Average
+403,Above Average,60.010714,60010714,1080,Friday,Fridays,26-Jan-18,6  15  24  28  48  -  04  09,79.917041,79917041,0,No,No,2.45856,2458560,Above Average,Both Above,All Above,Above Average
+404,Above Average,60.242902,60242902,1085,Tuesday,Tuesdays,13-Feb-18,10  13  17  21  44  -  01  10,123.305866,123305866,0,No,No,2.691672,2691672,Above Average,Both Above,All Above,Above Average
+405,Above Average,60.342584,60342584,1375,Tuesday,Tuesdays,24-Nov-20,25  33  38  42  50  -  08  12,128.449942,128449942,0,No,No,2.155481,2155481,Above Average,Both Above,All Above,Above Average
+406,Above Average,60.345929,60345929,1286,Friday,Fridays,17-Jan-20,8  19  20  29  44  -  03  08,85.964733,85964733,1,Yes (1),Yes (Single Ticket),2.691123,2691123,Above Average,Both Above,All Above,Above Average
+407,Above Average,60.490007,60490007,1187,Tuesday,Tuesdays,05-Feb-19,14  25  31  37  43  -  02  03,113.958151,113958151,0,No,No,2.228563,2228563,Above Average,Both Above,All Above,Above Average
+408,Above Average,60.504067,60504067,1247,Tuesday,Tuesdays,03-Sep-19,7  11  38  39  44  -  07  10,116.404085,116404085,0,No,No,2.381793,2381793,Above Average,Both Above,All Above,Above Average
+409,Above Average,60.638519,60638519,1138,Friday,Fridays,17-Aug-18,2  15  18  24  43  -  08  12,89.766677,89766677,0,No,No,2.324362,2324362,Above Average,Both Above,All Above,Above Average
+410,Above Average,60.973811,60973811,1177,Tuesday,Tuesdays,01-Jan-19,1  8  11  25  28  -  04  06,114.969776,114969776,1,Yes (1),Yes (Single Ticket),2.717684,2717684,Above Average,Both Above,All Above,Above Average
+411,Above Average,61.209836,61209836,1372,Friday,Fridays,13-Nov-20,1  5  17  28  31  -  01  10,60.684475,60684475,0,No,No,2.622372,2622372,Above Average,Both Above,All Above,Above Average
+412,Above Average,61.354156,61354156,1149,Tuesday,Tuesdays,25-Sep-18,6  15  20  30  38  -  04  07,124.411811,124411811,0,No,No,2.479244,2479244,Above Average,Both Above,All Above,Above Average
+413,Above Average,62.072885,62072885,972,Friday,Fridays,13-Jan-17,3  7  16  26  50  -  04  07,53.936316,53936316,0,No,No,2.754685,2754685,Above Average,Both Above,All Above,Above Average
+414,Above Average,62.310354,62310354,1335,Tuesday,Tuesdays,07-Jul-20,12  16  23  33  41  -  08  10,130.059174,130059174,1,Yes (1),Yes (Single Ticket),2.488776,2488776,Above Average,Both Above,All Above,Above Average
+415,Above Average,62.697585,62697585,1043,Tuesday,Tuesdays,19-Sep-17,1  8  21  30  45  -  02  03,123.904174,123904174,0,No,No,2.439497,2439497,Above Average,Both Above,All Above,Above Average
+416,Above Average,62.710338,62710338,1268,Friday,Fridays,15-Nov-19,3  13  20  32  34  -  04  11,98.311223,98311223,0,No,No,2.59863,2598630,Above Average,Both Above,All Above,Above Average
+417,Above Average,63.044558,63044558,1351,Tuesday,Tuesdays,01-Sep-20,4  8  10  33  46  -  08  11,139.992069,139992069,1,Yes (1),Yes (Single Ticket),2.473276,2473276,Above Average,Both Above,All Above,Above Average
+418,Above Average,63.802103,63802103,1066,Friday,Fridays,08-Dec-17,4  22  30  32  34  -  03  04,94.304641,94304641,0,No,No,2.433777,2433777,Above Average,Both Above,All Above,Above Average
+419,Above Average,64.064166,64064166,1011,Tuesday,Tuesdays,30-May-17,7  12  27  38  48  -  06  09,121.851562,121851562,0,No,No,2.775316,2775316,Above Average,Both Above,All Above,Above Average
+420,Above Average,64.349624,64349624,1244,Friday,Fridays,23-Aug-19,4  17  35  42  45  -  02  08,91.53302,91533020,0,No,No,2.42007,2420070,Above Average,Both Above,All Above,Above Average
+421,Above Average,64.848739,64848739,1348,Friday,Fridays,21-Aug-20,10  15  35  44  50  -  03  05,100.807281,100807281,0,No,No,2.444738,2444738,Above Average,Both Above,All Above,Above Average
+422,Above Average,65.265795,65265795,1189,Tuesday,Tuesdays,12-Feb-19,6  34  36  41  50  -  01  05,133.312302,133312302,0,No,No,2.225992,2225992,Above Average,Both Above,All Above,Above Average
+423,Above Average,65.54545,65545450,1249,Tuesday,Tuesdays,10-Sep-19,3  22  25  30  49  -  03  06,134.122038,134122038,0,No,No,2.605683,2605683,Above Average,Both Above,All Above,Above Average
+424,Above Average,65.762823,65762823,1266,Friday,Fridays,08-Nov-19,8  17  20  23  45  -  02  08,84.012704,84012704,0,No,No,2.978472,2978472,Above Average,Both Above,All Above,Above Average
+425,Above Average,66.495762,66495762,1050,Friday,Fridays,13-Oct-17,23  29  37  45  50  -  05  11,29.491384,29491384,0,No,No,2.398435,2398435,Above Average,Both Above,Sales + Wins Above,Below Average
+426,Above Average,66.894664,66894664,1174,Friday,Fridays,21-Dec-18,2  12  15  34  50  -  03  04,92.134454,92134454,0,No,No,2.601548,2601548,Above Average,Both Above,All Above,Above Average
+427,Above Average,67.626361,67626361,1234,Friday,Fridays,19-Jul-19,13  14  17  26  28  -  02  07,96.710509,96710509,1,Yes (1),Yes (Single Ticket),3.090961,3090961,Above Average,Both Above,All Above,Above Average
+428,Above Average,67.973828,67973828,1377,Tuesday,Tuesdays,01-Dec-20,14  20  29  47  49  -  04  12,160.906372,160906372,0,No,No,2.42081,2420810,Above Average,Both Above,All Above,Above Average
+429,Above Average,68.582951,68582951,1082,Friday,Fridays,02-Feb-18,14  34  36  39  48  -  02  03,95.972671,95972671,0,No,No,2.36302,2363020,Above Average,Both Above,All Above,Above Average
+430,Above Average,69.032238,69032238,1087,Tuesday,Tuesdays,20-Feb-18,6  14  19  25  29  -  05  11,142.157622,142157622,0,No,No,2.948168,2948168,Above Average,Both Above,All Above,Above Average
+431,Above Average,69.428313,69428313,1151,Tuesday,Tuesdays,02-Oct-18,7  17  29  37  45  -  03  11,144.603632,144603632,1,Yes (1),Yes (Single Ticket),2.861171,2861171,Above Average,Both Above,All Above,Above Average
+432,Above Average,69.808192,69808192,1191,Tuesday,Tuesdays,19-Feb-19,1  8  18  19  39  -  07  09,152.400366,152400366,1,Yes (1),Yes (Single Ticket),3.024006,3024006,Above Average,Both Above,All Above,Above Average
+433,Above Average,70.44166,70441660,1008,Friday,Fridays,19-May-17,9  11  12  19  30  -  04  09,93.927013,93927013,0,No,No,3.441077,3441077,Above Average,Both Above,All Above,Above Average
+434,Above Average,70.457205,70457205,943,Tuesday,Tuesdays,04-Oct-16,4  7  14  34  38  -  04  11,124.041722,124041722,0,No,No,2.935175,2935175,Above Average,Both Above,All Above,Above Average
+435,Above Average,70.66176,70661760,1176,Friday,Fridays,28-Dec-18,13  16  34  35  45  -  10  12,108.543762,108543762,0,No,No,2.501915,2501915,Above Average,Both Above,All Above,Above Average
+436,Above Average,70.998122,70998122,1045,Tuesday,Tuesdays,26-Sep-17,1  29  40  41  48  -  06  12,143.626132,143626132,0,No,No,2.397407,2397407,Above Average,Both Above,All Above,Above Average
+437,Above Average,71.777263,71777263,1068,Friday,Fridays,15-Dec-17,25  30  31  42  50  -  02  11,111.674784,111674784,0,No,No,2.584531,2584531,Above Average,Both Above,All Above,Above Average
+438,Above Average,71.956813,71956813,1246,Friday,Fridays,30-Aug-19,25  27  45  46  49  -  04  06,107.75933,107759330,0,No,No,2.538312,2538312,Above Average,Both Above,All Above,Above Average
+439,Above Average,72.535638,72535638,950,Friday,Fridays,28-Oct-16,10  16  19  23  43  -  02  08,15.667698,15667698,1,Yes (1),Yes (Single Ticket),3.120016,3120016,Above Average,Both Above,Sales + Wins Above,Below Average
+440,Above Average,72.822188,72822188,1251,Tuesday,Tuesdays,17-Sep-19,22  37  43  44  45  -  01  12,155.282163,155282163,0,No,No,2.553242,2553242,Above Average,Both Above,All Above,Above Average
+441,Above Average,73.403006,73403006,1350,Friday,Fridays,28-Aug-20,7  12  16  17  31  -  07  09,126.895018,126895018,0,No,No,3.323666,3323666,Above Average,Both Above,All Above,Above Average
+442,Above Average,75.577708,75577708,1010,Friday,Fridays,26-May-17,5  7  26  36  39  -  02  10,113.47596,113475960,0,No,No,3.104158,3104158,Above Average,Both Above,All Above,Above Average
+443,Above Average,76.7658,76765800,1084,Friday,Fridays,09-Feb-18,22  31  36  38  44  -  01  11,114.539544,114539544,0,No,No,2.74071,2740710,Above Average,Both Above,All Above,Above Average
+444,Above Average,78.475582,78475582,1248,Friday,Fridays,06-Sep-19,10  13  22  40  48  -  02  05,125.665319,125665319,0,No,No,3.156955,3156955,Above Average,Both Above,All Above,Above Average
+445,Above Average,79.640508,79640508,1086,Friday,Fridays,16-Feb-18,10  12  23  32  50  -  04  10,133.365227,133365227,0,No,No,3.342643,3342643,Above Average,Both Above,All Above,Above Average
+446,Above Average,80.067102,80067102,1188,Friday,Fridays,08-Feb-19,11  12  13  39  46  -  07  10,123.991632,123991632,0,No,No,3.17268,3172680,Above Average,Both Above,All Above,Above Average
+447,Above Average,80.86539,80865390,1376,Friday,Fridays,27-Nov-20,2  5  8  14  16  -  08  09,146.729731,146729731,0,No,No,3.453808,3453808,Above Average,Both Above,All Above,Above Average
+448,Above Average,83.170005,83170005,1020,Friday,Fridays,30-Jun-17,17  35  39  47  50  -  06  08,87.57,87570000,1,Yes (1),Yes (Single Ticket),3.057357,3057357,Above Average,Both Above,All Above,Above Average
+449,Above Average,83.225872,83225872,1150,Friday,Fridays,28-Sep-18,2  4  8  27  50  -  02  09,135.382686,135382686,0,No,No,3.476937,3476937,Above Average,Both Above,All Above,Above Average
+450,Above Average,84.421104,84421104,1190,Friday,Fridays,15-Feb-19,15  27  34  38  49  -  02  10,144.375567,144375567,0,No,No,3.199745,3199745,Above Average,Both Above,All Above,Above Average
+451,Above Average,84.831239,84831239,945,Tuesday,Tuesdays,11-Oct-16,5  12  20  24  37  -  04  11,153.361048,153361048,1,Yes (1),Yes (Single Ticket),3.428136,3428136,Above Average,Both Above,All Above,Above Average
+452,Above Average,84.96324,84963240,1292,Friday,Fridays,07-Feb-20,9  15  17  25  40  -  03  09,110.5,110500000,1,Yes (1),Yes (Single Ticket),3.807451,3807451,Above Average,Both Above,All Above,Above Average
+453,Above Average,85.87217,85872170,1374,Friday,Fridays,20-Nov-20,28  29  39  48  50  -  05  07,116.103,116103000,0,No,No,3.095558,3095558,Above Average,Both Above,All Above,Above Average
+454,Above Average,86.188913,86188913,1044,Friday,Fridays,22-Sep-17,6  11  31  39  42  -  01  03,134.911784,134911784,0,No,No,3.324206,3324206,Above Average,Both Above,All Above,Above Average
+455,Above Average,86.447822,86447822,1358,Friday,Fridays,25-Sep-20,19  23  34  37  45  -  01  07,118.729,118729000,1,Yes (1),Yes (Single Ticket),3.285386,3285386,Above Average,Both Above,All Above,Above Average
+456,Above Average,87.011065,87011065,1104,Friday,Fridays,20-Apr-18,3  16  25  39  44  -  07  11,114.01,114010000,0,No,No,3.388585,3388585,Above Average,Both Above,All Above,Above Average
+457,Above Average,87.319586,87319586,1334,Friday,Fridays,03-Jul-20,4  16  27  37  39  -  03  06,117.26,117260000,0,No,No,3.443322,3443322,Above Average,Both Above,All Above,Above Average
+458,Above Average,88.05755,88057550,1253,Tuesday,Tuesdays,24-Sep-19,2  33  42  47  48  -  01  02,167.751,167751000,0,No,No,3.118284,3118284,Above Average,Both Above,All Above,Above Average
+459,Above Average,90.229315,90229315,1186,Friday,Fridays,01-Feb-19,3  21  26  41  46  -  01  06,105.204,105204000,0,No,No,3.346689,3346689,Above Average,Both Above,All Above,Above Average
+460,Above Average,90.27707,90277070,1012,Friday,Fridays,02-Jun-17,8  10  24  33  42  -  03  09,134.808762,134808762,1,Yes (1),Yes (Single Ticket),3.819434,3819434,Above Average,Both Above,All Above,Above Average
+461,Above Average,91.887661,91887661,1255,Tuesday,Tuesdays,01-Oct-19,2  11  18  40  46  -  01  04,168.72,168720000,0,No,No,3.422052,3422052,Above Average,Both Above,All Above,Above Average
+462,Above Average,93.317535,93317535,1250,Friday,Fridays,13-Sep-19,1  12  27  42  47  -  06  07,145.566007,145566007,0,No,No,3.684076,3684076,Above Average,Both Above,All Above,Above Average
+463,Above Average,94.688223,94688223,1252,Friday,Fridays,20-Sep-19,8  21  25  38  50  -  04  08,167.609701,167609701,0,No,No,3.776914,3776914,Above Average,Both Above,All Above,Above Average
+464,Above Average,94.883433,94883433,1042,Friday,Fridays,15-Sep-17,13  18  37  44  49  -  09  12,114.504,114504000,0,No,No,3.662037,3662037,Above Average,Both Above,All Above,Above Average
+465,Above Average,94.898866,94898866,1148,Friday,Fridays,21-Sep-18,5  7  21  25  37  -  03  04,116.87,116870000,0,No,No,4.129604,4129604,Above Average,Both Above,All Above,Above Average
+466,Above Average,97.979161,97979161,1047,Tuesday,Tuesdays,03-Oct-17,6  24  32  48  50  -  01  05,168.701,168701000,0,No,No,3.589379,3589379,Above Average,Both Above,All Above,Above Average
+467,Above Average,98.334429,98334429,944,Friday,Fridays,07-Oct-16,2  12  20  27  30  -  09  11,140.104641,140104641,0,No,No,4.100797,4100797,Above Average,Both Above,All Above,Above Average
+468,Above Average,100.144727,100144727,1046,Friday,Fridays,29-Sep-17,7  18  19  32  48  -  03  07,157.898325,157898325,0,No,No,4.295675,4295675,Above Average,Both Above,All Above,Above Average
+469,Above Average,106.633158,106633158,942,Friday,Fridays,30-Sep-16,17  35  37  43  44  -  02  10,112.697,112697000,0,No,No,4.028519,4028519,Above Average,Both Above,All Above,Above Average
+470,Above Average,107.672589,107672589,1088,Friday,Fridays,23-Feb-18,10  17  18  28  47  -  03  07,77.798898,77798898,2,Yes (2),Yes (Multiple Tickets),4.784728,4784728,Above Average,Both Above,All Above,Above Average
+471,Above Average,108.020002,108020002,1254,Friday,Fridays,27-Sep-19,24  37  41  43  46  -  02  08,169.005,169005000,0,No,No,3.747371,3747371,Above Average,Both Above,All Above,Above Average
+472,Above Average,115.938989,115938989,1256,Friday,Fridays,04-Oct-19,6  9  35  41  44  -  06  09,169.024,169024000,0,No,No,4.350671,4350671,Above Average,Both Above,All Above,Above Average
+473,Above Average,118.873045,118873045,1378,Friday,Fridays,04-Dec-20,14  20  27  34  38  -  01  11,180.8,180800000,0,No,No,4.563135,4563135,Above Average,Both Above,All Above,Above Average
+474,Above Average,120.003558,120003558,1048,Friday,Fridays,06-Oct-17,1  9  15  19  25  -  01  07,170.81,170810000,1,Yes (1),Yes (Single Ticket),5.17543,5175430,Above Average,Both Above,All Above,Above Average
+475,Above Average,121.05577,121055770,1257,Tuesday,Tuesdays,08-Oct-19,7  10  15  44  49  -  03  12,170.221,170221000,1,Yes (1),Yes (Single Ticket),4.808839,4808839,Above Average,Both Above,All Above,Above Average
