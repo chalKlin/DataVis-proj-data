@@ -15,7 +15,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 50,Below Average,29.666277,29666277,1321,Tuesday,Tuesdays,19-May-20,5  25  32  37  43  -  06  07,15.1708,15170800,0,No,No,1.085982,1085982,Below Average
 51,Below Average,29.74279,29742790,1314,Friday,Fridays,24-Apr-20,1  5  19  21  28  -  04  07,22.310697,22310697,0,No,No,1.424425,1424425,Below Average
 52,Below Average,29.876708,29876708,1325,Tuesday,Tuesdays,02-Jun-20,10  12  22  26  49  -  07  11,15.1487,15148700,0,No,No,1.246757,1246757,Below Average
-53,Below Average,30.577404,30577404,1033,Tuesday,Tuesdays,15-Aug-17,10  14  30  35  46  -  04  10,22.117219,22117219,0,No,No,1.085088,1085088,Below Average
+53,Below Average,30.577404,30577404,1033,Tuesday,Tuesdays,15-Aug-17,10  14  30  35  46  -  04  10,22.117219,22117219,1,Yes (1),Yes (Single Ticket),1.085088,1085088,Below Average
 54,Below Average,31.195213,31195213,1129,Tuesday,Tuesdays,17-Jul-18,4  6  27  48  50  -  01  11,15.1266,15126600,0,No,No,1.200506,1200506,Below Average
 55,Below Average,31.244183,31244183,1123,Tuesday,Tuesdays,26-Jun-18,15  16  20  34  50  -  04  07,21.730843,21730843,0,No,No,1.191611,1191611,Below Average
 56,Below Average,31.245095,31245095,983,Tuesday,Tuesdays,21-Feb-17,13  19  41  45  49  -  03  04,14.3837,14383700,0,No,No,1.226656,1226656,Below Average
@@ -61,7 +61,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 96,Below Average,33.568299,33568299,1341,Tuesday,Tuesdays,28-Jul-20,9  13  15  17  34  -  02  07,23.795774,23795774,0,No,No,1.523445,1523445,Below Average
 97,Below Average,33.680421,33680421,979,Tuesday,Tuesdays,07-Feb-17,4  10  31  38  44  -  08  10,21.809971,21809971,0,No,No,1.346517,1346517,Below Average
 98,Below Average,33.719838,33719838,951,Tuesday,Tuesdays,01-Nov-16,6  10  20  29  37  -  01  09,15.3629,15362900,0,No,No,1.372058,1372058,Below Average
-99,Below Average,33.789459,33789459,985,Tuesday,Tuesdays,28-Feb-17,10  20  31  35  42  -  02  12,31.923442,31923442,0,No,No,1.278736,1278736,Below Average
+99,Below Average,33.789459,33789459,985,Tuesday,Tuesdays,28-Feb-17,10  20  31  35  42  -  02  12,31.923442,31923442,1,Yes (1),Yes (Single Ticket),1.278736,1278736,Below Average
 100,Below Average,33.806711,33806711,1141,Tuesday,Tuesdays,28-Aug-18,4  16  32  42  46  -  08  12,22.758649,22758649,0,No,No,1.134507,1134507,Below Average
 101,Below Average,33.812645,33812645,1021,Tuesday,Tuesdays,04-Jul-17,10  22  25  37  49  -  05  08,14.943,14943000,0,No,No,1.395314,1395314,Below Average
 102,Below Average,33.852395,33852395,1331,Tuesday,Tuesdays,23-Jun-20,2  12  19  46  49  -  01  08,34.732623,34732623,0,No,No,1.290532,1290532,Below Average
@@ -77,7 +77,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 112,Below Average,34.296353,34296353,1337,Tuesday,Tuesdays,14-Jul-20,11  22  30  37  47  -  09  10,24.013488,24013488,0,No,No,1.258767,1258767,Below Average
 113,Below Average,34.315303,34315303,1225,Tuesday,Tuesdays,18-Jun-19,12  24  37  40  44  -  03  07,22.579505,22579505,0,No,No,1.358255,1358255,Below Average
 114,Below Average,34.324989,34324989,1013,Tuesday,Tuesdays,06-Jun-17,20  22  25  37  40  -  03  07,14.8665,14866500,0,No,No,1.364809,1364809,Below Average
-115,Below Average,34.401192,34401192,1221,Tuesday,Tuesdays,04-Jun-19,9  31  32  39  41  -  02  08,22.504557,22504557,0,No,No,1.235873,1235873,Below Average
+115,Below Average,34.401192,34401192,1221,Tuesday,Tuesdays,04-Jun-19,9  31  32  39  41  -  02  08,22.504557,22504557,1,Yes (1),Yes (Single Ticket),1.235873,1235873,Below Average
 116,Below Average,34.47562,34475620,955,Tuesday,Tuesdays,15-Nov-16,7  15  36  42  48  -  03  07,22.092234,22092234,0,No,No,1.404829,1404829,Below Average
 117,Below Average,34.574977,34574977,1361,Tuesday,Tuesdays,06-Oct-20,4  21  36  41  47  -  09  11,15.4853,15485300,0,No,No,1.133059,1133059,Below Average
 118,Below Average,34.597435,34597435,1125,Tuesday,Tuesdays,03-Jul-18,1  12  15  29  48  -  03  05,39.091736,39091736,0,No,No,1.440795,1440795,Below Average
@@ -194,7 +194,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 229,Below Average,44.118297,44118297,1000,Friday,Fridays,21-Apr-17,2  13  16  22  49  -  04  05,30.153753,30153753,0,No,No,1.956983,1956983,Above Average
 230,Below Average,44.361347,44361347,1280,Friday,Fridays,27-Dec-19,1  7  22  26  35  -  05  10,33.089326,33089326,0,No,No,1.921052,1921052,Below Average
 231,Below Average,44.408647,44408647,1274,Friday,Fridays,06-Dec-19,1  3  27  39  46  -  01  10,14.3191,14319100,0,No,No,1.776203,1776203,Below Average
-232,Below Average,44.439491,44439491,1185,Tuesday,Tuesdays,29-Jan-19,14  24  26  32  39  -  03  08,75.051591,75051591,0,No,No,1.774795,1774795,Below Average
+232,Below Average,44.439491,44439491,1185,Tuesday,Tuesdays,29-Jan-19,14  24  26  32  39  -  03  08,75.051591,75051591,1,Yes (1),Yes (Single Ticket),1.774795,1774795,Below Average
 233,Below Average,44.558018,44558018,1024,Friday,Fridays,14-Jul-17,11  14  20  21  47  -  07  10,14.9005,14900500,0,No,No,1.85222,1852220,Below Average
 234,Below Average,44.639668,44639668,1110,Friday,Fridays,11-May-18,3  22  34  49  50  -  08  11,15.0042,15004200,0,No,No,1.639292,1639292,Below Average
 235,Below Average,44.74846,44748460,1206,Friday,Fridays,12-Apr-19,1  28  35  36  46  -  06  09,14.7016,14701600,0,No,No,1.526974,1526974,Below Average
@@ -237,7 +237,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 272,Below Average,46.951741,46951741,1081,Tuesday,Tuesdays,30-Jan-18,11  15  21  27  35  -  04  05,86.173606,86173606,0,No,No,2.039844,2039844,Above Average
 273,Below Average,46.965341,46965341,1178,Friday,Fridays,04-Jan-19,7  11  19  27  37  -  06  10,15.2286,15228600,0,No,No,2.192933,2192933,Above Average
 274,Below Average,47.026637,47026637,1338,Friday,Fridays,17-Jul-20,7  15  27  41  43  -  07  09,35.838894,35838894,0,No,No,1.911934,1911934,Below Average
-275,Below Average,47.058676,47058676,1030,Friday,Fridays,04-Aug-17,29  30  36  40  41  -  02  09,25.529274,25529274,0,No,No,1.540568,1540568,Below Average
+275,Below Average,47.058676,47058676,1030,Friday,Fridays,04-Aug-17,29  30  36  40  41  -  02  09,25.529274,25529274,1,Yes (1),Yes (Single Ticket),1.540568,1540568,Below Average
 276,Below Average,47.062543,47062543,1226,Friday,Fridays,21-Jun-19,5  8  9  25  39  -  03  07,32.775384,32775384,0,No,No,2.150438,2150438,Above Average
 277,Below Average,47.072026,47072026,962,Friday,Fridays,09-Dec-16,6  12  28  37  40  -  01  05,24.450957,24450957,0,No,No,1.991675,1991675,Above Average
 278,Below Average,47.072577,47072577,1296,Friday,Fridays,21-Feb-20,7  23  30  32  45  -  05  09,34.421724,34421724,0,No,No,2.082007,2082007,Above Average
@@ -284,7 +284,7 @@ Sales Order,Sales Above or Below Average,Draw Sales (m),Draw Sales,Draw Number,D
 319,Above Average,49.665963,49665963,1002,Friday,Fridays,28-Apr-17,14  20  25  30  39  -  02  08,48.309589,48309589,0,No,No,2.317399,2317399,Above Average
 320,Above Average,49.69942,49699420,1238,Friday,Fridays,02-Aug-19,13  22  33  44  50  -  02  05,43.958121,43958121,0,No,No,2.249954,2249954,Above Average
 321,Above Average,49.788887,49788887,1114,Friday,Fridays,25-May-18,13  15  16  28  41  -  04  05,50.089464,50089464,0,No,No,2.263436,2263436,Above Average
-322,Above Average,49.857736,49857736,1016,Friday,Fridays,16-Jun-17,15  17  38  41  42  -  09  12,44.150291,44150291,0,No,No,2.032191,2032191,Below Average
+322,Above Average,49.857736,49857736,1016,Friday,Fridays,16-Jun-17,15  17  38  41  42  -  09  12,44.150291,44150291,1,Yes (1),Yes (Single Ticket),2.032191,2032191,Below Average
 323,Above Average,49.955313,49955313,1260,Friday,Fridays,18-Oct-19,8  18  22  41  42  -  11  12,33.536983,33536983,0,No,No,2.177533,2177533,Above Average
 324,Above Average,49.996793,49996793,1354,Friday,Fridays,11-Sep-20,34  38  42  43  45  -  09  12,37.525275,37525275,0,No,No,1.915193,1915193,Below Average
 325,Above Average,49.998889,49998889,1108,Friday,Fridays,04-May-18,6  12  23  39  45  -  09  12,32.659632,32659632,0,No,No,2.205723,2205723,Above Average
