@@ -311,7 +311,7 @@ Sales Order,Sales Above or Below Average,Sales (m),Sales,Draw Number,Draw Day,Dr
 311,Above Average,22.406956,22406956,2277,Wednesday,Weekday (Wed),18-Oct-17,11  12  15  22  27  44  -  7,24.995407,24995407,0,No,No,163.074,163074,Above Average
 312,Above Average,22.407834,22407834,2326,Saturday,Weekend (Sat),07-Apr-18,1  4  31  33  52  55  -  13,9.561853,9561853,1,Yes (1),Yes (Single Ticket),95.207,95207,Below Average
 313,Above Average,22.43009,22430090,2314,Saturday,Weekend (Sat),24-Feb-18,2  11  35  40  48  55  -  7,5.283524,5283524,0,No,No,107.577,107577,Above Average
-314,Above Average,22.433536,22433536,2390,Saturday,Weekend (Sat),17-Nov-18,4  5  9  12  17  42  -  32,2.627216,2627216,2,Yes (2),Yes (Multiple Tickets),235.708,235708,Above Average
+314,Above Average,22.433536,22433536,2390,Saturday,Weekend (Sat),17-Nov-18,4  5  9  12  17  42  -  32,2.627216,2627216,2,Yes (2),Yes (Multiple Tickets),195.708,195708,Above Average
 315,Above Average,22.5,22500000,2400,Saturday,Weekend (Sat),22-Dec-18,4  15  17  24  32  56  -  31,7.5,7500000,2,Yes (2),Yes (Multiple Tickets),168.675,168675,Above Average
 316,Above Average,22.511502,22511502,2396,Saturday,Weekend (Sat),08-Dec-18,6  23  36  38  43  48  -  17,3.807614,3807614,2,Yes (2),Yes (Multiple Tickets),132.96,132960,Above Average
 317,Above Average,22.519766,22519766,2440,Saturday,Weekend (Sat),11-May-19,13  14  19  45  49  55  -  24,7.861134,7861134,0,No,No,109.108,109108,Above Average
@@ -340,19 +340,19 @@ Sales Order,Sales Above or Below Average,Sales (m),Sales,Draw Number,Draw Day,Dr
 340,Above Average,22.992648,22992648,2264,Saturday,Weekend (Sat),02-Sep-17,30  33  35  40  41  59  -  8,12.810334,12810334,0,No,No,91.32,91320,Below Average
 341,Above Average,23,23000000,2496,Saturday,Weekend (Sat),23-Nov-19,23  25  28  38  47  58  -  31,25,25000000,0,No,No,155.609,155609,Above Average
 342,Above Average,23.016568,23016568,2414,Saturday,Weekend (Sat),09-Feb-19,25  27  31  36  38  47  -  12,7.369767,7369767,0,No,No,130.123,130123,Above Average
-343,Above Average,23.01761,23017610,2466,Saturday,Weekend (Sat),10-Aug-19,5  8  9  17  23  29  -  49,10.861287,10861287,0,No,No,230.9,230900,Above Average
+343,Above Average,23.01761,23017610,2466,Saturday,Weekend (Sat),10-Aug-19,5  8  9  17  23  29  -  49,10.861287,10861287,0,No,No,200.9,200900,Above Average
 344,Above Average,23.017794,23017794,2408,Saturday,Weekend (Sat),19-Jan-19,11  15  17  22  31  52  -  45,7.361168,7361168,0,No,No,149.671,149671,Above Average
 345,Above Average,23.026866,23026866,2370,Saturday,Weekend (Sat),08-Sep-18,7  19  33  34  52  53  -  48,12.30843,12308430,0,No,No,105.223,105223,Above Average
 346,Above Average,23.041204,23041204,2300,Saturday,Weekend (Sat),06-Jan-18,18  28  31  32  44  51  -  50,8.337171,8337171,0,No,No,118.235,118235,Above Average
 347,Above Average,23.044424,23044424,2236,Saturday,Weekend (Sat),27-May-17,20  22  31  39  41  54  -  33,3.494644,3494644,0,No,No,95.806,95806,Below Average
 348,Above Average,23.04929,23049290,2246,Saturday,Weekend (Sat),01-Jul-17,2  19  36  52  54  59  -  6,5.481888,5481888,0,No,No,85.337,85337,Below Average
 349,Above Average,23.056916,23056916,2556,Saturday,Weekend (Sat),20-Jun-20,7  21  26  30  40  48  -  13,10.962695,10962695,0,No,No,155.677,155677,Above Average
-350,Above Average,23.078374,23078374,2224,Saturday,Weekend (Sat),15-Apr-17,8  10  16  19  23  31  -  48,3.421655,3421655,1,Yes (1),Yes (Single Ticket),231.732,231732,Above Average
-351,Above Average,23.080172,23080172,2278,Saturday,Weekend (Sat),21-Oct-17,3  31  37  41  44  59  -  32,3.500729,3500729,1,Yes (1),Yes (Single Ticket),107.926,107926,Above Average
-352,Above Average,23.081,23081000,2250,Saturday,Weekend (Sat),15-Jul-17,7  8  14  47  56  58  -  23,8.270807,8270807,0,No,No,108.287,108287,Above Average
-353,Above Average,23.082954,23082954,2294,Saturday,Weekend (Sat),16-Dec-17,22  25  35  45  46  57  -  14,17.371932,17371932,0,No,No,104.291,104291,Below Average
+350,Above Average,23.078374,23078374,2224,Saturday,Weekend (Sat),15-Apr-17,8  10  16  19  23  31  -  48,3.421655,3421655,1,Yes (1),Yes (Single Ticket),181.732,181732,Above Average
+351,Above Average,23.080172,23080172,2278,Saturday,Weekend (Sat),21-Oct-17,3  31  37  41  44  59  -  32,3.500729,3500729,1,Yes (1),Yes (Single Ticket),117.926,117926,Above Average
+352,Above Average,23.081,23081000,2250,Saturday,Weekend (Sat),15-Jul-17,7  8  14  47  56  58  -  23,8.270807,8270807,0,No,No,118.287,118287,Above Average
+353,Above Average,23.082954,23082954,2294,Saturday,Weekend (Sat),16-Dec-17,22  25  35  45  46  57  -  14,17.371932,17371932,0,No,No,114.291,114291,Below Average
 354,Above Average,23.09078,23090780,2270,Saturday,Weekend (Sat),23-Sep-17,17  18  26  39  54  56  -  57,9.807442,9807442,0,No,No,95.004,95004,Below Average
-355,Above Average,23.091986,23091986,2372,Saturday,Weekend (Sat),15-Sep-18,25  42  48  50  55  58  -  44,16.447318,16447318,0,No,No,84.958,84958,Below Average
+355,Above Average,23.091986,23091986,2372,Saturday,Weekend (Sat),15-Sep-18,25  42  48  50  55  58  -  44,16.447318,16447318,0,No,No,104.958,104958,Below Average
 356,Above Average,23.118742,23118742,2348,Saturday,Weekend (Sat),23-Jun-18,1  10  15  25  31  47  -  53,17.196314,17196314,1,Yes (1),Yes (Single Ticket),181.19,181190,Above Average
 357,Above Average,23.124914,23124914,2470,Saturday,Weekend (Sat),24-Aug-19,27  36  39  45  46  55  -  38,7.360035,7360035,0,No,No,104.773,104773,Above Average
 358,Above Average,23.125556,23125556,2600,Saturday,Weekend (Sat),21-Nov-20,23  32  37  49  54  57  -  47,7.743072,7743072,0,No,No,95.822,95822,Below Average
@@ -388,19 +388,19 @@ Sales Order,Sales Above or Below Average,Sales (m),Sales,Draw Number,Draw Day,Dr
 388,Above Average,23.94569,23945690,2220,Saturday,Weekend (Sat),01-Apr-17,1  2  11  23  25  54  -  14,8.647634,8647634,0,No,No,171.014,171014,Above Average
 389,Above Average,23.966954,23966954,2374,Saturday,Weekend (Sat),22-Sep-18,5  16  18  20  25  55  -  36,20.125455,20125455,0,No,No,160.456,160456,Above Average
 390,Above Average,23.985282,23985282,2222,Saturday,Weekend (Sat),08-Apr-17,14  23  36  45  47  50  -  21,13.409218,13409218,0,No,No,112.583,112583,Above Average
-391,Above Average,23.989648,23989648,2182,Saturday,Weekend (Sat),19-Nov-16,5  7  8  16  28  37  -  40,5.563528,5563528,0,No,No,227.778,227778,Above Average
+391,Above Average,23.989648,23989648,2182,Saturday,Weekend (Sat),19-Nov-16,5  7  8  16  28  37  -  40,5.563528,5563528,0,No,No,197.778,197778,Above Average
 392,Above Average,24,24000000,2578,Saturday,Weekend (Sat),05-Sep-20,3  11  28  36  38  47  -  32,20,20000000,0,No,No,203.021,203021,Above Average
 393,Above Average,24,24000000,2596,Saturday,Weekend (Sat),07-Nov-20,3  33  45  50  52  56  -  44,20,20000000,0,No,No,132.952,132952,Above Average
 394,Above Average,24.040068,24040068,2312,Saturday,Weekend (Sat),17-Feb-18,5  8  9  10  38  53  -  56,18.139352,18139352,1,Yes (1),Yes (Single Ticket),161.735,161735,Above Average
 395,Above Average,24.084044,24084044,2204,Saturday,Weekend (Sat),04-Feb-17,6  9  27  30  40  50  -  22,5.61004,5610040,0,No,No,151.236,151236,Above Average
 396,Above Average,24.120002,24120002,2210,Saturday,Weekend (Sat),25-Feb-17,18  24  34  38  41  49  -  26,5.590553,5590553,0,No,No,125.598,125598,Above Average
-397,Above Average,24.163538,24163538,2304,Saturday,Weekend (Sat),20-Jan-18,2  10  19  28  29  31  -  47,8.6132,8613200,2,Yes (2),Yes (Multiple Tickets),223.928,223928,Above Average
+397,Above Average,24.163538,24163538,2304,Saturday,Weekend (Sat),20-Jan-18,2  10  19  28  29  31  -  47,8.6132,8613200,2,Yes (2),Yes (Multiple Tickets),203.928,203928,Above Average
 398,Above Average,24.1803,24180300,2196,Saturday,Weekend (Sat),07-Jan-17,8  16  33  36  45  51  -  38,5.689783,5689783,0,No,No,119.559,119559,Above Average
 399,Above Average,24.259924,24259924,2180,Saturday,Weekend (Sat),12-Nov-16,3  11  16  31  44  55  -  8,5.672414,5672414,1,Yes (1),Yes (Single Ticket),164.269,164269,Above Average
 400,Above Average,24.274362,24274362,2422,Saturday,Weekend (Sat),09-Mar-19,22  27  35  40  46  52  -  2,11.252974,11252974,0,No,No,107.163,107163,Above Average
 401,Above Average,24.302116,24302116,2202,Saturday,Weekend (Sat),28-Jan-17,5  21  23  34  43  45  -  20,4.369877,4369877,2,Yes (2),Yes (Multiple Tickets),152.687,152687,Above Average
 402,Above Average,24.342474,24342474,2206,Saturday,Weekend (Sat),11-Feb-17,15  18  23  42  43  52  -  28,10.376181,10376181,0,No,No,123.921,123921,Above Average
-403,Above Average,24.34996,24349960,2438,Saturday,Weekend (Sat),04-May-19,16  17  35  39  40  55  -  41,4.383861,4383861,0,No,No,106.838,106838,Above Average
+403,Above Average,24.34996,24349960,2438,Saturday,Weekend (Sat),04-May-19,16  17  35  39  40  55  -  41,4.383861,4383861,0,No,No,136.838,136838,Above Average
 404,Above Average,24.352374,24352374,2230,Saturday,Weekend (Sat),06-May-17,5  34  36  38  39  48  -  30,14.794798,14794798,0,No,No,120.926,120926,Above Average
 405,Above Average,24.376722,24376722,2430,Saturday,Weekend (Sat),06-Apr-19,5  8  22  33  36  43  -  21,11.39999,11399990,1,Yes (1),Yes (Single Ticket),163.525,163525,Above Average
 406,Above Average,24.384794,24384794,2178,Saturday,Weekend (Sat),05-Nov-16,8  12  16  26  45  49  -  27,1.807674,1807674,2,Yes (2),Yes (Multiple Tickets),178.756,178756,Above Average
@@ -429,12 +429,12 @@ Sales Order,Sales Above or Below Average,Sales (m),Sales,Draw Number,Draw Day,Dr
 429,Above Average,25.618364,25618364,2276,Saturday,Weekend (Sat),14-Oct-17,6  22  40  43  47  58  -  42,22.673298,22673298,0,No,No,117.611,117611,Above Average
 430,Above Average,25.665076,25665076,2526,Saturday,Weekend (Sat),07-Mar-20,5  29  35  36  40  44  -  42,11.578001,11578001,0,No,No,145.091,145091,Above Average
 431,Above Average,26.159846,26159846,2516,Saturday,Weekend (Sat),01-Feb-20,7  42  44  47  58  59  -  52,11.574206,11574206,0,No,No,117.969,117969,Above Average
-432,Above Average,26.22638,26226380,2168,Saturday,Weekend (Sat),01-Oct-16,4  5  18  28  43  58  -  55,14.49459,14494590,0,No,No,158.348,158348,Above Average
+432,Above Average,26.22638,26226380,2168,Saturday,Weekend (Sat),01-Oct-16,4  5  18  28  43  58  -  55,14.49459,14494590,0,No,No,188.348,188348,Above Average
 433,Above Average,26.453728,26453728,2234,Saturday,Weekend (Sat),20-May-17,7  8  13  29  43  53  -  16,23.03673,23036730,1,Yes (1),Yes (Single Ticket),166.969,166969,Above Average
 434,Above Average,27.581122,27581122,2170,Saturday,Weekend (Sat),08-Oct-16,11  17  20  32  40  42  -  27,19.422626,19422626,0,No,No,171.366,171366,Above Average
 435,Above Average,28.130718,28130718,2172,Saturday,Weekend (Sat),15-Oct-16,14  16  25  42  46  51  -  53,24.226822,24226822,0,No,No,134.025,134025,Above Average
 436,Above Average,28.309662,28309662,2602,Saturday,Weekend (Sat),28-Nov-20,9  27  35  45  46  57  -  32,12.032594,12032594,0,No,No,146.104,146104,Above Average
-437,Above Average,31.81582,31815820,2296,Saturday,Weekend (Sat),23-Dec-17,20  32  36  44  47  56  -  41,22.331857,22331857,0,No,No,145.589,145589,Above Average
-438,Above Average,34.233772,34233772,2192,Saturday,Weekend (Sat),24-Dec-16,16  19  29  46  54  58  -  12,20.765992,20765992,0,No,No,151.442,151442,Above Average
-439,Above Average,34.554072,34554072,2194,Saturday,Weekend (Sat),31-Dec-16,10  17  35  41  51  54  -  25,26.293902,26293902,0,No,No,152.415,152415,Above Average
+437,Above Average,31.81582,31815820,2296,Saturday,Weekend (Sat),23-Dec-17,20  32  36  44  47  56  -  41,22.331857,22331857,0,No,No,155.589,155589,Above Average
+438,Above Average,34.233772,34233772,2192,Saturday,Weekend (Sat),24-Dec-16,16  19  29  46  54  58  -  12,20.765992,20765992,0,No,No,181.442,181442,Above Average
+439,Above Average,34.554072,34554072,2194,Saturday,Weekend (Sat),31-Dec-16,10  17  35  41  51  54  -  25,26.293902,26293902,0,No,No,172.415,172415,Above Average
 209,Average Sales,18.555,18555000,0,Average Sales,Average Sales,,,29.9,29900000,,,Average Sales,239.9,239900,
